@@ -1,0 +1,348 @@
+Report for Institution Code MSU, Resource msu_mammals_birds_vertpaleo
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 338
+Number of records retrieved in searches: 4097
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 17
+	Country: Canada ; Times: 8
+	Country: Chile ; Times: 11
+	Country: Colombia ; Times: 89
+	Country: Czech Republic ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 21
+	Country: Guatemala ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 26
+	Country: Turkey ; Times: 1
+	Country: United Kingdom ; Times: 9
+	Country: United States ; Times: 142
+	Country: Unknown ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 26
+	Date: 2014-09-02 ; Times: 34
+	Date: 2014-09-03 ; Times: 12
+	Date: 2014-09-04 ; Times: 2
+	Date: 2014-09-05 ; Times: 13
+	Date: 2014-09-06 ; Times: 6
+	Date: 2014-09-08 ; Times: 1
+	Date: 2014-09-09 ; Times: 10
+	Date: 2014-09-10 ; Times: 8
+	Date: 2014-09-11 ; Times: 7
+	Date: 2014-09-12 ; Times: 5
+	Date: 2014-09-14 ; Times: 1
+	Date: 2014-09-15 ; Times: 19
+	Date: 2014-09-16 ; Times: 6
+	Date: 2014-09-17 ; Times: 15
+	Date: 2014-09-18 ; Times: 8
+	Date: 2014-09-19 ; Times: 20
+	Date: 2014-09-20 ; Times: 11
+	Date: 2014-09-21 ; Times: 3
+	Date: 2014-09-22 ; Times: 53
+	Date: 2014-09-23 ; Times: 38
+	Date: 2014-09-24 ; Times: 40
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 4
+	Query: "michigan canis lupus mappable:1" ; Times: 2
+	Query: "recordedby:heinrich" ; Times: 1
+	Query: "class:Mammalia hystricidae skulls" ; Times: 1
+	Query: "Alabama AND mammalia" ; Times: 1
+	Query: "nasua" ; Times: 5
+	Query: "canis lupus type:specimen (Michigan) mappable:1" ; Times: 1
+	Query: "genus:tursiops" ; Times: 1
+	Query: "stateprovince:"Connecticut" year <= 2014" ; Times: 1
+	Query: "michigan canis latrans (michigan OR wisconsin) mappable:1" ; Times: 1
+	Query: "Tyrannus verticalis institutioncode:MSU" ; Times: 3
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "isthmomys" ; Times: 1
+	Query: "sylvilagus aquaticus stateprovince:"Alabama"" ; Times: 1
+	Query: "Mammalia country:"Venezuela"" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "michigan canis lupus type:specimen mappable:1" ; Times: 1
+	Query: "Alabama AND mammalia AND United States year >= 1900 year <= 2000" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "genus nasua" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "distance(location,geopoint(17.035777250427195,-96.87263488769531))<100000" ; Times: 1
+	Query: "distance(location,geopoint(17.035777250427195,-96.87263488769531))<8071" ; Times: 1
+	Query: "class:Mammalia genus:Tursiops" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "giraffa" ; Times: 2
+	Query: "Nasua narica" ; Times: 1
+	Query: "dromiciops country:"chile"" ; Times: 2
+	Query: "alouatta palliata" ; Times: 2
+	Query: "institutioncode:msu" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "Eptesicus country:"Ecuador" (innoxius)" ; Times: 1
+	Query: "Dromiciops" ; Times: 1
+	Query: "michigan canis latrans mappable:1" ; Times: 1
+	Query: "mazama" ; Times: 1
+	Query: "canis lupus type:specimen mappable:1" ; Times: 1
+	Query: "alouatta institutioncode:MSU" ; Times: 1
+	Query: "skin (coendou OR sphiggurus OR chaetomys)" ; Times: 4
+	Query: "class:Mammalia lutra" ; Times: 3
+	Query: ""Lycaon pictus" institutioncode:msu (zoo)" ; Times: 1
+	Query: "Alcelaphus buselaphus" ; Times: 1
+	Query: ""Ursus americanus" institutioncode:msu (zoo)" ; Times: 1
+	Query: "6596" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "class:Mammalia catalognumber:35749" ; Times: 2
+	Query: "Lasionycteris noctivagans Nevada" ; Times: 2
+	Query: "lonchophylla" ; Times: 2
+	Query: "mammalia AND Alabama year >= 1900 year <= 2000" ; Times: 1
+	Query: "TAMANDUA TETRADACTYLA" ; Times: 2
+	Query: "Eschrichtiidae" ; Times: 1
+	Query: "country:"Ethiopia"" ; Times: 1
+	Query: "ursus americanus (michigan OR wisconsin) mappable:1" ; Times: 2
+	Query: "genus:Phoca" ; Times: 2
+	Query: "type:specimen specificepithet:arizonae genus:Sigmodon year >= 1950 year <= 2014 mappable:1" ; Times: 2
+	Query: "murie" ; Times: 2
+	Query: "lynx rufus (michigan OR wisconsin) mappable:1" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "canis latrans (michigan OR wisconsin) mappable:1" ; Times: 1
+	Query: "felis concolor concolor" ; Times: 1
+	Query: "type:specimen country:"ecuador" specificepithet:brasiliensis genus:sylvilagus year <= 2014" ; Times: 2
+	Query: "Tupaia" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "michigan ursus americanus mappable:1" ; Times: 2
+	Query: "PROCYON type:specimen" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 3
+	Query: "lagopus type:specimen" ; Times: 1
+	Query: "loxodonta skull" ; Times: 2
+	Query: "macrotus californicus" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:mexicana genus:Marmosa" ; Times: 1
+	Query: "stateprovince:"Connecticut"" ; Times: 1
+	Query: "Pavo muticus" ; Times: 1
+	Query: "agouti paca" ; Times: 2
+	Query: "Lonchophylla dekeyseri mappable:1" ; Times: 1
+	Query: "atherurus macrourus" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+	Query: "Mimon crenulatum" ; Times: 1
+	Query: "(coendou OR chaetomys OR sphiggurus)" ; Times: 1
+	Query: "wisconsin canis latrans mappable:1" ; Times: 1
+	Query: "eptesicus brasiliensis" ; Times: 1
+	Query: "hystricidae; skull" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 5
+	Query: "microtus pennsylvanicus new hampshire" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "alouatta institutioncode:msu" ; Times: 2
+	Query: "martes pennanti" ; Times: 1
+	Query: "dromiciops" ; Times: 4
+	Query: "Aquila chrysaetos country:"Mexico"" ; Times: 2
+	Query: "Desmodus rotundus country:"Brazil"" ; Times: 1
+	Query: "stateprovince:"alabama" class:mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "(coendou OR sphiggurus OR chaetomys)" ; Times: 4
+	Query: "mammalia AND Alabama" ; Times: 2
+	Query: "michigan ursus americanus (michigan OR wisconsin) mappable:1" ; Times: 1
+	Query: "tamandua" ; Times: 1
+	Query: "provocax" ; Times: 3
+	Query: "Cebus" ; Times: 1
+	Query: "class:Mammalia lutra lutra" ; Times: 3
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "panthera onca colombia" ; Times: 1
+	Query: "NASUA" ; Times: 1
+	Query: "oryx" ; Times: 1
+	Query: "ursus maritimus" ; Times: 4
+	Query: "didelphis" ; Times: 2
+	Query: "Peromyscus attwateri" ; Times: 1
+	Query: "Nasua nasua country:"Colombia"" ; Times: 1
+	Query: "nasua nasua" ; Times: 3
+	Query: "sagehen creek" ; Times: 1
+	Query: "phyllotis darwini" ; Times: 2
+	Query: "crocuta" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 3
+	Query: "distance(location,geopoint(17.046281225389052,-96.81632995605469))<4234.905488953833" ; Times: 1
+	Query: "rabbit" ; Times: 1
+	Query: "Sylvilagus brasiliensis" ; Times: 1
+	Query: "lynx rufus" ; Times: 3
+	Query: "panthera onca" ; Times: 8
+	Query: ""skull" specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "canis lupus (michigan OR wisconsin) mappable:1" ; Times: 1
+	Query: "chironectes minimus" ; Times: 1
+	Query: "country:"Colombia" genus:potos" ; Times: 71
+	Query: "dog" ; Times: 2
+	Query: "lontra" ; Times: 1
+	Query: "distance(location,geopoint(16.98324853069064,-96.822509765625))<100000" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "pan troglodytes" ; Times: 1
+	Query: "Myotis keaysi mappable:1" ; Times: 7
+	Query: "Lynx canadensis tissues" ; Times: 2
+	Query: "type:specimen country:"colombia" specificepithet:brasiliensis genus:sylvilagus year <= 2014" ; Times: 3
+	Query: "distance(location,geopoint(17.048907126890708,-96.82182312011719))<4234.905488953833" ; Times: 1
+	Query: ""Panthera leo" institutioncode:msu (zoo)" ; Times: 2
+	Query: "Dipodomys distance(location,geopoint(38.89103282648846,-117.83935546875))<100000" ; Times: 1
+	Query: "Nasua narica country:"Colombia"" ; Times: 1
+	Query: "genus:Cerdocyon class:Mammalia" ; Times: 1
+	Query: ""Ursus americanus" institutioncode:msu" ; Times: 1
+	Query: "Saguinus institutioncode:MSU" ; Times: 1
+	Query: "great auk" ; Times: 1
+	Query: "mouse" ; Times: 1
+	Query: "Antrozous pallidus Nevada" ; Times: 1
+	Query: "Nothoprocta perdicaria" ; Times: 1
+	Query: "entelodon" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 2
+	Query: "erethizontidae" ; Times: 1
+	Query: "Mongolia Mammalia AND (NOT MSB)" ; Times: 1
+	Query: "Carollia brevicauda mappable:1" ; Times: 1
+	Query: "loxodonta" ; Times: 2
+	Query: ""Panthera leo"" ; Times: 2
+	Query: "Lynx rufus" ; Times: 3
+	Query: "catalognumber:7428 institutioncode:msu" ; Times: 1
+	Query: "genus:Rangifer" ; Times: 1
+	Query: "Taphozous" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "distance(location,geopoint(16.98324853069064,-96.822509765625))<11691" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "stateprovince:"Alabama" class:Mammalia" ; Times: 1
+	Query: "Cynocephalidae" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:cinereus genus:lasiurus" ; Times: 1
+	Query: "stateprovince:"Montana" genus:Sorex" ; Times: 1
+	Query: "Macrophyllum macrophyllum" ; Times: 2
+	Query: ""skull" specificepithet:carolinensis genus:Sciurus (skull)" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "mammalia AND Lane County AND Oregon" ; Times: 1
+	Query: "Eptesicus brasiliensis country:"Ecuador"" ; Times: 1
+	Query: "Alouatta" ; Times: 7
+	Query: "family: erethizontidae" ; Times: 2
+	Query: "type:specimen specificepithet:latrans genus:Canis institutioncode:MSU" ; Times: 1
+	Query: "callithrix" ; Times: 2
+	Query: "distance(location,geopoint(16.98324853069064,-96.822509765625))<8767" ; Times: 1
+	Query: "type:specimen country:"Bangladesh"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 70 (out of 164 download events in this period)
+Total number of records downloaded: 19514 (out of 2860493 records downloaded for all resources in this period)
+Total number of unique records downloaded: 11720
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Brazil ; Times: 5
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Mexico ; Times: 15
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 36
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 1
+	Date: 2014-09-02 ; Times: 3
+	Date: 2014-09-03 ; Times: 3
+	Date: 2014-09-04 ; Times: 3
+	Date: 2014-09-05 ; Times: 1
+	Date: 2014-09-07 ; Times: 1
+	Date: 2014-09-09 ; Times: 1
+	Date: 2014-09-10 ; Times: 1
+	Date: 2014-09-11 ; Times: 11
+	Date: 2014-09-12 ; Times: 11
+	Date: 2014-09-13 ; Times: 1
+	Date: 2014-09-14 ; Times: 1
+	Date: 2014-09-15 ; Times: 5
+	Date: 2014-09-17 ; Times: 3
+	Date: 2014-09-18 ; Times: 1
+	Date: 2014-09-19 ; Times: 5
+	Date: 2014-09-20 ; Times: 5
+	Date: 2014-09-22 ; Times: 4
+	Date: 2014-09-23 ; Times: 4
+	Date: 2014-09-24 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "PreservedSpecimen genus:zoothera" ; Times: 1
+	Query: "mammalia AND Alaska" ; Times: 1
+	Query: "type:specimen (zoothera)" ; Times: 1
+	Query: "microtus pennsylvanicus new hampshire" ; Times: 1
+	Query: "Gavia immer type:specimen" ; Times: 1
+	Query: "nasua" ; Times: 1
+	Query: "testudines (bone OR skeleton OR shell OR skull)" ; Times: 1
+	Query: "Thamnophilus" ; Times: 1
+	Query: "Desmodus rotundus country:"Brazil"" ; Times: 1
+	Query: "chiroptera country:"brazil"" ; Times: 1
+	Query: "type:specimen stateprovince:"NEW MEXICO" class:AVES year >= 1854 year <= 1955" ; Times: 1
+	Query: "mammalia AND Alabama" ; Times: 1
+	Query: "mammalia AND Arkansas" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "buteo jamaicensis borealis" ; Times: 1
+	Query: "sigmodon" ; Times: 1
+	Query: "icterus gularis" ; Times: 1
+	Query: "ursus americanus (michigan OR wisconsin) mappable:1" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 2
+	Query: "NASUA" ; Times: 1
+	Query: "Mammalia country:"Venezuela"" ; Times: 1
+	Query: "erethizontidae" ; Times: 1
+	Query: "mammalia AND Oregon" ; Times: 1
+	Query: "habia rubica" ; Times: 1
+	Query: "lynx rufus (michigan OR wisconsin) mappable:1" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:fuscipes genus:neotoma" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "canis latrans (michigan OR wisconsin) mappable:1" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "larus delawarensis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Falco peregrinus country:"united states" year >= 1830 year <= 1940" ; Times: 1
+	Query: "type:specimen stateprovince:"ARIZONA" class:AVES year >= 1854 year <= 1955" ; Times: 1
+	Query: "sorex" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "type:specimen specificepithet:arizonae genus:Sigmodon year >= 1950 mappable:1" ; Times: 1
+	Query: "Sorex veraepacis" ; Times: 1
+	Query: "falco peregrinus type:specimen country:"United States" year >= 1800 year <= 1940" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "PreservedSpecimen genus:turdus" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "type:specimen stateprovince:"TEXAS" class:AVES year >= 1854 year <= 1955" ; Times: 1
+	Query: "mammalia AND California" ; Times: 1
+	Query: "catharus fuscescens" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "canis lupus (michigan OR wisconsin) mappable:1" ; Times: 1
+	Query: "Buteo jamaicensis borealis type:specimen country:"United States"" ; Times: 1
+	Query: "specificepithet:arizonae genus:Sigmodon year >= 1950 mappable:1" ; Times: 2
+	Query: "mammalia AND Lane County AND Oregon" ; Times: 1
+	Query: "agouti paca" ; Times: 1
+	Query: "peromyscus" ; Times: 2
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "aphelocoma" ; Times: 1
+	Query: "caenolestes" ; Times: 2
+	Query: "Mimon crenulatum" ; Times: 1
+	Query: "specificepithet:arizonae genus:Sigmodon year >= 1950" ; Times: 2
+	Query: "zonotrichia capensis country:"Argentina" year >= 1960 year <= 2014" ; Times: 1
+	Query: "stateprovince:"Montana" genus:Sorex" ; Times: 1
+	Query: "callithrix" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "distance(location,geopoint(16.98324853069064,-96.822509765625))<8767" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1250
+Total number of records retrieved from searches: 16714
+Number of download events that retrieved data from the resource: 267
+Total number of records downloaded: 48568
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1250
+Total number of records retrieved from searches: 16714
+Number of download events that retrieved data from the resource: 267
+Total number of records downloaded: 48568
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
