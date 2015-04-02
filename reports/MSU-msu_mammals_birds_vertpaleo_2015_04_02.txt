@@ -1,0 +1,291 @@
+Report for Institution Code MSU, Resource msu_mammals_birds_vertpaleo
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 171
+Number of records retrieved in searches: 1854
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Bolivia ; Times: 6
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Costa Rica ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Fiji ; Times: 1
+	Country: France ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 121
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 4
+	Date: 2015-03-02 ; Times: 9
+	Date: 2015-03-03 ; Times: 10
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-05 ; Times: 24
+	Date: 2015-03-06 ; Times: 8
+	Date: 2015-03-07 ; Times: 2
+	Date: 2015-03-08 ; Times: 2
+	Date: 2015-03-09 ; Times: 6
+	Date: 2015-03-10 ; Times: 3
+	Date: 2015-03-11 ; Times: 5
+	Date: 2015-03-12 ; Times: 3
+	Date: 2015-03-13 ; Times: 1
+	Date: 2015-03-14 ; Times: 4
+	Date: 2015-03-15 ; Times: 6
+	Date: 2015-03-16 ; Times: 13
+	Date: 2015-03-17 ; Times: 5
+	Date: 2015-03-18 ; Times: 5
+	Date: 2015-03-19 ; Times: 7
+	Date: 2015-03-20 ; Times: 12
+	Date: 2015-03-22 ; Times: 1
+	Date: 2015-03-23 ; Times: 3
+	Date: 2015-03-24 ; Times: 2
+	Date: 2015-03-25 ; Times: 8
+	Date: 2015-03-26 ; Times: 7
+	Date: 2015-03-27 ; Times: 6
+	Date: 2015-03-28 ; Times: 8
+	Date: 2015-03-29 ; Times: 1
+	Date: 2015-03-30 ; Times: 3
+	Date: 2015-03-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "akodon" ; Times: 2
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "Taxidea" ; Times: 1
+	Query: "tigrillo" ; Times: 1
+	Query: "reptiles Jerez" ; Times: 1
+	Query: "ovis canadensis" ; Times: 2
+	Query: "27989 msu" ; Times: 1
+	Query: "Sayornis saya type:specimen county:"Ventura" stateprovince:"California"" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Cyrtonyx montezumae country:"mexico" year >= 1960 year <= 2015" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "bassariscus" ; Times: 1
+	Query: "canis simensis" ; Times: 5
+	Query: "Anoura" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Mustela nivalis" ; Times: 1
+	Query: "spilogale" ; Times: 1
+	Query: "mormoops" ; Times: 2
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "genus:Didelphis year >= 1700 year <= 1970" ; Times: 1
+	Query: "florence arizona" ; Times: 2
+	Query: "lamprotornis australis" ; Times: 1
+	Query: "vulpes velox" ; Times: 2
+	Query: "stateprovince:"Rhode Island"" ; Times: 1
+	Query: "cavia aperea" ; Times: 3
+	Query: "Panthera onca mexico" ; Times: 1
+	Query: "Odobenidae" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Myotis californicus stateprovince:"Nevada"" ; Times: 1
+	Query: "Marmota" ; Times: 1
+	Query: "Microdipodops Nevada" ; Times: 1
+	Query: "Cercopithecus" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: "Equus" ; Times: 1
+	Query: "myotis sodalis" ; Times: 1
+	Query: "peromyscus melanotis" ; Times: 1
+	Query: "owens mexico (reptiles)" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:vermivorus genus:helmitheros year >= 1800 year <= 2015" ; Times: 1
+	Query: "dendrortyx macroura jalisco" ; Times: 1
+	Query: "rana type:specimen institutioncode:Msu" ; Times: 1
+	Query: "Lycaon pictus institutioncode:msu" ; Times: 1
+	Query: "mitu brazil" ; Times: 1
+	Query: "8093 mellivora" ; Times: 2
+	Query: "irena puella type:specimen country:"india"" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 2
+	Query: "Mephitis macroura" ; Times: 1
+	Query: "Elephantidae" ; Times: 2
+	Query: "genus:proteles" ; Times: 1
+	Query: "type:specimen recordedby:Primrose" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+	Query: "27989 panthera pardus" ; Times: 1
+	Query: "CALIDRIS MAURI (MICHIGAN)" ; Times: 1
+	Query: "specificepithet:europaeus genus:Lepus" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Oligoryzomys nigripes" ; Times: 1
+	Query: "mammalia stateprovince:"MICHOACAN" country:"mexico" year <= 2015 mappable:1" ; Times: 1
+	Query: "abrocoma" ; Times: 3
+	Query: "Ortalis brazil" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "chiroptera ghana" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen country:"Nepal"" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "vulpes zerda" ; Times: 1
+	Query: "santander" ; Times: 2
+	Query: "Procyon lotor" ; Times: 2
+	Query: "pteronotus parnellii" ; Times: 1
+	Query: "Canis simensis" ; Times: 5
+	Query: "oklahoma murray" ; Times: 1
+	Query: "isle royale" ; Times: 1
+	Query: "specificepithet:mullah genus:Acomys" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Connecticut"" ; Times: 1
+	Query: "rufipes" ; Times: 1
+	Query: "specificepithet:curtatus genus:Lemmiscus (Skeleton)" ; Times: 1
+	Query: "(yahnke)" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "aotus" ; Times: 1
+	Query: "nectarinia zeylonica" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:discolor genus:dendroica year >= 1800 year <= 1899" ; Times: 1
+	Query: "caenolestes fuliginosus" ; Times: 2
+	Query: "sarcoramphus papa (Brazil)" ; Times: 1
+	Query: "Abrocoma" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Canis adustus country:"Ethiopia"" ; Times: 1
+	Query: "Myotis melanorhinus" ; Times: 1
+	Query: "Wyoming Odocoileus hemionus" ; Times: 1
+	Query: "Stigmatura budytoides" ; Times: 1
+	Query: "GUATEMALA" ; Times: 1
+	Query: "skin "mephitis mephitis" type:specimen" ; Times: 1
+	Query: "type:specimen genus:canis (skull OR mandible) AND (NOT latrans NOT lupus)" ; Times: 1
+	Query: "United States canis lupus mappable:1" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "CALUROMYS LANATUS" ; Times: 4
+	Query: "Castor canadensis (measurements OR length OR weight)" ; Times: 1
+	Query: "symbos" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "philander opossum" ; Times: 2
+	Query: "panthera pardus" ; Times: 23
+	Query: "specificepithet:fulviventer genus:Sigmodon" ; Times: 5
+	Query: "ranidae type:specimen institutioncode:Msu (NOT ilium)" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "chiroptera country:"Brazil"" ; Times: 2
+	Query: "country:"united states" specificepithet:europaeus genus:Lepus" ; Times: 1
+	Query: "specificepithet:mastacalis genus:rhipidomys" ; Times: 1
+	Query: "Odocoileus virginianus year >= 1990 year <= 2015" ; Times: 1
+	Query: "St. Tammany Parish" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 298 download events in this period)
+Total number of records downloaded: 9585 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 8943
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 7
+	Country: Belgium ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 4
+	Country: Costa Rica ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: United States ; Times: 29
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 7
+	Date: 2015-03-03 ; Times: 2
+	Date: 2015-03-04 ; Times: 4
+	Date: 2015-03-05 ; Times: 2
+	Date: 2015-03-06 ; Times: 4
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-13 ; Times: 1
+	Date: 2015-03-16 ; Times: 6
+	Date: 2015-03-17 ; Times: 1
+	Date: 2015-03-18 ; Times: 4
+	Date: 2015-03-19 ; Times: 4
+	Date: 2015-03-20 ; Times: 2
+	Date: 2015-03-22 ; Times: 1
+	Date: 2015-03-23 ; Times: 4
+	Date: 2015-03-24 ; Times: 4
+	Date: 2015-03-26 ; Times: 4
+	Date: 2015-03-27 ; Times: 2
+	Date: 2015-03-30 ; Times: 4
+	Date: 2015-03-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Nicaragua" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Melanerpes chrysogenys" ; Times: 1
+	Query: "blarina stateprovince:"Kansas"" ; Times: 1
+	Query: "Cacicus" ; Times: 1
+	Query: "Psarocolius" ; Times: 1
+	Query: "chiroptera uganda" ; Times: 1
+	Query: "chiroptera south Africa" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "chiroptera zambia" ; Times: 1
+	Query: "momotidae type:specimen" ; Times: 1
+	Query: "Rhynchocyon" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "mammalia stateprovince:"QUERETARO" country:"mexico" year <= 2015 mappable:1" ; Times: 1
+	Query: "mammalia stateprovince:"guanajuato" country:"mexico" year <= 2015 mappable:1" ; Times: 2
+	Query: "hypsiglena torquata" ; Times: 1
+	Query: "canidae (weight OR mass)" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "type:specimen genus:canis (skull OR mandible) AND (NOT latrans NOT lupus)" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Aves country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "Calothorax lucifer" ; Times: 1
+	Query: "bufonidae type:specimen institutioncode:Msu AND (NOT fossilspeicmen)" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "guiraca caerulea" ; Times: 1
+	Query: "Plecotus townsendii pallescens" ; Times: 1
+	Query: "Otariidae" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 2
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "Sigmodon arizonae" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Hylidae" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "class:Mammalia ochotona princeps" ; Times: 1
+	Query: "stateprovince:"Ohio" country:"United States" class:Aves" ; Times: 1
+	Query: "chiroptera country:"Brazil"" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "type:specimen country:"El Salvador" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "mammalia country:"mexico" year <= 2015 mappable:1" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2388
+Total number of records retrieved from searches: 31976
+Number of download events that retrieved data from the resource: 304
+Total number of records downloaded: 93952
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3192
+Total number of records retrieved from searches: 44420
+Number of download events that retrieved data from the resource: 740
+Total number of records downloaded: 153111
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
