@@ -1,0 +1,586 @@
+Report for Institution Code MSU, Resource msu_mammals_birds_vertpaleo
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 530
+Number of records retrieved in searches: 5158
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Australia ; Times: 5
+	Country: Brazil ; Times: 51
+	Country: Canada ; Times: 10
+	Country: Chile ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Finland ; Times: 2
+	Country: France ; Times: 7
+	Country: Germany ; Times: 7
+	Country: Guatemala ; Times: 2
+	Country: Italy ; Times: 26
+	Country: Mexico ; Times: 44
+	Country: Paraguay ; Times: 4
+	Country: Peru ; Times: 4
+	Country: Spain ; Times: 1
+	Country: Sweden ; Times: 3
+	Country: Switzerland ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 321
+	Country: Unknown ; Times: 32
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 36
+	Date: 2015-06-02 ; Times: 33
+	Date: 2015-06-03 ; Times: 11
+	Date: 2015-06-04 ; Times: 13
+	Date: 2015-06-05 ; Times: 16
+	Date: 2015-06-06 ; Times: 8
+	Date: 2015-06-07 ; Times: 12
+	Date: 2015-06-08 ; Times: 18
+	Date: 2015-06-09 ; Times: 41
+	Date: 2015-06-10 ; Times: 12
+	Date: 2015-06-11 ; Times: 21
+	Date: 2015-06-12 ; Times: 21
+	Date: 2015-06-13 ; Times: 10
+	Date: 2015-06-14 ; Times: 9
+	Date: 2015-06-15 ; Times: 23
+	Date: 2015-06-16 ; Times: 22
+	Date: 2015-06-17 ; Times: 15
+	Date: 2015-06-18 ; Times: 14
+	Date: 2015-06-19 ; Times: 20
+	Date: 2015-06-20 ; Times: 5
+	Date: 2015-06-21 ; Times: 6
+	Date: 2015-06-22 ; Times: 13
+	Date: 2015-06-23 ; Times: 7
+	Date: 2015-06-24 ; Times: 45
+	Date: 2015-06-25 ; Times: 26
+	Date: 2015-06-26 ; Times: 24
+	Date: 2015-06-27 ; Times: 2
+	Date: 2015-06-28 ; Times: 8
+	Date: 2015-06-29 ; Times: 30
+	Date: 2015-06-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"michigan" specificepithet:pusilla genus:spizella (eggs) year >= 1875 year <= 1900" ; Times: 1
+	Query: "Neotomodon alstoni" ; Times: 1
+	Query: "Sicalis luteola brazil" ; Times: 2
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:pallida year >= 1837 year <= 1900" ; Times: 1
+	Query: "Didelphis" ; Times: 2
+	Query: "Myotis volans country:"Mexico"" ; Times: 1
+	Query: "Hyracodon" ; Times: 1
+	Query: "country:"Paraguay" genus:Catagonus class:Mammalia" ; Times: 1
+	Query: "sciurus variegatoides" ; Times: 4
+	Query: "paucituberculata" ; Times: 2
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "Leopardus jacobita" ; Times: 4
+	Query: "Antilocapra" ; Times: 22
+	Query: "laura russell" ; Times: 1
+	Query: "aves Georgia United States Aimophila aestivalis" ; Times: 2
+	Query: "Myiozetetes similis brazil" ; Times: 2
+	Query: "genus:tamandua" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 2
+	Query: ""Polioptila dumicola" brazil" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Oreailurus jacobita" ; Times: 1
+	Query: "higgins" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "peromyscus evides" ; Times: 1
+	Query: "Myiarchus tuberculifer brazil" ; Times: 1
+	Query: ""Catharus minimus" brazil" ; Times: 1
+	Query: ""Catharus fuscescens" brazil" ; Times: 1
+	Query: "country:"Ecuador" specificepithet:salvini genus:Chiroderma" ; Times: 1
+	Query: "2876 (skull)" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 4
+	Query: "aves Georgia United States Vermivora pinus" ; Times: 1
+	Query: "Lepus californicus mappable:1" ; Times: 1
+	Query: "mammalia 10757" ; Times: 1
+	Query: "bonariensis brazil" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:lomvia genus:uria year >= 1837 year <= 2015" ; Times: 1
+	Query: "aves Georgia United States Guiraca caerulea" ; Times: 1
+	Query: "distance(location,geopoint(19.048272959540967,-98.15185546875))<30045.616163034814" ; Times: 1
+	Query: "year >= 1900 year <= 2015 distance(location,geopoint(39.93905620603078,-82.94677734375))<37433.163972486814" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:pallida genus:spizella year >= 1875 year <= 1900" ; Times: 1
+	Query: "Saltatricula" ; Times: 1
+	Query: "tuxpan" ; Times: 3
+	Query: "type:specimen country:"United States" specificepithet:pennanti class:Mammalia" ; Times: 1
+	Query: "Finland" ; Times: 1
+	Query: "Ochotona princeps (Montana)" ; Times: 1
+	Query: "Xolmis irupero brazil" ; Times: 1
+	Query: "5675" ; Times: 1
+	Query: "stateprovince:"oklahoma" specificepithet:grisescens genus:myotis" ; Times: 1
+	Query: "12243" ; Times: 1
+	Query: "stateprovince:"guanajuato" country:"MEXICO" year <= 2015" ; Times: 2
+	Query: "msu panthera leo (skull) (female)" ; Times: 1
+	Query: "Sturnira erythromos" ; Times: 1
+	Query: "Alligator mississippiensis Mexico" ; Times: 1
+	Query: "Tachyphonus rufus brazil" ; Times: 2
+	Query: "Psittacula enlarged" ; Times: 4
+	Query: "sicily" ; Times: 3
+	Query: "specificepithet:septemcinctus genus:Dasypus" ; Times: 1
+	Query: "lima" ; Times: 1
+	Query: "Mesomys" ; Times: 2
+	Query: "thraupis bonariensis brazil" ; Times: 1
+	Query: "rana institutioncode:MSU" ; Times: 1
+	Query: "panthera onca institutioncode:msu (skull)" ; Times: 1
+	Query: "12243 (skull)" ; Times: 1
+	Query: "Newfoundland" ; Times: 1
+	Query: "Merops bulocki" ; Times: 2
+	Query: "35696" ; Times: 4
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "stateprovince:"Michigan" genus:lynx" ; Times: 3
+	Query: "type:specimen AND (mammalia) distance(location,geopoint(43.6599240747891,-74.5751953125))<39500" ; Times: 1
+	Query: "type:specimen AND (mammalia) distance(location,geopoint(43.75522505306928,-74.55322265625))<39499.562392873406" ; Times: 1
+	Query: "Phalacrocorax gaimardi" ; Times: 1
+	Query: "rhineura (skull)" ; Times: 3
+	Query: "sciurus niger rufiventer" ; Times: 2
+	Query: "lontra" ; Times: 2
+	Query: "terpsiphone paradisi" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:penelope genus:anas (eggs) year >= 1837 year <= 2015" ; Times: 1
+	Query: "msu crocuta crocuta (skull)" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:garrulus genus:bombycilla (eggs) year >= 1837 year <= 2015" ; Times: 1
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 3
+	Query: "india" ; Times: 1
+	Query: "Ochotona princeps (Montana) year <= 1980" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:cedrorum genus:bombycilla year >= 1837 year <= 1900" ; Times: 1
+	Query: "Spilogale putorius stateprovince:"Texas"" ; Times: 1
+	Query: "Mimus gilvus brazil" ; Times: 1
+	Query: "Alectrurus risora brazil" ; Times: 1
+	Query: "Eptesicus fuscus country:"Mexico"" ; Times: 1
+	Query: "Emberizoides herbicola brazil" ; Times: 1
+	Query: "muscicapa thalassina" ; Times: 1
+	Query: "Tamiasciurus hudsonicus wyoming" ; Times: 1
+	Query: ""Enhydra lutris lutris"" ; Times: 2
+	Query: "cavia" ; Times: 2
+	Query: "rupicola" ; Times: 1
+	Query: "Sturnira ludovici country:"Mexico"" ; Times: 2
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "class:mammalia catalognumber:12911 year <= 1979" ; Times: 1
+	Query: "leucotis brazil" ; Times: 1
+	Query: "stateprovince:"oklahoma" specificepithet:subflavus" ; Times: 1
+	Query: "aves Georgia United States Limnothlypis" ; Times: 1
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "aegithalos concinnus" ; Times: 1
+	Query: "Poospiza nigrorufa brazil" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:putorius genus:Spilogale" ; Times: 2
+	Query: "genus:Panthera (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "amphisbaenidae class: reptilia (skull)" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:leucopus genus:peromyscus" ; Times: 2
+	Query: "stateprovince:"Guanajuato" country:"Mexico"" ; Times: 1
+	Query: "tamiasciurus minnesota" ; Times: 1
+	Query: "catalognumber:14366" ; Times: 1
+	Query: ""vireo olivaceus chivi" brazil" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "Antrozous pallidus country:"Mexico"" ; Times: 1
+	Query: "mammalia lima" ; Times: 13
+	Query: "pitta brachyura" ; Times: 16
+	Query: "Myotis keenii country:"United States"" ; Times: 1
+	Query: "country:"Honduras" recordedby:Mankins year >= 1960 year <= 1990" ; Times: 2
+	Query: "specificepithet:villosus genus:Chaetophractus" ; Times: 1
+	Query: "sandhill" ; Times: 1
+	Query: "Myotis yumanensis stateprovince:"Washington"" ; Times: 1
+	Query: "Euneomys chinchilloides" ; Times: 1
+	Query: "class:mammalia year >= 1900 year <= 2015 distance(location,geopoint(39.93905620603078,-82.94677734375))<37433.163972486814" ; Times: 1
+	Query: "Antrozous pallidus stateprovince:"Washington"" ; Times: 3
+	Query: "30684" ; Times: 1
+	Query: "Embernagra platensis brazil" ; Times: 1
+	Query: "Archbold Biological Station county:"Highlands" stateprovince:"Florida" class:Mammalia" ; Times: 1
+	Query: "catalognumber:15563" ; Times: 1
+	Query: "mormoops" ; Times: 1
+	Query: "Myotis yumanensis country:"Mexico"" ; Times: 3
+	Query: "mappable:1 distance(location,geopoint(-3.2502085616531686,-62.7978515625))<100000" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Canis aureus" ; Times: 8
+	Query: "stateprovince:"michigan" specificepithet:pusilla genus:spizella (eggs) year >= 1837 year <= 1880" ; Times: 1
+	Query: "anas formosa" ; Times: 1
+	Query: "Ochotona stateprovince:"Montana" year >= 1930 year <= 1979" ; Times: 1
+	Query: "Converse Wyoming" ; Times: 1
+	Query: "finland" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:aura year >= 1837 year <= 1900" ; Times: 1
+	Query: "specificepithet:putorius genus:Spilogale" ; Times: 1
+	Query: "Anthus correndera brazil" ; Times: 1
+	Query: "aves Georgia United States Pipilo erythrophthalmus" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Archbold Biological Station" ; Times: 2
+	Query: "Romerolagus diazi" ; Times: 3
+	Query: "opossum" ; Times: 1
+	Query: "specificepithet:frons genus:Lavia" ; Times: 1
+	Query: "Tangara guttata brazil" ; Times: 1
+	Query: "stateprovince:"michigan" genus:picoides class:Aves AND (NOT pubescens NOT villosus) year >= 1800 year <= 2015" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:cedrorum genus:bombycilla (egg) AND (NOT skin NOT tissue) year >= 1837 year <= 1920" ; Times: 1
+	Query: "Thyroptera" ; Times: 2
+	Query: "country:"Honduras" recordedby:Mankins" ; Times: 6
+	Query: "mammalia peru" ; Times: 1
+	Query: "E.C. Case" ; Times: 2
+	Query: "lateralis teton" ; Times: 1
+	Query: "specificepithet:vellerosus genus:Chaetophractus" ; Times: 2
+	Query: "recordedby:mankins" ; Times: 1
+	Query: "Myotis californicus country:"mexico"" ; Times: 1
+	Query: "antilocapra americana mappable:1" ; Times: 1
+	Query: "Vulpes velox stateprovince:"Utah"" ; Times: 1
+	Query: "aythya fuligula" ; Times: 1
+	Query: "luzon" ; Times: 1
+	Query: "catalognumber:18037" ; Times: 3
+	Query: "castor canadensis" ; Times: 1
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "panthera onca mexico" ; Times: 1
+	Query: "stateprovince:"guanajuato" country:"MEXICO" class:mammalia year <= 2015" ; Times: 3
+	Query: "12956" ; Times: 1
+	Query: "Acryllium vulturinum year >= 1970 year <= 1979" ; Times: 1
+	Query: "specificepithet:oxyotus genus:myotis" ; Times: 1
+	Query: "aves Georgia United States Passerina caerulea" ; Times: 1
+	Query: "specificepithet:vulgaris genus:Sciurus" ; Times: 2
+	Query: "felis country:"MEXICO" year <= 2015" ; Times: 1
+	Query: "Leptonycteris yerbabuenae" ; Times: 1
+	Query: "aves {mapimi durango" ; Times: 1
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten)" ; Times: 2
+	Query: "Schistochlamys melanopis brazil" ; Times: 1
+	Query: "cynomys ludovicianus Texas" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(-4.302591077119676,-53.0419921875))<100000" ; Times: 1
+	Query: "Diuca diuca brazil" ; Times: 1
+	Query: "Macrophyllum" ; Times: 1
+	Query: "stateprovince:"michigan" genus:vireo year >= 1871 year <= 1880" ; Times: 1
+	Query: "peromyscus aztecus evides" ; Times: 1
+	Query: "aves Georgia United States Dendroica discolor" ; Times: 1
+	Query: "Reptiles Guerrero" ; Times: 2
+	Query: "Hemithraupis guira brazil" ; Times: 2
+	Query: "catalognumber:21640" ; Times: 2
+	Query: "cebus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: "genus:Caenolestes" ; Times: 2
+	Query: "mellivora capensis" ; Times: 1
+	Query: "msu panthera leo" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:excubitor genus:lanius year >= 1837 year <= 1875" ; Times: 1
+	Query: "county:"Asuncion" country:"Paraguay"" ; Times: 1
+	Query: "Myotis lucifugus stateprovince:"Michigan" year >= 1850 year <= 2000 mappable:1" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: ""Turdus ignobilis" brazil" ; Times: 1
+	Query: "leopardus jacobita" ; Times: 2
+	Query: "country:"Honduras" year >= 1964 year <= 1965" ; Times: 2
+	Query: "county:"marshall" stateprovince:"Oklahoma"" ; Times: 2
+	Query: "alouatta" ; Times: 1
+	Query: "SOTO LA MARINA TAMAULIPAS" ; Times: 1
+	Query: "12243 onca" ; Times: 1
+	Query: "Myotis thysanodes country:"mexico"" ; Times: 1
+	Query: "Peromyscus maniculatus stateprovince:"Michigan" mappable:1" ; Times: 1
+	Query: "Sturnira lilium stateprovince:"Nayarit"" ; Times: 1
+	Query: "praomys" ; Times: 3
+	Query: "specificepithet:lotor genus:Procyon mappable:1" ; Times: 1
+	Query: "Mimus triurus brazil" ; Times: 1
+	Query: "msu panthera leo (skull)" ; Times: 2
+	Query: "neotoma cinerea" ; Times: 2
+	Query: "ovis orientalis" ; Times: 1
+	Query: "rhineuridae class: reptilia (skull)" ; Times: 1
+	Query: "specificepithet:tarandus genus:Rangifer" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 5
+	Query: ""Catharus ustulatus" brazil" ; Times: 2
+	Query: "11512" ; Times: 1
+	Query: "acridotheres ginginianus" ; Times: 3
+	Query: "specificepithet:uncia" ; Times: 2
+	Query: "aquila heliaca" ; Times: 2
+	Query: "catalognumber:3722 institutioncode:MSU" ; Times: 2
+	Query: "acrocephalus dumetorum" ; Times: 1
+	Query: "Chlorophanes spiza brazil" ; Times: 1
+	Query: "specificepithet:mexicana genus:Dasyprocta" ; Times: 1
+	Query: "species india mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(52.64306343665892,177.451171875))<220869.09172528036" ; Times: 1
+	Query: "Lasiurus cinereus California mappable:1" ; Times: 2
+	Query: ""diclidurus albus" country:"Mexico"" ; Times: 1
+	Query: "Nebraska lampropeltis" ; Times: 3
+	Query: "vireo bellii pusillus" ; Times: 1
+	Query: "Fluvicola pica brazil" ; Times: 1
+	Query: "mineral county colorado" ; Times: 1
+	Query: "tadorna tadorna" ; Times: 3
+	Query: "monroe michigan mammalia" ; Times: 2
+	Query: "Vulpes velox" ; Times: 2
+	Query: "24814" ; Times: 1
+	Query: "leptonycteris yerbabuenae" ; Times: 3
+	Query: "macrotus californicus san diego county" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:sandwichensis year >= 1837 year <= 1880" ; Times: 1
+	Query: "Carduelis spinescens" ; Times: 2
+	Query: "catalognumber:6152 institutioncode:MSU" ; Times: 2
+	Query: "genus:marmosa" ; Times: 1
+	Query: "19720" ; Times: 1
+	Query: "type:specimen genus:marmosa" ; Times: 1
+	Query: "millardia" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis" ; Times: 3
+	Query: "lontra longicaudis mexico" ; Times: 2
+	Query: ""Tangara gyrola" brazil" ; Times: 2
+	Query: "Enhydra lutris lutris" ; Times: 1
+	Query: ""ursus arctos"" ; Times: 4
+	Query: "Sporophila minuta brazil" ; Times: 1
+	Query: "Ochotona princeps stateprovince:"Montana" year >= 1800 year <= 1979" ; Times: 1
+	Query: "catalognumber:35012" ; Times: 3
+	Query: "catalognumber:35017" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "seicercus burkii" ; Times: 7
+	Query: "chiroptera switzerland" ; Times: 1
+	Query: "catalognumber:10981" ; Times: 1
+	Query: "type:specimen specificepithet:pennanti class:Mammalia" ; Times: 1
+	Query: "spilogale putorius" ; Times: 2
+	Query: "specificepithet:waterhousii genus:Macrotus" ; Times: 2
+	Query: "specificepithet:humboldtii genus:Conepatus" ; Times: 1
+	Query: "Caluromys" ; Times: 1
+	Query: "Sturnira ludovici stateprovince:"Nayarit"" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:xanthocephalus genus:xanthocephalus year >= 1837 year <= 1900" ; Times: 1
+	Query: "msu nasua nasua (skull)" ; Times: 1
+	Query: "Peromyscus maniculatus Michigan" ; Times: 1
+	Query: "Myiozetetes cayanensis brazil" ; Times: 2
+	Query: "stateprovince:"michigan" specificepithet:excubitor genus:lanius (egg) AND (NOT skin NOT tissue) year >= 1837 year <= 1920" ; Times: 1
+	Query: "panthera onca institutioncode:msu" ; Times: 1
+	Query: "Tamiasciurus wyoming" ; Times: 1
+	Query: "marmota stateprovince:"Montana" year >= 1960 year <= 1970" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:virescens year >= 1837 year <= 1880" ; Times: 1
+	Query: "Equus" ; Times: 1
+	Query: ""Cyanerpes caeruleus" brazil" ; Times: 1
+	Query: "specificepithet:pennanti genus:Martes" ; Times: 1
+	Query: "genus:Bison class:Mammalia mappable:1" ; Times: 1
+	Query: "Turdus infuscatus type:specimen" ; Times: 1
+	Query: "hsu" ; Times: 1
+	Query: "trogon citreolus" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:herodias year >= 1837 year <= 1880" ; Times: 1
+	Query: "Lontra canadensis (Skeleton)" ; Times: 1
+	Query: "puma "Colombia"" ; Times: 1
+	Query: "Phaethornis griseogularis" ; Times: 1
+	Query: "Sturnira ludovici occidentalis" ; Times: 2
+	Query: "monroe michigan" ; Times: 1
+	Query: "cynomys ludovicianus texas" ; Times: 1
+	Query: "stephensi nevada" ; Times: 2
+	Query: "Conirostrum bicolor brazil" ; Times: 1
+	Query: "ondatra texas" ; Times: 1
+	Query: "msu mellivora capensis (skull)" ; Times: 1
+	Query: "Sturnira ludovici" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "20037" ; Times: 1
+	Query: "stateprovince:"michigan" class:Aves year >= 1915 year <= 1915" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "pipilo Jalisco" ; Times: 2
+	Query: ""diclidurus albus"" ; Times: 1
+	Query: "Anthus furcatus brazil" ; Times: 1
+	Query: "onca 12243 (skull)" ; Times: 1
+	Query: "Cistothorus platensis brazil" ; Times: 1
+	Query: "genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult) AND (leo)" ; Times: 1
+	Query: "Cyanerpes cyaneus brazil" ; Times: 1
+	Query: "county:"Alger" stateprovince:"Michigan" country:"United States"" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "country:"paraguay" class:mammalia" ; Times: 2
+	Query: "Stephanophorus diadematus brazil" ; Times: 1
+	Query: "Sporophila intermedia brazil" ; Times: 1
+	Query: "Myotis californicus stateprovince:"Mexico"" ; Times: 1
+	Query: "molossus (trinidad)" ; Times: 5
+	Query: "san marcos" ; Times: 1
+	Query: ""Tyrannus tyrannus" brazil" ; Times: 1
+	Query: ""dipodomys merriami parvus" "dipodomys merriami parvus" year <= 2015" ; Times: 1
+	Query: "specificepithet:labilis genus:Diplomys" ; Times: 1
+	Query: "country:"Honduras" recordedby:Mankins year >= 1964 year <= 1965" ; Times: 4
+	Query: "Lasiurus Lasiurus ega mappable:1" ; Times: 1
+	Query: "flaviventer" ; Times: 1
+	Query: "24814 mammal" ; Times: 1
+	Query: "Atelocynus microtis institutioncode:MSU" ; Times: 1
+	Query: "Sicalis flaveola brazil" ; Times: 1
+	Query: "Anas fulvigula mexico" ; Times: 1
+	Query: "test" ; Times: 1
+	Query: "genus:odocoileus institutioncode:MSU" ; Times: 2
+	Query: "aves Georgia United States palmarum palmarum" ; Times: 2
+	Query: "institutioncode:MSU" ; Times: 1
+	Query: "aves Georgia United States Dendroica cerulea" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:nycticorax year >= 1837 year <= 1900" ; Times: 1
+	Query: "recordedby:Mankins" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:penelope genus:anas year <= 2015" ; Times: 1
+	Query: "grus canadensis tabida" ; Times: 1
+	Query: "odocoileus" ; Times: 1
+	Query: "Myiodynastes luteiventris brazil" ; Times: 1
+	Query: "Newfoundland and Labrador" ; Times: 1
+	Query: "9868" ; Times: 1
+	Query: "Alouatta" ; Times: 2
+	Query: "aves mapimi durango" ; Times: 1
+	Query: "zoothera dauma" ; Times: 2
+	Query: "The Museum at Michigan State University" ; Times: 1
+	Query: "catalognumber:14017" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 115 (out of 1524 download events in this period)
+Total number of records downloaded: 8246 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 6675
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 19
+	Country: Germany ; Times: 7
+	Country: Guatemala ; Times: 4
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Paraguay ; Times: 1
+	Country: United States ; Times: 57
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 7
+	Date: 2015-06-02 ; Times: 3
+	Date: 2015-06-03 ; Times: 2
+	Date: 2015-06-04 ; Times: 3
+	Date: 2015-06-05 ; Times: 5
+	Date: 2015-06-06 ; Times: 1
+	Date: 2015-06-07 ; Times: 3
+	Date: 2015-06-08 ; Times: 5
+	Date: 2015-06-09 ; Times: 25
+	Date: 2015-06-10 ; Times: 3
+	Date: 2015-06-11 ; Times: 3
+	Date: 2015-06-14 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 4
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-18 ; Times: 4
+	Date: 2015-06-19 ; Times: 5
+	Date: 2015-06-20 ; Times: 2
+	Date: 2015-06-22 ; Times: 1
+	Date: 2015-06-23 ; Times: 1
+	Date: 2015-06-24 ; Times: 1
+	Date: 2015-06-25 ; Times: 10
+	Date: 2015-06-26 ; Times: 4
+	Date: 2015-06-27 ; Times: 3
+	Date: 2015-06-29 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "myzomela" ; Times: 1
+	Query: "solola" ; Times: 1
+	Query: "Macrophyllum" ; Times: 1
+	Query: "Myotis volans country:"United States"" ; Times: 1
+	Query: "Chlorostilbon gibsoni" ; Times: 1
+	Query: "Myotis lucifugus country:"canada"" ; Times: 1
+	Query: "type:specimen AND (mammalia) distance(location,geopoint(43.75522505306928,-74.55322265625))<58320" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "Lasiurus cinereus country:"United States"" ; Times: 1
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "sciurus niger rufiventer" ; Times: 1
+	Query: "spilogale putorius" ; Times: 1
+	Query: "Spizella pallida Mexico" ; Times: 2
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: ""vireo olivaceus chivi" brazil" ; Times: 1
+	Query: "aves Chihuahua" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:Mammalia" ; Times: 1
+	Query: "Myotis lucifugus stateprovince:"Michigan" year >= 1850 year <= 2000 mappable:1" ; Times: 1
+	Query: "Thalurania colombica" ; Times: 1
+	Query: "mellivora capensis" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "aves durango" ; Times: 1
+	Query: "Antrozous pallidus country:"Mexico"" ; Times: 1
+	Query: "Heliomaster constantii" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "Atthis heloisa" ; Times: 1
+	Query: "Myotis keenii country:"United States"" ; Times: 1
+	Query: "san marcos guatemala" ; Times: 1
+	Query: "Chalybura buffonii" ; Times: 1
+	Query: "Myotis yumanensis stateprovince:"Washington"" ; Times: 1
+	Query: "Oreotrochilus estella" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "class:mammalia year >= 1900 year <= 2015 distance(location,geopoint(39.93905620603078,-82.94677734375))<37433.163972486814" ; Times: 1
+	Query: "lycalopex culpaeus" ; Times: 1
+	Query: "Peromyscus maniculatus stateprovince:"Michigan" mappable:1" ; Times: 1
+	Query: "Spilogale putorius stateprovince:"Texas"" ; Times: 1
+	Query: "Antrozous pallidus stateprovince:"Washington"" ; Times: 1
+	Query: "neff" ; Times: 1
+	Query: "Myotis volans country:"Mexico"" ; Times: 1
+	Query: "Calypte costae" ; Times: 1
+	Query: "Sturnira" ; Times: 1
+	Query: "Myotis yumanensis country:"Mexico"" ; Times: 1
+	Query: "type:specimen country:"United States" specificepithet:pennanti class:Mammalia" ; Times: 1
+	Query: "iran" ; Times: 1
+	Query: "amazilia rutila" ; Times: 1
+	Query: "Antrozous pallidus country:"United States"" ; Times: 1
+	Query: "Canis aureus" ; Times: 1
+	Query: "Eugenes fulgens" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"United States"" ; Times: 1
+	Query: "aves Coahuila" ; Times: 1
+	Query: "Sturnira ludovici occidentalis" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "Myotis yumanensis country:"United States"" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "family:trochilidae AND skeleton type:specimen" ; Times: 1
+	Query: "country:"United States" genus:Ictalurus" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "amazilia beryllina" ; Times: 1
+	Query: "Lasiurus cinereus country:"mexico"" ; Times: 1
+	Query: "country:"United States" genus:ictalurus" ; Times: 1
+	Query: "Thyroptera" ; Times: 1
+	Query: "country:"Honduras" recordedby:Mankins" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: ""diclidurus albus" country:"Mexico"" ; Times: 1
+	Query: "Myotis thysanodes country:"United States"" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "aves chihuahua" ; Times: 1
+	Query: "country:"paraguay" class:mammalia" ; Times: 1
+	Query: "Myotis thysanodes country:"mexico"" ; Times: 1
+	Query: "Totonicapan" ; Times: 1
+	Query: "Eptesicus fuscus country:"United States"" ; Times: 2
+	Query: "Myotis californicus country:"mexico"" ; Times: 1
+	Query: "antilocapra americana mappable:1" ; Times: 1
+	Query: "Chaetocercus" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "Chlorostilbon canivetii" ; Times: 1
+	Query: "Phaethornis griseogularis" ; Times: 1
+	Query: "country:"Honduras" recordedby:Mankins year >= 1964 year <= 1965" ; Times: 3
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "amphispiza bilineata country:"mexico" year >= 1950 year <= 1970" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "Eptesicus fuscus country:"Mexico"" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "country:"Honduras" recordedby:Mankins year >= 1960 year <= 1990" ; Times: 2
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: "Calothorax lucifer" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "anas rubripes" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "Leptonycteris yerbabuenae" ; Times: 1
+	Query: "Myotis evotis country:"United States"" ; Times: 1
+	Query: "stateprovince:"Colima" country:"Mexico"" ; Times: 1
+	Query: "Sturnira ludovici country:"Mexico"" ; Times: 2
+	Query: "lontra longicaudis mexico" ; Times: 1
+	Query: "crucifer" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "Selasphorus sasin" ; Times: 1
+	Query: "Calypte anna" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 3449
+Total number of records retrieved from searches: 44639
+Number of download events that retrieved data from the resource: 618
+Total number of records downloaded: 141782
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 4253
+Total number of records retrieved from searches: 57083
+Number of download events that retrieved data from the resource: 1054
+Total number of records downloaded: 200941
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
