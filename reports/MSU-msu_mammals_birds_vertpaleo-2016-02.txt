@@ -1,0 +1,352 @@
+Report for Institution Code MSU, Resource msu_mammals_birds_vertpaleo
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 291
+Number of records retrieved in searches: 3281
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 5
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 57
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 5
+	Country: United States ; Times: 197
+	Country: Colombia ; Times: 7
+	Country: Switzerland ; Times: 2
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 9
+	Date: 2016-02-08 ; Times: 6
+	Date: 2016-02-18 ; Times: 20
+	Date: 2016-02-19 ; Times: 27
+	Date: 2016-02-12 ; Times: 17
+	Date: 2016-02-13 ; Times: 1
+	Date: 2016-02-10 ; Times: 5
+	Date: 2016-02-11 ; Times: 4
+	Date: 2016-02-16 ; Times: 13
+	Date: 2016-02-17 ; Times: 17
+	Date: 2016-02-14 ; Times: 4
+	Date: 2016-02-15 ; Times: 10
+	Date: 2016-02-03 ; Times: 24
+	Date: 2016-02-02 ; Times: 6
+	Date: 2016-02-23 ; Times: 3
+	Date: 2016-02-22 ; Times: 4
+	Date: 2016-02-21 ; Times: 4
+	Date: 2016-02-20 ; Times: 5
+	Date: 2016-02-26 ; Times: 2
+	Date: 2016-02-25 ; Times: 5
+	Date: 2016-02-24 ; Times: 4
+	Date: 2016-02-01 ; Times: 8
+	Date: 2016-02-29 ; Times: 4
+	Date: 2016-02-28 ; Times: 3
+	Date: 2016-02-05 ; Times: 20
+	Date: 2016-02-04 ; Times: 54
+	Date: 2016-02-07 ; Times: 9
+	Date: 2016-02-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:americana genus:martes" ; Times: 1
+	Query: "lestoros" ; Times: 1
+	Query: "terpsiphone paradisi-india" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:chilkat peninsula stateprovince:&#34;alaska&#34; year &gt;= 1900 year &lt;= 1951" ; Times: 1
+	Query: "Elephantidae mappable:1" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "country:&#34;mexico&#34; (canis latrans)" ; Times: 2
+	Query: "nasua" ; Times: 3
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "genus:Bradypus country:&#34;colombia&#34;" ; Times: 1
+	Query: "Didelphis" ; Times: 1
+	Query: "county:&#34;Hot Springs&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "cingulata mappable:1" ; Times: 2
+	Query: "genus:Microdipodops stateprovince:Nevada" ; Times: 2
+	Query: "ototylomys" ; Times: 1
+	Query: "inia" ; Times: 1
+	Query: "Mammalia Mellivora" ; Times: 1
+	Query: "Phyllostomidae (Colombia) mappable:1" ; Times: 4
+	Query: "Dasypus novemcinctus" ; Times: 4
+	Query: "Ailurus fulgens" ; Times: 2
+	Query: "martes" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 12
+	Query: "Sus scrofa scrofa" ; Times: 1
+	Query: "3991" ; Times: 1
+	Query: "spilogale putorius" ; Times: 2
+	Query: "phenacomys intermedius" ; Times: 1
+	Query: "Alces stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Del Puerto Canyon" ; Times: 1
+	Query: "Panthera onca" ; Times: 12
+	Query: "Canis latrans" ; Times: 1
+	Query: "Atrichornis rufescens" ; Times: 1
+	Query: "porcupine mappable:1" ; Times: 2
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "specificepithet:humeralis genus:nycticeius stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 9
+	Query: "felis catus type:specimen" ; Times: 2
+	Query: "Mellivora Mammalia" ; Times: 2
+	Query: "&#34;Panthera pardus&#34; mappable:1" ; Times: 1
+	Query: "peromyscus melanurus" ; Times: 2
+	Query: "phocidae" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "suricata" ; Times: 3
+	Query: "peromyscus guardia" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "Michigan university" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;alberta&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus locality:Haines stateprovince:&#34;Alaska&#34; recordedby:alcorn year &lt;= 1951" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:haines stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "chironectes" ; Times: 1
+	Query: "vulpes velox" ; Times: 3
+	Query: "caprimulgus asiaticus india" ; Times: 1
+	Query: "Myotis grisescens" ; Times: 1
+	Query: "specificepithet:americana genus:martes continent:north america" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34; mappable:1" ; Times: 2
+	Query: "Spermophilus franklinii" ; Times: 1
+	Query: "antrozous pallidus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Antilocapra Americana" ; Times: 1
+	Query: "Mankins" ; Times: 4
+	Query: "5501 order:rodentia year &gt;= 1970 year &lt;= 1984" ; Times: 1
+	Query: "Myotis leibii" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "sus" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "dasypus mappable:1" ; Times: 2
+	Query: "felis silvestris" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Martes" ; Times: 2
+	Query: "genus:neotoma stateprovince:Nevada" ; Times: 1
+	Query: "Neofelis nebulosa mappable:1" ; Times: 1
+	Query: "inia geoffrensis" ; Times: 2
+	Query: "erethizon dorsatum mappable:1" ; Times: 2
+	Query: "Phalacrocorax bougainvillii" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 5
+	Query: "family:cricetidae (8251 )" ; Times: 1
+	Query: "Chrysocyon" ; Times: 1
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "callicebus" ; Times: 1
+	Query: "genus:inia" ; Times: 3
+	Query: "panthera tigris" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 2
+	Query: "recordedby:KOFAHL" ; Times: 1
+	Query: "Hueco Tanks" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 2
+	Query: "ara militaris" ; Times: 4
+	Query: "Colombia phyllostomidae" ; Times: 1
+	Query: "30149" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "Myotis septentrionalis (Michigan)" ; Times: 3
+	Query: "capra iran" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 3
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;minnesota&#34;" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Dasypus mappable:1" ; Times: 2
+	Query: "&#34;Lynx canadensis&#34; mappable:1" ; Times: 1
+	Query: "enhydra" ; Times: 1
+	Query: "&#34;Erethizon&#34; &#34;Erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "lepus americanus" ; Times: 8
+	Query: "Sturnira parvidens" ; Times: 1
+	Query: "plecotus auritus" ; Times: 2
+	Query: "dermoptera order:dermoptera" ; Times: 1
+	Query: "Mephitis" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "felis concolor" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34; mappable:1" ; Times: 2
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 2
+	Query: "genus:spermophilus stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:haines stateprovince:&#34;alaska&#34; (7) year &gt;= 1951 year &lt;= 1951" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "&#34; Panthera pardus&#34; mappable:1" ; Times: 1
+	Query: "Urocyon" ; Times: 1
+	Query: "santander mammalia" ; Times: 1
+	Query: "presque isle" ; Times: 1
+	Query: "Conepatus leuconotus type:specimen" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "antilophia galeata" ; Times: 1
+	Query: "Erethizon dorsatum mappable:1" ; Times: 7
+	Query: "oregon state university" ; Times: 1
+	Query: "type:specimen genus:sus" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Conepatus leuconotus" ; Times: 2
+	Query: "saguinus geoffroyi" ; Times: 1
+	Query: "tremarctos ornatus mappable:1" ; Times: 1
+	Query: "specificepithet:humeralis genus:nycticeius stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "lynx" ; Times: 1
+	Query: "Sus" ; Times: 1
+	Query: "dermoptera" ; Times: 7
+	Query: "&#34;erethizon dorsatum&#34; mappable:1" ; Times: 2
+	Query: "Erinaceus europaeus" ; Times: 1
+	Query: "pedetes" ; Times: 1
+	Query: "genus:nyctomys" ; Times: 1
+	Query: "saguinus" ; Times: 2
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 1
+	Query: "Tremarctos &#34;ornatus&#34; mappable:1" ; Times: 1
+	Query: "snake country:&#34;Mexico&#34;" ; Times: 1
+	Query: "pecari tajacu stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "felis silvestris (skull) institutioncode:MSU" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 2
+	Query: "genus:martes continent:north america" ; Times: 1
+	Query: "Heterodon simus (Florida)" ; Times: 2
+	Query: "acinonyx jubatus" ; Times: 2
+	Query: "Taxidea taxus" ; Times: 2
+	Query: "Myotis albescens" ; Times: 1
+	Query: "Pitta brachyura type:specimen" ; Times: 1
+	Query: "specificepithet:ludovici genus:Sturnira stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Thomomys clusius" ; Times: 1
+	Query: "Martes americana" ; Times: 2
+	Query: "Myotis septentrionalis" ; Times: 5
+	Query: "Peromyscus guardia" ; Times: 1
+	Query: "Tremarctos ornatus mappable:1" ; Times: 6
+	Query: "ovis iran" ; Times: 1
+	Query: "33903" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "panthera pardus" ; Times: 2
+	Query: "Canis lupus baileyi" ; Times: 1
+	Query: "dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 1
+	Query: "megalaima zeylanica" ; Times: 1
+	Query: "33755" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 139 (out of 512 download events in this period)
+Total number of records downloaded: 3420
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: Unknown ; Times: 19
+	Country: Mexico ; Times: 27
+	Country: United States ; Times: 78
+	Country: Chile ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 6
+	Date: 2016-02-22 ; Times: 3
+	Date: 2016-02-18 ; Times: 10
+	Date: 2016-02-19 ; Times: 15
+	Date: 2016-02-12 ; Times: 4
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 4
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-16 ; Times: 4
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-14 ; Times: 3
+	Date: 2016-02-15 ; Times: 3
+	Date: 2016-02-29 ; Times: 3
+	Date: 2016-02-02 ; Times: 5
+	Date: 2016-02-23 ; Times: 4
+	Date: 2016-02-08 ; Times: 4
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-20 ; Times: 3
+	Date: 2016-02-27 ; Times: 2
+	Date: 2016-02-26 ; Times: 5
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-24 ; Times: 4
+	Date: 2016-02-01 ; Times: 3
+	Date: 2016-02-03 ; Times: 5
+	Date: 2016-02-28 ; Times: 3
+	Date: 2016-02-05 ; Times: 9
+	Date: 2016-02-04 ; Times: 27
+	Date: 2016-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "lestoros" ; Times: 1
+	Query: "genus:Scaphiopus specificepithet:holbrookii" ; Times: 1
+	Query: "genus:nyctomys" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 2
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:chilkat peninsula stateprovince:&#34;alaska&#34; year &gt;= 1900 year &lt;= 1951" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 8
+	Query: "class:Aves county:&#34;Monroe&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "okinawa class:Aves" ; Times: 1
+	Query: "antilophia galeata" ; Times: 1
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34; mappable:1" ; Times: 2
+	Query: "tremarctos ornatus mappable:1" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1975 year &lt;= 1979" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "genus:thamnophis" ; Times: 1
+	Query: "ototylomys" ; Times: 1
+	Query: "class:Aves locality:Rochester county:&#34;Monroe&#34; stateprovince:&#34;New York&#34;" ; Times: 4
+	Query: "Tremarctos &#34;ornatus&#34; mappable:1" ; Times: 2
+	Query: "Strigidae" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1906 year &lt;= 1910" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1880" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1955 year &lt;= 1959" ; Times: 1
+	Query: "Eira" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34; mappable:1" ; Times: 2
+	Query: "caenolestes" ; Times: 1
+	Query: "synallaxis ruficapilla" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "puma concolor" ; Times: 8
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "Atrichornis rufescens" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1964" ; Times: 1
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 9
+	Query: "Zygodontomys brevicauda" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "Pseudacris nigrita" ; Times: 1
+	Query: "selasphorus (sasin OR sedentarius)" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "genus:carpodacus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Tremarctos ornatus mappable:1" ; Times: 5
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "ovis iran" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1946 year &lt;= 1949" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "callicebus" ; Times: 2
+	Query: "taxidea taxus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Podiceps major" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "county:&#34;Hot Springs&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "capito" ; Times: 1
+	Query: "septentrionalis class:Mammalia stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "Saltator" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "heterodon simus" ; Times: 1
+	Query: "Dunham class:Aves" ; Times: 1
+
+
+End of report.
