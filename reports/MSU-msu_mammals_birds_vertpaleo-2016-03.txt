@@ -1,0 +1,172 @@
+Report for Institution Code MSU, Resource msu_mammals_birds_vertpaleo
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 103
+Number of records retrieved in searches: 1027
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 3
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 79
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-11 ; Times: 17
+	Date: 2016-03-10 ; Times: 10
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 7
+	Date: 2016-03-06 ; Times: 7
+	Date: 2016-03-14 ; Times: 2
+	Date: 2016-03-04 ; Times: 6
+	Date: 2016-03-05 ; Times: 12
+	Date: 2016-03-02 ; Times: 8
+	Date: 2016-03-03 ; Times: 12
+	Date: 2016-03-13 ; Times: 5
+	Date: 2016-03-01 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:megalotis genus:otocyon family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "class:Mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "cryptotis parva" ; Times: 1
+	Query: "alouatta" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 3
+	Query: "vulpes velox" ; Times: 4
+	Query: "osborne" ; Times: 1
+	Query: "mimon crenulatum" ; Times: 1
+	Query: "mankins country:&#34;Honduras&#34;" ; Times: 1
+	Query: "specificepithet:pardus genus:panthera family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:mungo genus:mungos family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "megalaima zeylanica" ; Times: 1
+	Query: "puebla" ; Times: 1
+	Query: "genus:puma specificepithet:concolor" ; Times: 2
+	Query: "vulpes bengalensis" ; Times: 4
+	Query: "genus:Holochilus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "specificepithet:lar genus:hylobates" ; Times: 2
+	Query: "Ichneumia" ; Times: 2
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "monterrey" ; Times: 1
+	Query: "class:mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "archbold" ; Times: 1
+	Query: "2229" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "order:Chiroptera class:Mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Canada Goose" ; Times: 1
+	Query: "order:rodentia country:&#34;kenya&#34;" ; Times: 1
+	Query: "nycticeius humeralis" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "cienega de flores distance(location,geopoint(25.942239101010102,-100.05952298641205))&lt;100000" ; Times: 1
+	Query: "Felis pardalis" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "eudynamys scolopacea india" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "family:Phyllostomidae order:Chiroptera class:Mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Gerbillurus" ; Times: 4
+	Query: "family:felidae country:&#34;kenya&#34;" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;atlantida&#34; country:&#34;Honduras&#34; year &gt;= 1800 year &lt;= 1965" ; Times: 2
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Missouri&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:domesticus genus:Passer (egg)" ; Times: 1
+	Query: "mankins" ; Times: 1
+	Query: "Diphylla" ; Times: 1
+	Query: "striata stateprovince:&#34;Manitoba&#34; country:&#34;Canada&#34; (setophaga OR dendroica) month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "neotoma lepida colorado" ; Times: 1
+	Query: "gregg" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Cortes&#34; country:&#34;Honduras&#34; year &gt;= 1800 year &lt;= 1965" ; Times: 1
+	Query: "monterrey distance(location,geopoint(25.942239101010102,-100.05952298641205))&lt;100000" ; Times: 1
+	Query: "Dipodomys phillipsii" ; Times: 1
+	Query: "ochotona princeps" ; Times: 2
+	Query: "&#34;Tyto alba&#34; (michigan)" ; Times: 1
+	Query: "prinia socialis" ; Times: 1
+	Query: "Eptesicus fuscus Texas" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "&#34;Tyto alba&#34; (michigan) institutioncode:MSU" ; Times: 1
+	Query: "hylobates lar lar" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Atlantida&#34; country:&#34;Honduras&#34; year &gt;= 1800 year &lt;= 1965" ; Times: 1
+	Query: "pycnonotus jocosus australia" ; Times: 1
+	Query: "lemniscomys griselda" ; Times: 1
+	Query: "distance(location,geopoint(25.942239101010102,-100.16279339790344))&lt;100000" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "country:&#34;Honduras&#34; recordedby:mankins" ; Times: 2
+	Query: "type:specimen genus:Atrichornis" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 3
+	Query: "Geomys" ; Times: 1
+	Query: "diphylla" ; Times: 2
+	Query: "country:&#34;Honduras&#34; year &gt;= 1964 year &lt;= 1965" ; Times: 1
+	Query: "marmosops" ; Times: 1
+	Query: "Lasiurus borealis country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:caracal family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "mankins country:&#34;Honduras&#34; recordedby:mankins" ; Times: 1
+	Query: "Oriolus xanthornus" ; Times: 1
+	Query: "clamator jacobinus india" ; Times: 1
+	Query: "neotoma lepida utah" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 74 (out of 230 download events in this period)
+Total number of records downloaded: 1368
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 10
+	Country: United States ; Times: 49
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 5
+	Date: 2016-03-12 ; Times: 3
+	Date: 2016-03-10 ; Times: 14
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 14
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-05 ; Times: 3
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-03 ; Times: 3
+	Date: 2016-03-13 ; Times: 9
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "tissue" ; Times: 39
+	Query: "dasyurus" ; Times: 1
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "genus:Holochilus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "parula americana" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "Cnemidophorus sexlineatus" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1938 year &lt;= 1940" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "ochotona" ; Times: 2
+
+
+End of report.
