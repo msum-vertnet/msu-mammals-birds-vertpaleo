@@ -1,0 +1,259 @@
+Report for Institution Code MSU, Resource msu_mammals_birds_vertpaleo
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 208
+Number of records retrieved in searches: 1953
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 6
+	Country: Colombia ; Times: 15
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 36
+	Country: India ; Times: 2
+	Country: Costa Rica ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 122
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 8
+	Country: Denmark ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Nicaragua ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-18 ; Times: 7
+	Date: 2016-05-17 ; Times: 6
+	Date: 2016-05-16 ; Times: 8
+	Date: 2016-05-15 ; Times: 22
+	Date: 2016-05-14 ; Times: 5
+	Date: 2016-05-13 ; Times: 16
+	Date: 2016-05-11 ; Times: 3
+	Date: 2016-05-10 ; Times: 6
+	Date: 2016-05-31 ; Times: 49
+	Date: 2016-05-30 ; Times: 6
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-09 ; Times: 2
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-02 ; Times: 8
+	Date: 2016-05-03 ; Times: 2
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-05 ; Times: 7
+	Date: 2016-05-06 ; Times: 3
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-26 ; Times: 4
+	Date: 2016-05-27 ; Times: 4
+	Date: 2016-05-24 ; Times: 10
+	Date: 2016-05-25 ; Times: 3
+	Date: 2016-05-22 ; Times: 5
+	Date: 2016-05-23 ; Times: 8
+	Date: 2016-05-20 ; Times: 4
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-28 ; Times: 4
+	Date: 2016-05-29 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 10
+	Query: "distance(location,geopoint(20.549036,-105.187516))&lt;15000" ; Times: 1
+	Query: "genus:ototylomys stateprovince:&#34;chiapas&#34;" ; Times: 1
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "specificepithet:cyanocephalus stateprovince:&#34;Kansas&#34;" ; Times: 4
+	Query: "genus:myrmecophaga" ; Times: 1
+	Query: "sturnira erythromos" ; Times: 3
+	Query: "specificepithet:pinus genus:carduelis class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "notiosorex evotis" ; Times: 2
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1871 year &lt;= 1880" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Lanius stateprovince:&#34;michigan&#34; year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "genus:porzana class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:elegans genus:rallus stateprovince:&#34;michigan&#34; year &gt;= 1960 year &lt;= 1960" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "class:Mammalia county:&#34;San DIego&#34; recordedby:Krutzsch" ; Times: 2
+	Query: "panthera onca}" ; Times: 2
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1878 year &lt;= 1878" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:passerina genus:spizella class:aves stateprovince:&#34;michigan&#34; (skin) year &gt;= 1850 year &lt;= 1899" ; Times: 1
+	Query: "coendou" ; Times: 1
+	Query: "institutioncode:msu primates" ; Times: 1
+	Query: "uroderma bilobatum country:&#34;mexico&#34;" ; Times: 2
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1879 year &lt;= 1879" ; Times: 1
+	Query: "primates" ; Times: 2
+	Query: "genus:cistothorus class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "specificepithet:bairdii stateprovince:&#34;michigan&#34; year &gt;= 1830" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "genus:gavia class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "genus:ectopistes stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 2
+	Query: "specificepithet:borealis class:aves stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "canis lupus baileyi" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "hare" ; Times: 1
+	Query: "Turdoides earlei" ; Times: 2
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 11
+	Query: "lion" ; Times: 1
+	Query: "specificepithet:elegans genus:rallus stateprovince:&#34;michigan&#34; year &gt;= 1901 year &lt;= 1910" ; Times: 1
+	Query: "specificepithet:LUDOVICIANUS genus:LANIUS class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Marmota" ; Times: 1
+	Query: "canis lupus texas" ; Times: 1
+	Query: "genus:certhia class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "genus:Tamias institutioncode:MSU" ; Times: 1
+	Query: "louisiana state university" ; Times: 1
+	Query: "Dimetrodon" ; Times: 1
+	Query: "Marmota marmota" ; Times: 4
+	Query: "Helogale Kenya" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; year &gt;= 1868 year &lt;= 1868" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "Podiceps auritus AND Island NOT Canada" ; Times: 1
+	Query: "skeleton AND Primates institutioncode:MSU" ; Times: 1
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "peromyscus melanotis" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "distance(location,geopoint(20.827036,-105.509516))&lt;15000" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 2
+	Query: "msu 4165" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "os penis" ; Times: 1
+	Query: "Tachyglossidae" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 1
+	Query: "cyclopes" ; Times: 1
+	Query: "petaurista" ; Times: 2
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "(island) institutioncode:MSU" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "genus:quiscalus class:aves stateprovince:&#34;michigan&#34; (skin) year &gt;= 1850 year &lt;= 1899" ; Times: 1
+	Query: "Mustelidae (Mellivora)" ; Times: 1
+	Query: "myioborus ornatus" ; Times: 1
+	Query: "Chiroptera country:&#34;Ghana&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:leo genus:Panthera country:&#34;South Africa&#34;" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 19
+	Query: "specificepithet:penelope class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 2016" ; Times: 1
+	Query: "family:bovidae year &gt;= 1983 year &lt;= 1984" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 5
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "crocuta" ; Times: 2
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1877 year &lt;= 1877" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 11
+	Query: "specificepithet:minutilla stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "caenolestes fuliginosus" ; Times: 1
+	Query: "caluromys derbianus" ; Times: 1
+	Query: "genus:proechimys order:rodentia country:&#34;costa rica&#34;" ; Times: 1
+	Query: "Cyclopes" ; Times: 1
+	Query: "Sciurus griseus anthonyi" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 8
+	Query: "university of minnesota" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "preparations:skull (lontra canadensis) institutioncode:MSU" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "genus:sialia class:aves stateprovince:&#34;michigan&#34; (skin) year &gt;= 1850 year &lt;= 1899" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "specificepithet:bairdii stateprovince:&#34;michigan&#34; year &gt;= 1830 year &lt;= 1900" ; Times: 1
+	Query: "Alouatta pIGRA" ; Times: 3
+	Query: "microsciurus" ; Times: 2
+	Query: "type:specimen specificepithet:oxyotus genus:Myotis" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; year &gt;= 1856 year &lt;= 1860" ; Times: 1
+	Query: "Speothos venaticus (Colombia)" ; Times: 1
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1896 year &lt;= 1896" ; Times: 1
+	Query: "specificepithet:pusilla stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "specificepithet:perotis genus:Eumops" ; Times: 1
+	Query: "Marmota monax year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "Equidae" ; Times: 1
+	Query: "specificepithet:californicus genus:Macrotus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "alouatta pigra" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 327 download events in this period)
+Total number of records downloaded: 7196
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 40
+	Country: China ; Times: 5
+	Country: Colombia ; Times: 4
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 2
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 7
+	Date: 2016-05-05 ; Times: 3
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 31
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 3
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-13 ; Times: 2
+	Date: 2016-05-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 13
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 10
+	Query: "myioborus melanocephalus" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "Chiroptera country:&#34;Ghana&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:leo genus:Panthera country:&#34;South Africa&#34;" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "bird" ; Times: 1
+	Query: "Speothos venaticus (Colombia)" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "Yuhina" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "uroderma bilobatum country:&#34;mexico&#34;" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.
