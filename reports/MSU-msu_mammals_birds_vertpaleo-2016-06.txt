@@ -1,0 +1,551 @@
+Report for Institution Code MSU, Resource msu_mammals_birds_vertpaleo
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 610
+Number of records retrieved in searches: 5974
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: Brazil ; Times: 17
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 30
+	Country: Mexico ; Times: 198
+	Country: Unknown ; Times: 16
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 14
+	Country: France ; Times: 8
+	Country: United States ; Times: 290
+	Country: Guatemala ; Times: 2
+	Country: Netherlands ; Times: 3
+	Country: Germany ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 7
+	Country: Argentina ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 7
+	Date: 2016-06-09 ; Times: 25
+	Date: 2016-06-22 ; Times: 16
+	Date: 2016-06-21 ; Times: 46
+	Date: 2016-06-20 ; Times: 59
+	Date: 2016-06-05 ; Times: 22
+	Date: 2016-06-04 ; Times: 21
+	Date: 2016-06-07 ; Times: 17
+	Date: 2016-06-06 ; Times: 9
+	Date: 2016-06-01 ; Times: 35
+	Date: 2016-06-03 ; Times: 60
+	Date: 2016-06-02 ; Times: 45
+	Date: 2016-06-23 ; Times: 24
+	Date: 2016-06-08 ; Times: 10
+	Date: 2016-06-18 ; Times: 10
+	Date: 2016-06-19 ; Times: 14
+	Date: 2016-06-16 ; Times: 30
+	Date: 2016-06-17 ; Times: 18
+	Date: 2016-06-14 ; Times: 45
+	Date: 2016-06-15 ; Times: 24
+	Date: 2016-06-12 ; Times: 3
+	Date: 2016-06-13 ; Times: 44
+	Date: 2016-06-10 ; Times: 10
+	Date: 2016-06-11 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 3
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Connochaetes" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "(ovis ammon) mappable:1" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Oligoryzomys flavescens" ; Times: 1
+	Query: "distance(location,geopoint(29.052968490948874,-113.84033203125))&lt;100000" ; Times: 1
+	Query: "pardalis 125" ; Times: 1
+	Query: "vampyrodes" ; Times: 1
+	Query: "london" ; Times: 1
+	Query: "Canis lupus baileyi" ; Times: 3
+	Query: "26378" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 2
+	Query: "34808" ; Times: 1
+	Query: "Eptesicus AND Island" ; Times: 1
+	Query: "dendroica magnolia type:specimen AND (NOT Illinois) year &gt;= 1920 year &lt;= 2016 institutioncode:MSU" ; Times: 1
+	Query: "notiosorex evotis" ; Times: 1
+	Query: "specificepithet:alba genus:tyto stateprovince:&#34;michigan&#34; year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "family:felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "MANTA" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1896 year &lt;= 1896" ; Times: 1
+	Query: "country:&#34;Mexico&#34; catalognumber:27097 year &gt;= 1937" ; Times: 1
+	Query: "Myotis oxyotus" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 4
+	Query: "dendroica magnolia type:specimen AND (NOT Illinois) month &gt;= 6 month &lt;= 7 institutioncode:MSU" ; Times: 2
+	Query: "Guatemala" ; Times: 1
+	Query: "Aethomys namaquensis" ; Times: 1
+	Query: "Dasypus hybridus" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "13164" ; Times: 1
+	Query: "spilogale putorius" ; Times: 1
+	Query: "Erinaceus" ; Times: 3
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "14352" ; Times: 1
+	Query: "canis mesomelas" ; Times: 3
+	Query: "Leptonycteris nivalis" ; Times: 3
+	Query: "genus:dromiciops class:mammalia" ; Times: 1
+	Query: "Panthera onca" ; Times: 4
+	Query: "Canis latrans" ; Times: 1
+	Query: "18771" ; Times: 1
+	Query: "Spilogale" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 2
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1885 year &lt;= 1885" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "Protoceras" ; Times: 1
+	Query: "canis simensis" ; Times: 9
+	Query: "Didelphidae" ; Times: 1
+	Query: "genus:Taxidea specificepithet:taxus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "primates" ; Times: 5
+	Query: "distance(location,geopoint(45.483243508682214,-121.739501953125))&lt;27554.144526533193" ; Times: 1
+	Query: "8442 mammalia" ; Times: 1
+	Query: "caenolestes fuliginosus" ; Times: 1
+	Query: "vampyrodes caraccioli" ; Times: 1
+	Query: "cyclopes didactylus country:&#34;colombia&#34;" ; Times: 1
+	Query: "flamingo" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Chironectes" ; Times: 1
+	Query: "tapirus bairdii costa rica" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "galea musteloides" ; Times: 4
+	Query: "genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1877 year &lt;= 1877" ; Times: 1
+	Query: "megasorex gigas" ; Times: 2
+	Query: "Molossus sinaloae" ; Times: 1
+	Query: "Oligoryzomys longicaudatus" ; Times: 1
+	Query: "Tropiduridae 1" ; Times: 2
+	Query: "MSU-MR" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "CANIS simensis" ; Times: 1
+	Query: "Reptilia 1794" ; Times: 2
+	Query: "Chiroptera type:specimen country:&#34;Ghana&#34;" ; Times: 1
+	Query: "Parish AND Island" ; Times: 1
+	Query: "diclidurus albus" ; Times: 4
+	Query: "genus:Blarina stateprovince:&#34;New hampshire&#34;" ; Times: 1
+	Query: "specificepithet:lomvia stateprovince:&#34;michigan&#34;" ; Times: 4
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "erethizon" ; Times: 3
+	Query: "myocastor" ; Times: 1
+	Query: "lycaon pictus" ; Times: 3
+	Query: "glossophaga morenoi" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "Marmota monax" ; Times: 1
+	Query: "egg texas 1900" ; Times: 1
+	Query: "lycalopex culpaeus" ; Times: 4
+	Query: "specificepithet:alba genus:tyto stateprovince:&#34;michigan&#34; year &gt;= 1931 year &lt;= 1935" ; Times: 2
+	Query: "8442" ; Times: 2
+	Query: "specificepithet:alba genus:tyto stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 2
+	Query: "sorex dispar" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "11139" ; Times: 4
+	Query: "Rattus rattus" ; Times: 3
+	Query: "Myotis californicus (California)" ; Times: 1
+	Query: "genus:dasypus mappable:1" ; Times: 2
+	Query: "Chaetophractus vellerosus" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "specificepithet:longicaudus stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "Reptilia 1003" ; Times: 1
+	Query: "country:&#34;Mexico&#34; catalognumber:27097" ; Times: 1
+	Query: "canis adustus" ; Times: 5
+	Query: "Sturnira institutioncode:MSU" ; Times: 2
+	Query: "panthera leo" ; Times: 5
+	Query: "proteles" ; Times: 1
+	Query: "cracidae mitu mitu" ; Times: 1
+	Query: "Colodon" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 2
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "14299" ; Times: 1
+	Query: "Oligoryzomys fulvescens" ; Times: 1
+	Query: "tamandua" ; Times: 1
+	Query: "loxodonta africana" ; Times: 4
+	Query: "8516" ; Times: 1
+	Query: "Oryzomys couesi" ; Times: 1
+	Query: "genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1879 year &lt;= 1879" ; Times: 1
+	Query: "11714" ; Times: 2
+	Query: "binturong thailand" ; Times: 1
+	Query: "(Sorex minutus) mappable:1" ; Times: 1
+	Query: "Eschrichtius ROBUSTUS" ; Times: 1
+	Query: "Mus musculus" ; Times: 4
+	Query: "Canada goose" ; Times: 1
+	Query: "genus:canis" ; Times: 4
+	Query: "11899" ; Times: 3
+	Query: "TURSIOPS" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 5
+	Query: "Canis aureus" ; Times: 2
+	Query: "peromyscus mexicanus" ; Times: 1
+	Query: "specificepithet:orbicularis family:emydidae" ; Times: 1
+	Query: "Artiodactyla country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "specificepithet:penelope stateprovince:&#34;michigan&#34;" ; Times: 2
+	Query: "specificepithet:Fumeus genus:Sorex stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "Felis catus" ; Times: 2
+	Query: "Leptonycteris yerbabuenae" ; Times: 1
+	Query: "MPM" ; Times: 1
+	Query: "canis latrans mexico" ; Times: 1
+	Query: "panthera tigris" ; Times: 3
+	Query: "Panthera leo" ; Times: 2
+	Query: "genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1868 year &lt;= 1869" ; Times: 1
+	Query: "27097" ; Times: 1
+	Query: "35723" ; Times: 1
+	Query: "sorex emarginatus" ; Times: 1
+	Query: "geoxus" ; Times: 1
+	Query: "nasua narica" ; Times: 2
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1861 year &lt;= 1865 institutioncode:MSU" ; Times: 1
+	Query: "genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1865" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 2
+	Query: "merriami parvus" ; Times: 1
+	Query: "Canis Lupus baileyi" ; Times: 1
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "Cervus elaphus" ; Times: 3
+	Query: "Oligoryzomys nigripes" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "genus:sorex country:&#34;mexico&#34;" ; Times: 1
+	Query: "CANIS AUREUS" ; Times: 2
+	Query: "canis rufus" ; Times: 8
+	Query: "erythromos" ; Times: 1
+	Query: "Cooper AND Cruz NOT Arizona" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 7
+	Query: "4107" ; Times: 1
+	Query: "dendroica magnolia institutioncode:MSU" ; Times: 1
+	Query: "7017" ; Times: 1
+	Query: "speothos venaticus" ; Times: 2
+	Query: "Oxyura AND Santa Cruz" ; Times: 1
+	Query: "vultur gryphus" ; Times: 2
+	Query: "distance(location,geopoint(29.77709288784297,-107.2265625))&lt;100000" ; Times: 1
+	Query: "Sus scrofa" ; Times: 4
+	Query: "specificepithet:Pennsylvanicus genus:Microtus stateprovince:&#34;New hampshire&#34;" ; Times: 1
+	Query: "Bubalus bubalis" ; Times: 8
+	Query: "Lupinus" ; Times: 1
+	Query: "34844" ; Times: 1
+	Query: "specificepithet:aalge genus:Uria class:aves continent:Europe preparations:egg" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "genus:Spilogale specificepithet:putorius stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 2
+	Query: "specificepithet:calligaster class:Reptilia stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:borealis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "type:specimen specificepithet:leo genus:Panthera country:&#34;South Africa&#34;" ; Times: 1
+	Query: "1831 L" ; Times: 1
+	Query: "genus:anolis institutioncode:MSU" ; Times: 1
+	Query: "haliaeetus vocifer" ; Times: 2
+	Query: "ovis aries" ; Times: 1
+	Query: "Atelerix" ; Times: 2
+	Query: "Panthera" ; Times: 1
+	Query: "Lepus americanus" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "ovibos" ; Times: 3
+	Query: "Rhipidomys mastacalis" ; Times: 1
+	Query: "bubalus" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "dendroica magnolia type:specimen AND (NOT Illinois) month &gt;= 5 month &lt;= 6 institutioncode:MSU" ; Times: 1
+	Query: "genus:somateria stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "order:Carnivora (Weight OR mass) institutioncode:MSU" ; Times: 2
+	Query: "tapirus bairdii" ; Times: 13
+	Query: "4774" ; Times: 1
+	Query: "Capra hircus" ; Times: 1
+	Query: "9197" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "Vidua macroura 1" ; Times: 2
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "gbifdatasetid:22a66350-7947-4a49-84a3-39c7c1b0881f" ; Times: 3
+	Query: "order:Artiodactyla (Weight OR mass) institutioncode:MSU" ; Times: 1
+	Query: "oryzomys couesi" ; Times: 1
+	Query: "Dendrocitta vagabunda delhi" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;new hampshire&#34;" ; Times: 2
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "Mus musculus 1" ; Times: 4
+	Query: "W. S. Milleri" ; Times: 1
+	Query: "genus:Myotis specificepithet:volans stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "4689" ; Times: 1
+	Query: "pan troglodytes" ; Times: 2
+	Query: "leptonycteris yerbabuenae" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; (Erethizon)" ; Times: 1
+	Query: "Spilogale (Texas)" ; Times: 23
+	Query: "2083" ; Times: 1
+	Query: "genus:dasypus country:&#34;Bolivia&#34;" ; Times: 4
+	Query: "Sciurus griseus anthonyi" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1897 year &lt;= 1897" ; Times: 2
+	Query: "canis latrans" ; Times: 10
+	Query: "tachyoryctes" ; Times: 1
+	Query: "25087" ; Times: 1
+	Query: "querula purpurata" ; Times: 3
+	Query: "Tapirus" ; Times: 1
+	Query: "29961" ; Times: 2
+	Query: "distance(location,geopoint(29.311149715308908,-114.08615112304688))&lt;100000" ; Times: 1
+	Query: "india" ; Times: 1
+	Query: "genus:Sigmodon specificepithet:ochrognathus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "specificepithet:excubitor stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1865" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "canis lupus baileyi" ; Times: 2
+	Query: "sus scrofa" ; Times: 3
+	Query: "specificepithet:alba genus:tyto stateprovince:&#34;michigan&#34; year &gt;= 1956 year &lt;= 1960" ; Times: 1
+	Query: "herpailurus" ; Times: 1
+	Query: "7173" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 2
+	Query: "genus:Bison" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 2
+	Query: "castor canadensis" ; Times: 1
+	Query: "continent:Africa (Weight OR mass) institutioncode:MSU" ; Times: 1
+	Query: "genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1897 year &lt;= 1897" ; Times: 2
+	Query: "castor" ; Times: 1
+	Query: "sorex ornatus" ; Times: 8
+	Query: "Catagonus" ; Times: 1
+	Query: "genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1865 year &lt;= 1867" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "saimiri oerstedii" ; Times: 2
+	Query: "Dasypus septemcinctus" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "14557" ; Times: 1
+	Query: "Oligoryzomys destructor" ; Times: 2
+	Query: "7777" ; Times: 1
+	Query: "Mimus thenca" ; Times: 1
+	Query: "myotis grisescens" ; Times: 11
+	Query: "genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1878 year &lt;= 1878" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "genus:Notiosorex country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "genus:bison" ; Times: 5
+	Query: "microtus townsendii" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Erinaceus type:specimen (Native) mappable:1" ; Times: 1
+	Query: "alces alces   " ; Times: 6
+	Query: "specificepithet:palustris genus:sorex stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Oligoryzomys microtis" ; Times: 1
+	Query: "elephas" ; Times: 1
+	Query: "Mimus triurus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "Peromyscus mexicanus" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "Pteronotus davyi" ; Times: 1
+	Query: "Puebla" ; Times: 1
+	Query: "SOREX LONGIROSTRIS" ; Times: 2
+	Query: "34959" ; Times: 2
+	Query: "sorex ornatus}" ; Times: 1
+	Query: "Cuon alpinus" ; Times: 1
+	Query: "Erinaceus type:specimen mappable:1" ; Times: 1
+	Query: "genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1876 year &lt;= 1876" ; Times: 1
+	Query: "dendroica magnolia type:specimen year &gt;= 1930 year &lt;= 2016 institutioncode:MSU" ; Times: 1
+	Query: "8555" ; Times: 1
+	Query: "Phenacomys ungava" ; Times: 4
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "whale" ; Times: 1
+	Query: "Sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "Marmota marmota 1" ; Times: 3
+	Query: "egg florida 1889" ; Times: 1
+	Query: "panthera pardus" ; Times: 3
+	Query: "genus:Vulpes specificepithet:velox stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Primates" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "specificepithet:spectabilis stateprovince:&#34;michigan&#34;" ; Times: 2
+	Query: "bison bison   " ; Times: 9
+	Query: "cuon alpinus" ; Times: 7
+	Query: "Canis rufus" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "canis aureus" ; Times: 7
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;new hampshire&#34; institutioncode:MSU" ; Times: 2
+	Query: "dendroica magnolia type:specimen AND (NOT Illinois) institutioncode:MSU" ; Times: 1
+	Query: "canis lupus   " ; Times: 14
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Maine&#34;" ; Times: 6
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "microtus richardsoni" ; Times: 1
+	Query: "Lonchophylla" ; Times: 1
+	Query: "Rattus rattus 1" ; Times: 7
+	Query: "Rattus norvegicus 1" ; Times: 3
+	Query: "canada goose" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 219 (out of 1052 download events in this period)
+Total number of records downloaded: 8133
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: Mexico ; Times: 91
+	Country: United States ; Times: 112
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-09 ; Times: 3
+	Date: 2016-06-22 ; Times: 5
+	Date: 2016-06-21 ; Times: 5
+	Date: 2016-06-20 ; Times: 16
+	Date: 2016-06-05 ; Times: 6
+	Date: 2016-06-04 ; Times: 3
+	Date: 2016-06-07 ; Times: 5
+	Date: 2016-06-06 ; Times: 6
+	Date: 2016-06-01 ; Times: 5
+	Date: 2016-06-03 ; Times: 10
+	Date: 2016-06-02 ; Times: 10
+	Date: 2016-06-23 ; Times: 8
+	Date: 2016-06-08 ; Times: 17
+	Date: 2016-06-18 ; Times: 9
+	Date: 2016-06-19 ; Times: 5
+	Date: 2016-06-16 ; Times: 10
+	Date: 2016-06-17 ; Times: 14
+	Date: 2016-06-14 ; Times: 21
+	Date: 2016-06-15 ; Times: 23
+	Date: 2016-06-12 ; Times: 3
+	Date: 2016-06-13 ; Times: 27
+	Date: 2016-06-10 ; Times: 4
+	Date: 2016-06-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "dipodomys microps" ; Times: 2
+	Query: "Chiroptera type:specimen country:&#34;Ghana&#34;" ; Times: 1
+	Query: "Apodemus agrarius" ; Times: 1
+	Query: "birds" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Dipodomys merriami parvus" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:borealis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 49
+	Query: "puma concolor" ; Times: 6
+	Query: "Meleagris" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "genus:Taxidea specificepithet:taxus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "Marmota monax" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Apodemus flavicollis" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "canis lupus baileyi" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "grus americana" ; Times: 3
+	Query: "genus:Myotis specificepithet:volans stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "peromyscus mexicanus" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 3
+	Query: "Clethrionomys glareolus" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Bubalus bubalis" ; Times: 4
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Peromyscus mexicanus" ; Times: 1
+	Query: "geoxus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Phascolarctos" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "genus:Spilogale specificepithet:putorius stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "genus:Tadarida specificepithet:brasiliensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Microtus mexicanus" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "erethizon" ; Times: 1
+	Query: "specificepithet:orbicularis family:emydidae" ; Times: 2
+	Query: "Gopherus" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 3
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "Atelerix" ; Times: 2
+	Query: "genus:Geomys specificepithet:personatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America (personatus) mappable:1" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Rhipidomys mastacalis" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "type:specimen genus:Anolis" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "Criniger flaveolus" ; Times: 1
+	Query: "macropus rufus" ; Times: 2
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "leptonycteris yerbabuenae" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; (Erethizon)" ; Times: 1
+	Query: "Spilogale (Texas)" ; Times: 1
+	Query: "E. pectoralis" ; Times: 1
+	Query: "microtus richardsoni" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 3
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sigmodon specificepithet:ochrognathus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "microtus townsendii" ; Times: 1
+	Query: "Catagonus" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "Eschrichtius ROBUSTUS" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Thraupis palmarum" ; Times: 1
+	Query: "peromyscus gossypinus" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "Erinaceus type:specimen (Native) mappable:1" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 2
+	Query: "Martes americana" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "genus:Vulpes specificepithet:velox stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Phenacomys ungava" ; Times: 1
+	Query: "Sorex stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "panthera pardus" ; Times: 1
+	Query: "Canis Lupus baileyi" ; Times: 1
+	Query: "Canis lupus baileyi" ; Times: 2
+	Query: "glossophaga morenoi" ; Times: 2
+	Query: "canis latrans" ; Times: 4
+	Query: "Martes pennanti" ; Times: 1
+	Query: "micrurus fulvius year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+
+
+End of report.
