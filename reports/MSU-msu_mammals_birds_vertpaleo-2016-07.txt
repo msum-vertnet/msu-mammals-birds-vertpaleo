@@ -1,0 +1,787 @@
+Report for Institution Code MSU, Resource msu_mammals_birds_vertpaleo
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 544
+Number of records retrieved in searches: 5103
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 4
+	Country: Colombia ; Times: 15
+	Country: Portugal ; Times: 20
+	Country: Mexico ; Times: 72
+	Country: Denmark ; Times: 2
+	Country: Venezuela ; Times: 2
+	Country: India ; Times: 5
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 6
+	Country: Unknown ; Times: 35
+	Country: Japan ; Times: 16
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 347
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 27
+	Date: 2016-07-10 ; Times: 7
+	Date: 2016-07-13 ; Times: 17
+	Date: 2016-07-12 ; Times: 16
+	Date: 2016-07-15 ; Times: 30
+	Date: 2016-07-14 ; Times: 46
+	Date: 2016-07-17 ; Times: 23
+	Date: 2016-07-16 ; Times: 37
+	Date: 2016-07-19 ; Times: 22
+	Date: 2016-07-18 ; Times: 33
+	Date: 2016-07-20 ; Times: 27
+	Date: 2016-07-21 ; Times: 10
+	Date: 2016-07-23 ; Times: 10
+	Date: 2016-07-24 ; Times: 9
+	Date: 2016-07-25 ; Times: 15
+	Date: 2016-07-26 ; Times: 6
+	Date: 2016-07-27 ; Times: 39
+	Date: 2016-07-06 ; Times: 20
+	Date: 2016-07-07 ; Times: 25
+	Date: 2016-07-22 ; Times: 30
+	Date: 2016-07-05 ; Times: 4
+	Date: 2016-07-08 ; Times: 24
+	Date: 2016-07-09 ; Times: 14
+	Date: 2016-07-28 ; Times: 42
+	Date: 2016-07-29 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:74 institutioncode:MSU" ; Times: 1
+	Query: "type:specimen specificepithet:fusca genus:melanitta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:swainsonii class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:lobatus genus:phalaropus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:acuta genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "inia" ; Times: 1
+	Query: "Myotis oxyotus" ; Times: 2
+	Query: "type:specimen specificepithet:perspicillata genus:melanitta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:semipalmatus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "sciurus variegatoides" ; Times: 1
+	Query: "genus:ectopistes stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "genus:Saguinus mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:marinus genus:larus stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Lepus townsendii" ; Times: 3
+	Query: "tokudaia" ; Times: 1
+	Query: "type:specimen specificepithet:ruficollis genus:stelgidopteryx class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:dominica genus:pluvialis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "genus:ototylomys stateprovince:&#34;chiapas&#34; mappable:1" ; Times: 1
+	Query: "macroscelididae type:specimen preparations:skull" ; Times: 1
+	Query: "panthera onca" ; Times: 15
+	Query: "cannomys" ; Times: 2
+	Query: "type:specimen specificepithet:arcticus genus:picoides class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "peromyscus maniculatus stateprovince:&#34;Texas&#34; mappable:1" ; Times: 5
+	Query: "institutioncode:MSU collectioncode:mr" ; Times: 2
+	Query: "genus:ototylomys distance(location,geopoint(17.881174852189684,-89.912109375))&lt;210992" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "Ateles" ; Times: 1
+	Query: "type:specimen specificepithet:penelope genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen genus:nycticorax class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT zoo NOT captive)" ; Times: 1
+	Query: "type:specimen specificepithet:alcyon genus:ceryle class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "egg 1891 michigan" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "dasypodidae" ; Times: 3
+	Query: "type:specimen specificepithet:spectabilis genus:somateria class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:borealis genus:contopus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Dasypus novemcinctus fenestratus" ; Times: 1
+	Query: "type:specimen genus:pelecanus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT zoo NOT captive)" ; Times: 1
+	Query: "type:specimen specificepithet:griseus genus:limnodromus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:ludoviciana genus:piranga class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Choeronycteris" ; Times: 1
+	Query: "type:specimen genus:stercorarius stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "type:specimen specificepithet:nebulosa genus:strix class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "genus:ototylomys (connectens) mappable:1" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "Chiroptera Bahamas" ; Times: 1
+	Query: "type:specimen genus:chen stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:stellata genus:gavia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:squatarola genus:pluvialis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Chaetodipus eremicus" ; Times: 3
+	Query: "Sciurus yucatanensis baliolus" ; Times: 1
+	Query: "type:specimen specificepithet:melanoleuca genus:tringa class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Mus musculus 1" ; Times: 2
+	Query: "type:specimen specificepithet:grammacus genus:chondestes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "catalognumber:8930 institutioncode:MSU" ; Times: 1
+	Query: "year &gt;= 1962 year &lt;= 1962 institutioncode:MSU" ; Times: 1
+	Query: "type:specimen specificepithet:polyglottos genus:mimus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Sciurus aureogaster aureogaster" ; Times: 1
+	Query: "type:specimen specificepithet:buccinator genus:cygnus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "type:specimen specificepithet:fulicarius genus:phalaropus stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:clypeata genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "type:specimen genus:anser stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:phaeopus genus:numenius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:cupido genus:tympanuchus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "egg michigan 1894" ; Times: 1
+	Query: "Peromyscus spicilegus" ; Times: 1
+	Query: "catalognumber:8929 institutioncode:MSU" ; Times: 1
+	Query: "gbifdatasetid:22a66350-7947-4a49-84a3-39c7c1b0881f" ; Times: 1
+	Query: "Sciurus aureogaster socialis" ; Times: 1
+	Query: "Ithaginis cruentus" ; Times: 1
+	Query: "type:specimen specificepithet:leucocephalus genus:haliaeetus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "type:specimen specificepithet:columbianus genus:cygnus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "catalognumber:12075 institutioncode:MSU" ; Times: 1
+	Query: "golunda" ; Times: 1
+	Query: "Philander opossum opossum" ; Times: 1
+	Query: "stateprovince:&#34;minnesota&#34; specificepithet:hudsonicus genus:tamiasciurus year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "Atelocynus microtis" ; Times: 1
+	Query: "salvini" ; Times: 1
+	Query: "type:specimen specificepithet:canutus genus:calidris class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "catalognumber:741 institutioncode:MSU" ; Times: 1
+	Query: "type:specimen specificepithet:ludovicianus genus:thryothorus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:vermivorus genus:helmitheros class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Glaucomys volans volans" ; Times: 1
+	Query: "class:Mammalia county:&#34;White Pine&#34; stateprovince:&#34;Nevada&#34; year &gt;= 1949 year &lt;= 1960" ; Times: 1
+	Query: "ursus thibetanus" ; Times: 2
+	Query: "buccinator" ; Times: 1
+	Query: "specificepithet:palustris genus:sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:philadelphicus genus:vireo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "22406 institutioncode:MSU" ; Times: 2
+	Query: "Sapheopipo noguchii" ; Times: 5
+	Query: "specificepithet:aura genus:cathartes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "type:specimen specificepithet:motacilla genus:seiurus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Sorex dispar" ; Times: 2
+	Query: "Reithrodontomys humulis" ; Times: 1
+	Query: "type:specimen specificepithet:canadensis genus:perisoreus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:vociferus genus:caprimulgus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Philander opossum fuscogriseus" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 2
+	Query: "type:specimen specificepithet:americanus genus:numenius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "thalpomys" ; Times: 1
+	Query: "type:specimen specificepithet:maximus stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "genus:ototylomys distance(location,geopoint(17.964800225241323,-90.5712890625))&lt;100000" ; Times: 2
+	Query: "specificepithet:petaurista genus:Cercopithecus" ; Times: 1
+	Query: "type:specimen specificepithet:chrysaetos genus:aquila class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:virescens genus:empidonax class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "15563 institutioncode:MSU" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:parula class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "micromys minutus" ; Times: 3
+	Query: "Cygnus olor 1" ; Times: 1
+	Query: "scrofa" ; Times: 1
+	Query: "type:specimen specificepithet:alba genus:motacilla class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "distance(location,geopoint(22.725734872228674,-102.59239196777344))&lt;9820.150171433965" ; Times: 1
+	Query: "turdoides caudatus india" ; Times: 1
+	Query: "type:specimen specificepithet:canadensis genus:branta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen genus:gallinula class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:noveboracensis genus:coturnicops class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis preparations:skin" ; Times: 1
+	Query: "Sylvilagus floridanus chapmani" ; Times: 2
+	Query: "type:specimen specificepithet:naevius genus:ixoreus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "&#34;wintergreen lake&#34; class:aves stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "martes americana mappable:1" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 2
+	Query: "22406" ; Times: 1
+	Query: "herpestes" ; Times: 1
+	Query: "chiroptera bahamas" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "Chironectes minimus minimus" ; Times: 1
+	Query: "type:specimen specificepithet:funereus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "hashid:1" ; Times: 1
+	Query: "hashid:0" ; Times: 1
+	Query: "type:specimen genus:pelecanus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "type:specimen specificepithet:xanthocephalus genus:xanthocephalus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "pterocles indicus" ; Times: 5
+	Query: "family:Macroscelididae institutioncode:MSU" ; Times: 1
+	Query: "type:specimen specificepithet:pipixcan stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Eira barbara" ; Times: 2
+	Query: "type:specimen specificepithet:spinoletta genus:anthus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen genus:pandion class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Microsciurus" ; Times: 1
+	Query: "type:specimen specificepithet:neglecta genus:sturnella class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:interpres genus:arenaria class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:canadensis genus:grus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Nevada&#34;" ; Times: 4
+	Query: "bobcat" ; Times: 1
+	Query: "type:specimen specificepithet:flammeus genus:asio class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:forsteri genus:sterna stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "chiroptera country:&#34;bahamas&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:strepera genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:oxyura class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "specificepithet:talpoides genus:Thomomys stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Romerolagus diazi" ; Times: 2
+	Query: "genus:clethrionomys stateprovince:&#34;new hampshire&#34; institutioncode:MSU" ; Times: 2
+	Query: "Galictis vittata" ; Times: 1
+	Query: "type:specimen genus:uria class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "elaphe longissima" ; Times: 1
+	Query: "corvus cryptoleucus chihuahua" ; Times: 1
+	Query: "Pteropus dasymallus" ; Times: 1
+	Query: "type:specimen genus:Perognathus stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 2016" ; Times: 1
+	Query: "Peromyscus maniculatus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "millardia" ; Times: 1
+	Query: "type:specimen specificepithet:olor genus:cygnus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "Vidua macroura 1" ; Times: 1
+	Query: "Marmota marmota 1" ; Times: 2
+	Query: "Conepatus leuconotus" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Cyclopes didactylus didactylus" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(20.165974490292722,-102.568359375))&lt;100000" ; Times: 1
+	Query: "type:specimen specificepithet:citrina genus:wilsonia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Atelocynus" ; Times: 1
+	Query: "peromyscus maniculatus stateprovince:&#34;Oklahoma&#34; mappable:1" ; Times: 2
+	Query: "Chironectes minimus panamensis" ; Times: 1
+	Query: "type:specimen specificepithet:otus genus:asio class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "catalognumber:2774 institutioncode:MSU" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 1
+	Query: "type:specimen specificepithet:novemcinctus genus:dasypus" ; Times: 1
+	Query: "pigeon stateprovince:&#34;ontario&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "genus:ototylomys stateprovince:&#34;chiapas&#34; year &gt;= 1969 year &lt;= 1969 month &gt;= 7 month &lt;= 7 institutioncode:MSU" ; Times: 1
+	Query: "Ovis canadensis Arizona" ; Times: 1
+	Query: "Leptonycteris yerbabuenae" ; Times: 1
+	Query: "genus:Choeroniscus" ; Times: 1
+	Query: "type:specimen genus:Perognathus stateprovince:&#34;Nevada&#34; year &gt;= 1895 year &lt;= 1950" ; Times: 1
+	Query: "Skeleton type:specimen specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "type:specimen specificepithet:caerulea genus:egretta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT zoo NOT captive)" ; Times: 1
+	Query: "Sciurus aureogaster oaxaca" ; Times: 1
+	Query: "catalognumber:5546 institutioncode:MSU" ; Times: 1
+	Query: "lepus townsendii" ; Times: 2
+	Query: "Madoqua kirkii type:specimen" ; Times: 1
+	Query: "Rattus rattus 1" ; Times: 2
+	Query: "institutioncode:MSU collectioncode:or" ; Times: 3
+	Query: "type:specimen specificepithet:verticalis genus:tyrannus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Trowbridge" ; Times: 2
+	Query: "catalognumber:4347 institutioncode:MSU" ; Times: 1
+	Query: "Ateles geoffroyi geoffroyi" ; Times: 1
+	Query: "type:specimen specificepithet:migratorius genus:ectopistes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "catalognumber:4349 institutioncode:MSU" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 2
+	Query: "type:specimen specificepithet:alba genus:tyto class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:phasianellus genus:tympanuchus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:aythya class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:serrator genus:mergus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "catalognumber:7197 institutioncode:MSU" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; year &gt;= 1962 year &lt;= 1962 month &gt;= 2 month &lt;= 4 institutioncode:MSU" ; Times: 1
+	Query: "primates" ; Times: 2
+	Query: "type:specimen specificepithet:lagopus genus:buteo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:fulicarius genus:phalaropus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:livia genus:columba class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen genus:pandion stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "macroscelididae institutioncode:MSU" ; Times: 1
+	Query: "genus:ototylomys stateprovince:&#34;chiapas&#34; institutioncode:MSU" ; Times: 3
+	Query: "Mammalia (Casanare)" ; Times: 1
+	Query: "class:aves stateprovince:&#34;california&#34; preparations:egg year &gt;= 1904 year &lt;= 1904" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "big bend national park" ; Times: 1
+	Query: "type:specimen specificepithet:chloropus genus:gallinula class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "type:specimen specificepithet:sponsa genus:aix class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "Sciurus variegatoides" ; Times: 1
+	Query: "type:specimen specificepithet:gentilis genus:accipiter class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:grisegena genus:podiceps class:aves stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "Pecari" ; Times: 2
+	Query: "type:specimen specificepithet:pyrrhonota genus:hirundo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:cyanoptera genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "Potos flavus type:specimen" ; Times: 1
+	Query: "33274" ; Times: 1
+	Query: "Spilogale (Texas)" ; Times: 26
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "type:specimen specificepithet:celata genus:vermivora class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "18611" ; Times: 1
+	Query: "type:specimen specificepithet:querula genus:zonotrichia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 17
+	Query: "type:specimen specificepithet:crecca genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:elegans genus:rallus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:macularia genus:actitis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "catalognumber:13734" ; Times: 1
+	Query: "type:specimen specificepithet:marila genus:aythya class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:semipalmatus genus:charadrius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Sciurus deppei deppei" ; Times: 2
+	Query: "pedetes capensis type:specimen" ; Times: 1
+	Query: "SYLVILAGUS BRASILIENSIS" ; Times: 1
+	Query: "type:specimen specificepithet:pinus genus:vermivora class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb) institutioncode:MSU" ; Times: 1
+	Query: "type:specimen specificepithet:stellata genus:gavia stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "weasel" ; Times: 1
+	Query: "type:specimen specificepithet:valisineria genus:aythya class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Reptilia Louisiana institutioncode:MSU" ; Times: 1
+	Query: "type:specimen specificepithet:excubitor genus:lanius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 3
+	Query: "ESCUINAPA" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "type:specimen genus:dendragapus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "specificepithet:osseus genus:Lepisosteus" ; Times: 1
+	Query: "catalognumber:5584 institutioncode:MSU" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:penelope genus:anas stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "catalognumber:740 institutioncode:MSU" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "type:specimen specificepithet:pileatus genus:dryocopus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "class:Mammalia county:&#34;Richland&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 6
+	Query: "tachyoryctes" ; Times: 1
+	Query: "Lamprotornis chalybaeus 1" ; Times: 1
+	Query: "2635" ; Times: 1
+	Query: "year &gt;= 1962 year &lt;= 1962 month &gt;= 2 month &lt;= 4 institutioncode:MSU" ; Times: 1
+	Query: "specificepithet:macroura genus:Dendrortyx" ; Times: 2
+	Query: "cavia aperea type:specimen" ; Times: 1
+	Query: "Lorain County" ; Times: 2
+	Query: "eira barbara" ; Times: 5
+	Query: "type:specimen specificepithet:longicaudus genus:stercorarius stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "Dasypus novemcinctus novemcinctus" ; Times: 1
+	Query: "guadalajara" ; Times: 1
+	Query: "myotis grisescens" ; Times: 2
+	Query: "Mustela frenata" ; Times: 1
+	Query: "type:specimen specificepithet:chrysoptera genus:vermivora class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb) institutioncode:MSU" ; Times: 1
+	Query: "genus:pandion class:aves stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "Dasyprocta mexicana" ; Times: 1
+	Query: "Caluromys derbianus derbianus" ; Times: 1
+	Query: "pterocles indicus india" ; Times: 1
+	Query: "vipera berus" ; Times: 1
+	Query: "Asio flammeus New Mexico" ; Times: 1
+	Query: "type:specimen specificepithet:scandiaca genus:bubo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:longicauda genus:bartramia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:spiza class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "type:specimen specificepithet:bernicla genus:branta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen genus:micropalama class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Tragopan satyra" ; Times: 1
+	Query: "29865" ; Times: 1
+	Query: "marmota monax type:specimen" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "recordedby:Page" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;maine&#34;" ; Times: 2
+	Query: "catalognumber:4348 institutioncode:MSU" ; Times: 1
+	Query: "type:specimen specificepithet:rosmarus genus:odobenus institutioncode:MSU" ; Times: 2
+	Query: "spilogale putorius" ; Times: 1
+	Query: "Spilogale" ; Times: 1
+	Query: "Buteo albicaudatus Mexico" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; distance(location,geopoint(30.410781790845892,-97.62451171875))&lt;100000" ; Times: 1
+	Query: "catalognumber:15563 institutioncode:MSU" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "Glaucomys volans querceti" ; Times: 1
+	Query: "macrophyllum macrophyllum" ; Times: 9
+	Query: "type:specimen specificepithet:albifrons genus:anser class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:ulula genus:surnia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:nigra genus:melanitta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Tamandua mexicana mexicana" ; Times: 1
+	Query: "type:specimen specificepithet:virens genus:icteria class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "emys orbicularis" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter country:&#34;Mexico&#34; month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "12159" ; Times: 1
+	Query: "Reithrodontomys humulis type:specimen" ; Times: 1
+	Query: "genus:clethrionomys stateprovince:&#34;new hampshire&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:melodus genus:charadrius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Ursus arctos" ; Times: 2
+	Query: "Didelphis marsupialis marsupialis" ; Times: 1
+	Query: "Erethizon dorsatum type:specimen" ; Times: 1
+	Query: "stateprovince:&#34;morelos&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "potos" ; Times: 2
+	Query: "type:specimen specificepithet:collaris genus:aythya class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "catalognumber:1215" ; Times: 1
+	Query: "diclidurus albus" ; Times: 2
+	Query: "specificepithet:nivalis genus:mustela" ; Times: 1
+	Query: "(Casanare)" ; Times: 1
+	Query: "type:specimen specificepithet:parasiticus genus:stercorarius stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "catalognumber:18873" ; Times: 1
+	Query: "Choeroniscus" ; Times: 1
+	Query: "macroscelididae" ; Times: 5
+	Query: "type:specimen genus:Perognathus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "procavia" ; Times: 2
+	Query: "type:specimen specificepithet:agilis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen catalognumber:3956" ; Times: 1
+	Query: "26335" ; Times: 1
+	Query: "macroscelididae type:specimen" ; Times: 3
+	Query: "genus:nycticorax class:aves stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "isle royale" ; Times: 2
+	Query: "type:specimen specificepithet:caerulescens genus:chen class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "family:dasypodidae" ; Times: 8
+	Query: "Peromyscus evides" ; Times: 1
+	Query: "22a66350-7947-4a49-84a3-39c7c1b0881f" ; Times: 1
+	Query: "catagonus wagneri" ; Times: 2
+	Query: "catalognumber:5586 institutioncode:MSU" ; Times: 1
+	Query: "martes" ; Times: 1
+	Query: "Cyclopes didactylus dorsalis" ; Times: 1
+	Query: "type:specimen specificepithet:garrulus genus:bombycilla class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Nyctereutes procyonoides 1" ; Times: 3
+	Query: "type:specimen specificepithet:lobatus genus:phalaropus stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:spurius genus:icterus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:traillii genus:empidonax class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Sylvilagus floridanus holzneri" ; Times: 1
+	Query: "Lake Superior" ; Times: 1
+	Query: "catalognumber:10416 institutioncode:MSU" ; Times: 1
+	Query: "Oryzomys albigularis" ; Times: 1
+	Query: "country:&#34;India&#34;" ; Times: 3
+	Query: "Dasypus novemcinctus mexicanus" ; Times: 1
+	Query: "type:specimen specificepithet:familiaris genus:certhia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Colinus virginianus 1" ; Times: 1
+	Query: "catalognumber:739 institutioncode:MSU" ; Times: 1
+	Query: "type:specimen specificepithet:discolor genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:fuscicollis genus:calidris class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:solitarius genus:vireo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Calpulalpan" ; Times: 1
+	Query: "type:specimen specificepithet:gilvus genus:vireo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:corax genus:corvus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "type:specimen specificepithet:bairdii genus:calidris class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:discors genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Melopsittacus undulatus 1" ; Times: 1
+	Query: "Alouatta" ; Times: 1
+	Query: "recordedby:Blomberg" ; Times: 1
+	Query: "genus:ototylomys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 445 (out of 1219 download events in this period)
+Total number of records downloaded: 111439
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Netherlands ; Times: 110
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 29
+	Country: France ; Times: 3
+	Country: United States ; Times: 270
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: New Zealand ; Times: 1
+	Country: Venezuela ; Times: 2
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 14
+	Date: 2016-07-10 ; Times: 13
+	Date: 2016-07-13 ; Times: 15
+	Date: 2016-07-12 ; Times: 9
+	Date: 2016-07-15 ; Times: 25
+	Date: 2016-07-14 ; Times: 13
+	Date: 2016-07-17 ; Times: 26
+	Date: 2016-07-16 ; Times: 23
+	Date: 2016-07-19 ; Times: 17
+	Date: 2016-07-18 ; Times: 37
+	Date: 2016-07-20 ; Times: 32
+	Date: 2016-07-07 ; Times: 15
+	Date: 2016-07-23 ; Times: 20
+	Date: 2016-07-24 ; Times: 15
+	Date: 2016-07-25 ; Times: 23
+	Date: 2016-07-26 ; Times: 20
+	Date: 2016-07-27 ; Times: 22
+	Date: 2016-07-06 ; Times: 1
+	Date: 2016-07-21 ; Times: 22
+	Date: 2016-07-22 ; Times: 15
+	Date: 2016-07-05 ; Times: 1
+	Date: 2016-07-08 ; Times: 13
+	Date: 2016-07-09 ; Times: 15
+	Date: 2016-07-28 ; Times: 33
+	Date: 2016-07-29 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "type:specimen specificepithet:varius genus:sphyrapicus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:enucleator genus:pinicola class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:bicolor genus:parus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:lentiginosus genus:botaurus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT zoo NOT captive)" ; Times: 1
+	Query: "Luscinia svecica" ; Times: 1
+	Query: "type:specimen specificepithet:delawarensis genus:larus stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:aedon genus:troglodytes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:fusca genus:melanitta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:melospiza class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:cardinalis genus:cardinalis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:savannarum genus:ammodramus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Leptonycteris yerbabuenae" ; Times: 1
+	Query: "type:specimen specificepithet:erythrophthalmus genus:pipilo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:gentilis genus:accipiter class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "marmota monax type:specimen" ; Times: 1
+	Query: "thalpomys" ; Times: 1
+	Query: "type:specimen specificepithet:flavipes genus:tringa class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:platensis genus:cistothorus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "type:specimen specificepithet:celata genus:vermivora class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:virens genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "type:specimen specificepithet:colchicus genus:phasianus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:migratorius genus:ectopistes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:accipiter class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:ruficapilla genus:vermivora class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:fulica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "&#34;sciurus carolinensis&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:olivaceus genus:vireo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:exilis genus:ixobrychus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:cerulea genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:riparia genus:riparia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "type:specimen specificepithet:virens genus:contopus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:alba genus:tyto class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:alpestris genus:eremophila class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:sandwichensis genus:passerculus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 115
+	Query: "type:specimen specificepithet:ater genus:molothrus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:virescens genus:empidonax class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:iliaca genus:passerella class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:pinus genus:vermivora class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "type:specimen specificepithet:clangula genus:bucephala class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:vociferus genus:caprimulgus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:albicollis genus:zonotrichia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:aythya class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:passerina genus:spizella class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:caspia stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:serrator genus:mergus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Notiosorex crawfordi type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:ludovicianus genus:lanius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "elaphe guttata" ; Times: 1
+	Query: "genus:Saguinus mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:argentatus genus:larus stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:flammea genus:carduelis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:parula class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:kirtlandii genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:lagopus genus:buteo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "buccinator" ; Times: 1
+	Query: "type:specimen specificepithet:dominica genus:pluvialis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:olivacea genus:piranga class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:magna genus:sturnella class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:satrapa genus:regulus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "macroscelididae type:specimen preparations:skull" ; Times: 1
+	Query: "type:specimen specificepithet:philadelphia genus:oporornis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:troglodytes genus:troglodytes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:livia genus:columba class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:noveboracensis genus:coturnicops class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Cavia porcellus type:specimen" ; Times: 2
+	Query: "type:specimen specificepithet:pinus genus:carduelis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:minutilla genus:calidris class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:pusilla genus:calidris class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:arcticus genus:picoides class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:canadensis genus:branta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Michigan Mammalia" ; Times: 1
+	Query: "type:specimen specificepithet:fusca genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:auratus genus:colaptes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "&#34;Spermophilus beecheyi&#34; mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:carolinus genus:euphagus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:vulgaris genus:sturnus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:pensylvanica genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis preparations:skin" ; Times: 1
+	Query: "type:specimen specificepithet:fuscescens genus:catharus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:petechia genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Reithrodontomys humulis type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen genus:Dendroica country:&#34;Canada&#34; month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "type:specimen genus:junco class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:ludovicianus genus:pheucticus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:minor genus:chordeiles class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:olor genus:cygnus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:minimus genus:catharus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "mammalia" ; Times: 2
+	Query: "type:specimen specificepithet:chloropus genus:gallinula class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:sponsa genus:aix class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:leucocephalus genus:haliaeetus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "type:specimen specificepithet:cedrorum genus:bombycilla class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:villosus genus:picoides class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:sialis genus:sialia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:funereus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:affinis genus:aythya class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:pyrrhonota genus:hirundo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:sitta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:carolinus genus:melanerpes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "dasypodidae" ; Times: 1
+	Query: "type:specimen specificepithet:melodus genus:charadrius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:leucophrys genus:zonotrichia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:gramineus genus:pooecetes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:melanotos genus:calidris class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:borealis genus:contopus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:magnolia genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:novemcinctus genus:dasypus" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "type:specimen specificepithet:domesticus genus:passer class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:alcyon genus:ceryle class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:griseus genus:limnodromus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:acadicus genus:aegolius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:caerulescens genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:albeola genus:bucephala class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:palmarum genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:varia genus:strix class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:erythropthalmus genus:coccyzus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:colubris genus:archilochus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:brachyrhynchos genus:corvus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:agelaius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:macroura class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:limicola genus:rallus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:crecca genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Erethizon dorsatum type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:aurocapillus genus:seiurus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:herodias class:aves stateprovince:&#34;MICHIGAN&#34; AND (NOT audio NOT zoo NOT captive)" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "type:specimen specificepithet:elegans genus:rallus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:hirundo genus:sterna stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "catharus guttatus" ; Times: 1
+	Query: "type:specimen specificepithet:cristata genus:cyanocitta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:collaris genus:aythya class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:noveboracensis genus:seiurus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:varia genus:mniotilta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:alba genus:calidris class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:pinus genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:oxyura class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:phoebe genus:sayornis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:marila genus:aythya class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:vespertinus genus:coccothraustes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:arborea class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:semipalmatus genus:charadrius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "perognathus" ; Times: 2
+	Query: "type:specimen specificepithet:chrysoptera genus:vermivora class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:rufum genus:toxostoma class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "pedetes capensis type:specimen" ; Times: 1
+	Query: "Madoqua kirkii type:specimen" ; Times: 2
+	Query: "Potos flavus type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:cyanea genus:passerina class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:auritus genus:podiceps class:aves stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "type:specimen specificepithet:atricapillus genus:parus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Choeroniscus" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:spiza class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:trichas genus:geothlypis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:interpres genus:arenaria class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:canadensis genus:grus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:purpureus genus:carpodacus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:valisineria genus:aythya class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:flammeus genus:asio class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:umbellus genus:bonasa class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:coronata genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:tyrannus genus:tyrannus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:pubescens genus:picoides class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:grammacus genus:chondestes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Suncus murinus type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:agilis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:palustris genus:cistothorus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:pelagica genus:chaetura class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "macroscelididae type:specimen" ; Times: 1
+	Query: "genus:nycticorax class:aves stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "type:specimen specificepithet:alpina genus:calidris class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:clypeata genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen class:aves county:&#34;El paso&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "isle royale" ; Times: 1
+	Query: "type:specimen specificepithet:quiscula genus:quiscalus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:asio genus:otus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:lineatus genus:buteo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:acuta genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "Peromyscus polionotus type:specimen" ; Times: 1
+	Query: "boidae" ; Times: 1
+	Query: "type:specimen specificepithet:crinitus genus:myiarchus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "type:specimen specificepithet:canadensis genus:perisoreus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "family:dasypodidae" ; Times: 1
+	Query: "mammalia Mexico" ; Times: 4
+	Query: "type:specimen specificepithet:pusilla genus:spizella class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Onychomys torridus New Mexico" ; Times: 1
+	Query: "type:specimen specificepithet:bicolor genus:tachycineta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:exilis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT zoo NOT captive)" ; Times: 2
+	Query: "&#34;Anser albifrons&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:buteo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:oryzivorus genus:dolichonyx class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 3
+	Query: "Ara militaris" ; Times: 2
+	Query: "type:specimen specificepithet:merganser genus:mergus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:hyemalis genus:clangula class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:phasianellus genus:tympanuchus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Criniger flaveolus" ; Times: 1
+	Query: "type:specimen genus:phalacrocorax class:aves stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "NICARAGUA" ; Times: 2
+	Query: "type:specimen specificepithet:georgiana genus:melospiza class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:garrulus genus:bombycilla class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "specificepithet:immer genus:gavia stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "motacilla" ; Times: 1
+	Query: "type:specimen specificepithet:galbula genus:icterus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:pileatus genus:dryocopus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:spurius genus:icterus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:columbianus genus:cygnus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:virginianus genus:bubo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:mustelina genus:HYLOCICHLA class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "Pteropus dasymallus" ; Times: 1
+	Query: "type:specimen specificepithet:traillii genus:empidonax class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:longicauda genus:bartramia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:otus genus:asio class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:minor genus:scolopax class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Oryzomys albigularis" ; Times: 1
+	Query: "type:specimen specificepithet:platypterus genus:buteo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:peregrina genus:vermivora class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:pallida genus:spizella class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:canadensis genus:wilsonia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:vociferus genus:charadrius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:macularia genus:actitis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "cavia aperea type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:minimus genus:empidonax class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:migratorius genus:turdus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:virginianus genus:colinus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:leucoptera genus:loxia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "stateprovince:&#34;minnesota&#34; specificepithet:hudsonicus genus:tamiasciurus year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "Atelocynus microtis" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "type:specimen specificepithet:canutus genus:calidris class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "type:specimen specificepithet:familiaris genus:certhia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:canadensis genus:sitta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:melanoleuca genus:tringa class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:erythrocephalus genus:melanerpes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:americanus genus:coccyzus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:discolor genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:solitarius genus:vireo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen genus:Perognathus stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 2016" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "type:specimen specificepithet:rustica genus:hirundo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:carolina genus:porzana class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:cupido genus:tympanuchus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:rubripes genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:gilvus genus:vireo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:tigrina genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "genus:pandion class:aves stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 2
+	Query: "type:specimen specificepithet:corax genus:corvus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:dumetella class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:chlidonias stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen genus:butorides class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT zoo NOT captive)" ; Times: 1
+	Query: "type:specimen specificepithet:subis genus:progne class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "type:specimen specificepithet:calendula genus:regulus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:squatarola genus:pluvialis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen genus:Perognathus stateprovince:&#34;Nevada&#34; year &gt;= 1895 year &lt;= 1950" ; Times: 1
+	Query: "type:specimen specificepithet:grisegena genus:podiceps class:aves stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "type:specimen specificepithet:discors genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:immer genus:gavia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "class:Mammalia locality:buenos aires year &gt;= 1900 hassex:1" ; Times: 1
+	Query: "type:specimen specificepithet:flavifrons genus:vireo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:sparverius genus:falco class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "family:phalacrocoracidae class:Aves stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "vipera berus" ; Times: 1
+	Query: "type:specimen specificepithet:nivalis genus:plectrophenax class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:guttatus genus:catharus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:ruticilla genus:setophaga class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:philadelphicus genus:vireo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:scandiaca genus:bubo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:caerulea genus:polioptila class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:platyrhynchos genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:excubitor genus:lanius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "reptilia Mexico" ; Times: 6
+	Query: "genus:Aphelocoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "type:specimen genus:dendragapus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "specificepithet:aura genus:cathartes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "lepus townsendii" ; Times: 1
+	Query: "type:specimen specificepithet:motacilla genus:seiurus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "type:specimen specificepithet:tristis genus:carduelis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:striata genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:curvirostra genus:loxia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:flaviventris genus:empidonax class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:lapponicus genus:calcarius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Skeleton type:specimen specificepithet:arctos genus:Ursus" ; Times: 3
+
+
+End of report.
