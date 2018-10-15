@@ -1,0 +1,168 @@
+Report for Institution Code MSU, Resource msu_mammals_birds_vertpaleo
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 134
+Number of records retrieved in searches: 1283
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: South Africa ; Times: 2
+	Country: Unknown ; Times: 8
+	Country: Mexico ; Times: 8
+	Country: France ; Times: 3
+	Country: United States ; Times: 108
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 30
+	Date: 2017-11-29 ; Times: 15
+	Date: 2017-11-26 ; Times: 10
+	Date: 2017-11-27 ; Times: 54
+	Date: 2017-11-24 ; Times: 13
+	Date: 2017-11-25 ; Times: 5
+	Date: 2017-11-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:leucotis genus:sigmodon country:&#34;mexico&#34;" ; Times: 2
+	Query: "nycticeius humeralis" ; Times: 3
+	Query: "genus:Diceros" ; Times: 1
+	Query: "peromyscus oaxacensis" ; Times: 1
+	Query: "vntype:specimen class:Mammalia catalognumber:12642" ; Times: 1
+	Query: "peromyscus stephani" ; Times: 1
+	Query: "Megadontomys thomasi" ; Times: 1
+	Query: "peromyscus aztecus mappable:1" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "specificepithet:ochrogaster genus:Microtus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Chondestes grammacus minnesota" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "Mustelidae skeleton Gulo gulo" ; Times: 5
+	Query: "genus:Romerolagus" ; Times: 1
+	Query: "genus:Phainopepla class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1915" ; Times: 1
+	Query: "egg greenland" ; Times: 1
+	Query: "suricata" ; Times: 1
+	Query: "genus:crocidura country:&#34;kenya&#34;" ; Times: 2
+	Query: "specificepithet:galbula genus:Icterus class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769" ; Times: 1
+	Query: "peromyscus evides" ; Times: 1
+	Query: "peromyscus hylocetes" ; Times: 2
+	Query: "country:&#34;canada&#34; recordedby:forge" ; Times: 1
+	Query: "genus:Vipera year &gt;= 1980 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:fulgens genus:Ailurus mappable:1" ; Times: 1
+	Query: "galerella" ; Times: 1
+	Query: "Eidolon" ; Times: 1
+	Query: "specificepithet:bison genus:bison mappable:1" ; Times: 1
+	Query: "Tayassuidae Pecari tajacu" ; Times: 1
+	Query: "peromyscus spicilegus" ; Times: 1
+	Query: "genus:canis stateprovince:&#34;michigan&#34; year &gt;= 1990 year &lt;= 2017 institutioncode:MSU" ; Times: 1
+	Query: "Tayassuidae Tayassu tajacu" ; Times: 1
+	Query: "specificepithet:macrotis genus:Nyctinomops country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:mocinno genus:Pharomachrus class:aves institutioncode:MSU" ; Times: 1
+	Query: "peromyscus simulus" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera mappable:1" ; Times: 1
+	Query: "Bassaricyon gabbii" ; Times: 5
+	Query: "nasua narica" ; Times: 1
+	Query: "diclidurus" ; Times: 3
+	Query: "peromyscus aztecus" ; Times: 5
+	Query: "35377" ; Times: 1
+	Query: "12642" ; Times: 1
+	Query: "specificepithet:canadensis genus:Lontra mappable:1" ; Times: 1
+	Query: "peromyscus gratus" ; Times: 1
+	Query: "specificepithet:jacksoni genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:camelopardalis genus:Giraffa mappable:1" ; Times: 1
+	Query: "canis latrans skeleton" ; Times: 2
+	Query: "genus:Campylorhynchus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1895" ; Times: 1
+	Query: "tapiridae" ; Times: 1
+	Query: "isle royale" ; Times: 2
+	Query: "berlandieri specificepithet:hispidus genus:sigmodon country:&#34;mexico&#34;" ; Times: 3
+	Query: "genus:Crotalus catalognumber:1070" ; Times: 1
+	Query: "Tayassuidae Pecari tajacu skeleton" ; Times: 2
+	Query: "specificepithet:brevicauda genus:zygodontomys country:&#34;Panama&#34;" ; Times: 1
+	Query: "peromyscus levipes" ; Times: 2
+	Query: "Didelphis marsupialis" ; Times: 4
+	Query: "alces" ; Times: 1
+	Query: "genus:canis stateprovince:&#34;michigan&#34; institutioncode:MSU" ; Times: 1
+	Query: "saguinus geoffroyi" ; Times: 1
+	Query: "reithrodontomys microdon" ; Times: 2
+	Query: "order:artiodactyla country:&#34;kenya&#34;" ; Times: 1
+	Query: "Mustelidae Gulo gulo" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Equidae skeleton equus" ; Times: 1
+	Query: "Galerella" ; Times: 1
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 1
+	Query: "specificepithet:astutus genus:bassariscus mappable:1" ; Times: 1
+	Query: "family:viverridae order:carnivora" ; Times: 2
+	Query: "Pilosa" ; Times: 2
+	Query: "specificepithet:dorsatum genus:erethizon class:mammalia mappable:1" ; Times: 1
+	Query: "specificepithet:ornatus genus:tremarctos class:mammalia mappable:1" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus mappable:1" ; Times: 1
+	Query: "panthera tigris skeleton" ; Times: 1
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "Ontario Vulpes Vulpes" ; Times: 1
+	Query: "genus:canis stateprovince:&#34;michigan&#34; year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 9
+	Query: "Vulpes vulpes Ontario" ; Times: 3
+	Query: "Tadarida brasiliensis vntype:specimen stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "elephas" ; Times: 3
+	Query: "Myrmecophagidae skeleton tridactyla" ; Times: 1
+	Query: "vntype:specimen specificepithet:indicus genus:Tapirus" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:dasypus class:mammalia mappable:1" ; Times: 1
+	Query: "Haliaeetus albicilla egg" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "Panthera tigris skin" ; Times: 1
+	Query: "&#34;peromyscus levipes&#34;" ; Times: 1
+	Query: "specificepithet:gallus genus:Gallus year &gt;= 1835 year &lt;= 1900" ; Times: 2
+	Query: "Vampyressa pusilla" ; Times: 1
+	Query: "vntype:specimen specificepithet:europaeus genus:Erinaceus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1101 download events in this period)
+Total number of records downloaded: 11943
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 18
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 2
+	Date: 2017-11-29 ; Times: 5
+	Date: 2017-11-26 ; Times: 4
+	Date: 2017-11-27 ; Times: 13
+	Date: 2017-11-24 ; Times: 1
+	Date: 2017-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:chiroptera" ; Times: 2
+	Query: "peromyscus hylocetes" ; Times: 3
+	Query: "greenland aves" ; Times: 1
+	Query: "specificepithet:carbonaria genus:Diglossa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 2
+	Query: "genus:Lophorina" ; Times: 1
+	Query: "specificepithet:ornatus genus:tremarctos class:mammalia mappable:1" ; Times: 1
+	Query: "genus:canis stateprovince:&#34;michigan&#34; year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "peromyscus rowleyi" ; Times: 1
+	Query: "peromyscus stephani" ; Times: 1
+	Query: "Myioborus melanocephalus" ; Times: 1
+	Query: "vntype:specimen specificepithet:indicus genus:Tapirus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "peromyscus oaxacensis" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "genus: Sylvilagus floridanus" ; Times: 1
+	Query: "peromyscus evides" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "vntype:specimen specificepithet:europaeus genus:Erinaceus" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
