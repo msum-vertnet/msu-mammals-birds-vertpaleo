@@ -1,0 +1,813 @@
+Report for Institution Code MSU, Resource msu_mammals_birds_vertpaleo
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1057
+Number of records retrieved in searches: 21620
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 79
+	Country: Australia ; Times: 4
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 42
+	Country: Egypt ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 3
+	Country: Nepal ; Times: 5
+	Country: Singapore ; Times: 2
+	Country: United States ; Times: 893
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 7
+	Country: Belgium ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Hong Kong ; Times: 1
+	Country: Argentina ; Times: 7
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 19
+	Date: 2020-05-24 ; Times: 26
+	Date: 2020-05-27 ; Times: 72
+	Date: 2020-05-26 ; Times: 117
+	Date: 2020-05-21 ; Times: 13
+	Date: 2020-05-20 ; Times: 6
+	Date: 2020-05-23 ; Times: 17
+	Date: 2020-05-22 ; Times: 32
+	Date: 2020-05-29 ; Times: 5
+	Date: 2020-05-28 ; Times: 30
+	Date: 2020-05-18 ; Times: 11
+	Date: 2020-05-19 ; Times: 13
+	Date: 2020-05-10 ; Times: 13
+	Date: 2020-05-11 ; Times: 7
+	Date: 2020-05-12 ; Times: 10
+	Date: 2020-05-13 ; Times: 18
+	Date: 2020-05-14 ; Times: 19
+	Date: 2020-05-15 ; Times: 13
+	Date: 2020-05-16 ; Times: 13
+	Date: 2020-05-17 ; Times: 35
+	Date: 2020-05-30 ; Times: 20
+	Date: 2020-05-31 ; Times: 427
+	Date: 2020-05-09 ; Times: 16
+	Date: 2020-05-08 ; Times: 26
+	Date: 2020-05-07 ; Times: 20
+	Date: 2020-05-06 ; Times: 14
+	Date: 2020-05-05 ; Times: 8
+	Date: 2020-05-04 ; Times: 12
+	Date: 2020-05-03 ; Times: 9
+	Date: 2020-05-02 ; Times: 10
+	Date: 2020-05-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "preparations:fluid (Phyllostomus ) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Eptesicus fuscus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 3
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "preparations:fluid ( levipes) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Cervidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (Eptesicus somalicus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Diphylla ecaudata) AND (NOT skull) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Saccopteryx) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Phyllostomidae) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosops noctivagus " ; Times: 3
+	Query: "larus maculipennis" ; Times: 3
+	Query: "preparations:fluid (Micronycteris) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "preparations:fluid (Mustelidae) AND (NOT skull NOT skin) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Hylonycteris underwoodi) AND (NOT skull) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Dasyproctidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Mustelidae) AND (NOT skull ) institutioncode:MSU" ; Times: 1
+	Query: "class:MAMMALIA stateprovince:&#34;campeche&#34;" ; Times: 1
+	Query: "preparations:fluid (Natalus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhynchonycteris naso " ; Times: 2
+	Query: "Amazona stateprovince:&#34;tamaulipas&#34;" ; Times: 2
+	Query: "preparations:fluid (Natalidae) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "&#34;Sigmodon ochrognathus&#34; county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (MSU)" ; Times: 1
+	Query: "Sturnus contra" ; Times: 1
+	Query: "preparations:fluid (Artibeus jamaicensis) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Acrobatidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Dasyproctidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 2
+	Query: "country:Ecuador scientificname:Vampyrodes caraccioli " ; Times: 2
+	Query: "preparations:fluid (Pteronotus parnellii) AND (NOT skull NOT skeleton NOT mexicanus) institutioncode:MSU" ; Times: 1
+	Query: "Canis latrans texensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "preparations:fluid (marmosa) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (miniopterus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Lasiurus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Tylomys ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (peromyscus) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (peromyscus gratus) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "akers" ; Times: 2
+	Query: "preparations:fluid ( fuscus ) institutioncode:MSU" ; Times: 2
+	Query: "&#34;Sigmodon ochrognathus&#34; locality:unspecified county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Eptesicus brasiliensis " ; Times: 1
+	Query: "(Antilope cervicapra) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Desmodus rotundus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Eptesicus ) AND (NOT skull NOT skeleton NOT somalicus NOT capensis NOT brasiliensis NOT furinalis NOT fuscus NOT innoxius) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Tadarida aegyptiaca) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador genus:Nasua " ; Times: 1
+	Query: "preparations:fluid (Macropus ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Sturnira ludovici) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Plecotus ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Hylonycteris ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Myotis velifer) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Balantiopteryx) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Geomyidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 2
+	Query: "gallinago stricklandii" ; Times: 2
+	Query: "preparations:fluid (Mimon) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "peromyscus melanotis" ; Times: 1
+	Query: "preparations:fluid (Brachyphylla) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "ZM" ; Times: 1
+	Query: "preparations:fluid (Artibeus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Lasiurus cinereus) AND (NOT skull NOT skeleton NOT borealis) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (megalotis) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Myotis septentrionalis) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Petromus typicus) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Lasionycteris) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Herpestes ) institutioncode:MSU" ; Times: 1
+	Query: "Choeronycteris" ; Times: 3
+	Query: "preparations:fluid (Lavia) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Uroderma bilobatum) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Myosorex varius) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Irenomys tarsalis ) institutioncode:MSU" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "preparations:fluid (Desmodus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "melursus ursinus" ; Times: 5
+	Query: "preparations:fluid (Lasiurus cinereus) AND (NOT skull NOT skeleton NOT borealis NOT villosissimus) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 4
+	Query: "preparations:fluid (petromyscus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Megadermatidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Mesophylla) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "2382 peromyscus" ; Times: 1
+	Query: "preparations:fluid (Octodontidae) institutioncode:MSU" ; Times: 1
+	Query: "Mesomys" ; Times: 4
+	Query: "country:Ecuador scientificname:Myotis albescens " ; Times: 1
+	Query: "preparations:fluid (Thyropteridae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (peromyscus gratus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Myotis ) AND (NOT skull NOT skeleton NOT velifer NOT septentrionalis NOT lucifugus NOT albescens NOT keenii) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (longicaudus) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "preparations:fluid (Geomyidae) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Macropodidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 3
+	Query: "(Diphylla ecaudata) institutioncode:MSU" ; Times: 1
+	Query: "preparations:skeleton (Panthera tigris) institutioncode:MSU" ; Times: 1
+	Query: "&#34;Sigmodon ochrognathus&#34; locality:Big Bend county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Krutzsch" ; Times: 1
+	Query: "preparations:fluid (Orycteropodidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "Mesophylla macconnelli" ; Times: 1
+	Query: "Vulpes vulpes rubricosa" ; Times: 1
+	Query: "preparations:fluid (Myotis californicus) AND (NOT skull NOT skeleton NOT velifer NOT septentrionalis NOT lucifugus NOT albescens NOT keenii NOT thysanodes) institutioncode:MSU" ; Times: 1
+	Query: "preparations:skeleton (Ovibos moschatus) institutioncode:MSU" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus discolor " ; Times: 2
+	Query: "20009" ; Times: 1
+	Query: "gbifdatasetid:22a66350-7947-4a49-84a3-39c7c1b0881f" ; Times: 3
+	Query: "preparations:fluid (Chiroderma) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Pteronotus parnellii) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Spermophilus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Scotophilus) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;durango&#34;" ; Times: 3
+	Query: "preparations:fluid (Thyropteridae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Petromuridae) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Chaerephon major) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Petauridae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (Myotis ) AND (NOT skull NOT skeleton NOT velifer NOT septentrionalis NOT lucifugus NOT albescens NOT keenii NOT thysanodes NOT californicus NOT nigricans NOT volans) institutioncode:MSU" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "preparations:fluid (Vombatidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Micronycteris nicefori) AND (NOT skull) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Potoroidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (Molossus molossus) AND (NOT skull NOT skeleton NOT rufus NOT ater) institutioncode:MSU" ; Times: 3
+	Query: "country:Ecuador scientificname:Promops centralis " ; Times: 2
+	Query: "Sigmodon ochrognathus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "preparations:fluid (Macrotus waterhousii) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Odocoileus virginianus) AND (NOT skull) institutioncode:MSU" ; Times: 1
+	Query: "(petrophilus) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Vombatidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid institutioncode:MSU" ; Times: 2
+	Query: "(Blarina carolinensis) institutioncode:MSU" ; Times: 1
+	Query: "Sigmodon hispidus texianus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "preparations:fluid (Erethizontidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Potoroidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Peromyscus) AND (NOT skull NOT skin) institutioncode:MSU" ; Times: 1
+	Query: "specificepithet:ALSTONI genus:NEOTOMODON country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 2
+	Query: "preparations:fluid (Pedetidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (centralis ) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "Sigmodon ochrognathus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Vultur" ; Times: 2
+	Query: "preparations:fluid (Leptonycteris nivalis) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 3
+	Query: "27615" ; Times: 1
+	Query: "preparations:fluid (volans) institutioncode:MSU" ; Times: 2
+	Query: "specificepithet:aurifrons genus:melanerpes stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "preparations:fluid (Cavia ) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Akodon mollis " ; Times: 3
+	Query: "preparations:fluid (planirostris) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 2
+	Query: "belize and chiroptera" ; Times: 3
+	Query: "vntype:specimen specificepithet:CAYANA genus:Dacnis class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "preparations:fluid (Eumops) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Artibeus fraterculus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "Perognathus merriami" ; Times: 2
+	Query: "baker egg 1894" ; Times: 1
+	Query: "country:Ecuador scientificname:Pecari tajacu " ; Times: 10
+	Query: "country:Ecuador scientificname:Cebus aequatorialis " ; Times: 1
+	Query: "genus:Myocastor stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 7
+	Query: "preparations:fluid (Lasiurus ) AND (NOT skull NOT skeleton NOT borealis) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid catalognumber:MR.6347 institutioncode:MSU" ; Times: 2
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "preparations:fluid (Procaviidae) institutioncode:MSU" ; Times: 1
+	Query: "DIDELPHIS ALBIVENTRIS" ; Times: 1
+	Query: "family:Soricidae stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Tadarida brasiliensis " ; Times: 1
+	Query: "preparations:fluid (Peromyscus gratus) AND (NOT skull NOT skin) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (peromyscus) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (Sturnira tildae) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 2
+	Query: "preparations:fluid (Pappogeomys) institutioncode:MSU" ; Times: 1
+	Query: "Chiroptera australis preparations:fluid AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Dipodidae) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua mexicana " ; Times: 4
+	Query: "country:Ecuador scientificname:Histiotus montanus " ; Times: 1
+	Query: "country:Ecuador scientificname:Nectomys apicalis " ; Times: 1
+	Query: "Tursiops" ; Times: 1
+	Query: "28960" ; Times: 1
+	Query: "preparations:fluid (Leporidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Diphylla ecaudata) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "18482" ; Times: 1
+	Query: "preparations:fluid (Artibeus lituratus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Potos ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Chalinolobus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Procavia capensis) institutioncode:MSU" ; Times: 1
+	Query: "albigularis" ; Times: 1
+	Query: "preparations:fluid (ornatus) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Puma concolor " ; Times: 19
+	Query: "preparations:fluid (cinereus) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Cricetidae) institutioncode:MSU" ; Times: 2
+	Query: "country:Ecuador scientificname:Lontra longicaudis " ; Times: 8
+	Query: "country:Ecuador scientificname:Ateles fusciceps " ; Times: 6
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "(Desmodus rotundus) institutioncode:MSU" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "preparations:fluid (Chaerephon) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Orycteropus afer) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 2
+	Query: "preparations:fluid (Pteronotus personatus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Carollia subrufa) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "perognathus merriami" ; Times: 1
+	Query: "33797" ; Times: 1
+	Query: "preparations:fluid (Erethizon dorsatum) institutioncode:MSU" ; Times: 1
+	Query: "specificepithet:variegatus genus:Spermophilus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "(Cuon alpinus)" ; Times: 1
+	Query: "preparations:fluid (Oryctolagus cuniculus) institutioncode:MSU" ; Times: 1
+	Query: "9152 peromyscus" ; Times: 1
+	Query: "preparations:fluid (Mustelidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 4
+	Query: "2071 peromyscus" ; Times: 3
+	Query: "preparations:fluid (Artibeus jamaicensis ) AND (NOT skull NOT skeleton NOT fraterculus NOT planirostris NOT yucatanicus NOT triomylis) institutioncode:MSU" ; Times: 1
+	Query: "(alfari) institutioncode:MSU" ; Times: 4
+	Query: "preparations:fluid (Diphylla) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Bassariscus astutus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Bassariscus) institutioncode:MSU" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "preparations:fluid (Hominidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Eptesicus innoxius) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (maximus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Caviidae) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Sturnira lilium) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Platyrrhinus helleri) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "preparations:fluid (Emballonuridae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (azarae) AND (Akodon) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 2
+	Query: "preparations:fluid (Myotis ) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 2
+	Query: "specificepithet:jamaicensis genus:Buteo class:aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "preparations:fluid (Ctenomyidae) institutioncode:MSU" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna lifestage:adult sex:male" ; Times: 1
+	Query: "preparations:fluid (Peromyscus gratus) AND (NOT skull) institutioncode:MSU" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "preparations:fluid (Castoridae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Pappogeomys bulleri ) institutioncode:MSU" ; Times: 2
+	Query: "country:Ecuador scientificname:Uroderma convexum " ; Times: 4
+	Query: "Chiroptera io preparations:fluid AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Tayassu pecari " ; Times: 12
+	Query: "preparations:fluid (Mustelidae) institutioncode:MSU" ; Times: 2
+	Query: "country:Ecuador scientificname:Choloepus hoffmanni " ; Times: 8
+	Query: "preparations:fluid (Orycteropus afer) AND (NOT skull) institutioncode:MSU" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus" ; Times: 1
+	Query: "preparations:fluid (Rhinophylla pumilio) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Diclidurus albus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Orycteropodidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Macrotus californicus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Lonchorhina) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Golunda ellioti) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Tylomys nudicaudus) AND (NOT skull) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 2
+	Query: "preparations:fluid (Thyroptera) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "Redunca redunca" ; Times: 2
+	Query: "preparations:fluid (Lasiurus ) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Tupaiidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "Giraffa" ; Times: 2
+	Query: "tapirus terrestris" ; Times: 2
+	Query: "preparations:fluid (Molossus rufus) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Procavia ) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Saccopteryx bilineata " ; Times: 1
+	Query: "preparations:fluid (Sturnira parvidens) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (virginianus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Myotis keenii) AND (NOT skull NOT skeleton NOT septentrionalis) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Molossus molossus) AND (NOT skull NOT skeleton NOT rufus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Odobenidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Tupaiidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Leporidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Leptonycteris ) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "order:Chiroptera county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &lt;= 1947" ; Times: 1
+	Query: "preparations:fluid (Macrotus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Vampyressa) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Molossus ater) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "genus:Eira" ; Times: 2
+	Query: "33042" ; Times: 1
+	Query: "preparations:fluid (indica) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (Myotis ) AND (NOT skull NOT skeleton NOT velifer NOT septentrionalis NOT lucifugus NOT albescens NOT keenii NOT thysanodes NOT californicus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Molossus) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "Sigmodon hispidus berlandieri county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "preparations:fluid (Myotis volans) AND (NOT skull NOT skeleton NOT velifer NOT septentrionalis NOT lucifugus NOT albescens NOT keenii NOT thysanodes NOT californicus NOT nigricans) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Pteronotus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Spermophilus variegatus) institutioncode:MSU" ; Times: 1
+	Query: "specificepithet:vagrans genus:sorex stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:chaetodipus" ; Times: 1
+	Query: "Amazona ochrocephala stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Atelocynus microtis " ; Times: 3
+	Query: "preparations:fluid (Bathyergidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (albiventris) institutioncode:MSU" ; Times: 1
+	Query: "&#34;Sigmodon ochrognathus&#34; county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 4
+	Query: "(19565)" ; Times: 1
+	Query: "preparations:fluid (Tadarida) AND (NOT skull NOT skeleton NOT brasiliensis) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Echimyidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Peromyscus melanurus) institutioncode:MSU" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "preparations:fluid (Tylomys nudicaudus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (peromyscus aztecus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Phyllostomidae) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Tachyglossidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (Micronycteris ) institutioncode:MSU" ; Times: 1
+	Query: "Urocyon cinereoargenteus scottii stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "preparations:fluid (Phyllostomus discolor) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Petauridae) institutioncode:MSU" ; Times: 1
+	Query: "Mesomys hispidus" ; Times: 1
+	Query: "specificepithet: triangulum genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "preparations:fluid (aztecus) institutioncode:MSU" ; Times: 1
+	Query: "Lasiurus villosissimus" ; Times: 1
+	Query: "preparations:fluid (peromyscus) AND (NOT boylii NOT eremicus NOT leucopus NOT maniculatus NOT melanophrys NOT truei) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Microbiotheriidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Lonchophylla) institutioncode:MSU" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "preparations:fluid (Phalangeridae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (Sciuridae) AND (NOT skull NOT skin) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Myotis thysanodes) AND (NOT skull NOT skeleton NOT velifer NOT septentrionalis NOT lucifugus NOT albescens NOT keenii) institutioncode:MSU" ; Times: 1
+	Query: "30246" ; Times: 1
+	Query: "order:Carnivora country:&#34;Panama&#34;" ; Times: 3
+	Query: "conepatus leuconotus" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "preparations:fluid (capensis) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Myotis albescens) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "Presque Isle" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira magna " ; Times: 1
+	Query: "preparations:fluid (Odobenus rosmarus) institutioncode:MSU" ; Times: 1
+	Query: "xenarthra" ; Times: 1
+	Query: "preparations:fluid (Noctilionidae) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Tachyglossidae) institutioncode:MSU" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "baker 1894 aves" ; Times: 1
+	Query: "preparations:fluid (Sciuridae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Hippopotamus amphibius) institutioncode:MSU" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "preparations:fluid (Didelphidae) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (Mops) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Euneomys chinchilloides) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Myotis nigricans) AND (NOT skull NOT skeleton NOT velifer NOT septentrionalis NOT lucifugus NOT albescens NOT keenii NOT thysanodes NOT californicus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Artibeus jamaicensis ) AND (NOT skull NOT skeleton NOT fraterculus NOT planirostris NOT yucatanicus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Aconaemys fuscus fuscus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Marmosa canescens) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Taphozous) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Mesophylla macconnelli " ; Times: 2
+	Query: "preparations:fluid (Artibeus lituratus) AND (NOT skull NOT skeleton NOT palmarum NOT hercules) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Peromyscus californicus) AND (NOT skull NOT skin) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Macrophyllum) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Chiroderma villosum) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "Chiroptera ornatus preparations:fluid AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Mormoops) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Dasyprocta ) institutioncode:MSU" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "preparations:fluid (Rhynchonycteris) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "(schreibersi) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Eptesicus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus lituratus " ; Times: 3
+	Query: "Chiroptera kappleri preparations:fluid AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Myotis lucifugus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (pumilus) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Soricidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Talpidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Nelsonia neotomodon) AND (NOT skull) institutioncode:MSU" ; Times: 1
+	Query: "specificepithet:parma" ; Times: 2
+	Query: "preparations:fluid (chinchilloides) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Tremarctos ornatus " ; Times: 25
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 5
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "preparations:fluid (azarae) institutioncode:MSU" ; Times: 5
+	Query: "preparations:fluid (Eptesicus ) AND (NOT skull NOT skeleton NOT somalicus NOT capensis) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Pteropodidae) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Heteromyidae) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 1
+	Query: "preparations:fluid (cuniculus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Myotis ) AND (NOT skull NOT skeleton NOT velifer NOT septentrionalis NOT lucifugus NOT albescens NOT keenii NOT thysanodes NOT californicus NOT nigricans NOT volans NOT levis) institutioncode:MSU" ; Times: 1
+	Query: "genus:Pica county:&#34;Ventura&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla pumilio " ; Times: 3
+	Query: "preparations:fluid (Lemuridae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Tenrecidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Noctilionidae albiventris) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Scotoecus) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Noctilio albiventris) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Euneomys) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (barbara ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Pedetidae) institutioncode:MSU" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "preparations:fluid (Scotophilus nigrita) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;chihuahua&#34;" ; Times: 1
+	Query: "preparations:fluid (Molossops) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Hylonycteris underwoodi) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Aconaemys fuscus ) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Peromyscus aztecus) AND (NOT skull NOT skin) institutioncode:MSU" ; Times: 1
+	Query: "genus:Giraffa" ; Times: 1
+	Query: "preparations:fluid (Erethizontidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Procyonidae) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (Lasiurus ega) AND (NOT skull NOT skeleton NOT borealis) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Gerbillurus vallinus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Golunda) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Microbiotheriidae) institutioncode:MSU" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;campeche&#34;" ; Times: 1
+	Query: "preparations:fluid (Thyropteridae) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta palliata " ; Times: 16
+	Query: "preparations:fluid (alleni) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Histiotus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Odobenus ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Noctilionidae leporinus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "&#34;Sigmodon ochrognathus&#34; locality:Big Bend National Park county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "preparations:fluid (Eptesicus brasiliensis) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Emballonuridae) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Pteropus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "class:aves catalognumber:7319" ; Times: 1
+	Query: "preparations:fluid (Glossophaga soricina) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (nicefori) institutioncode:MSU" ; Times: 1
+	Query: "Chiroptera bilineata preparations:fluid AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Chiroderma salvini) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "9738 peromyscus" ; Times: 1
+	Query: "preparations:skeleton (Sus scrofa) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Phalangeridae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (canus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Tupaiidae) AND (NOT skull NOT skin) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid ( obscurus) institutioncode:MSU" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Conepatus mesoleucus mearnsi stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "preparations:fluid (Tadarida) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (Platyrrhinus lineatus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "preparations:fluid (Myotis levis) AND (NOT skull NOT skeleton NOT velifer NOT septentrionalis NOT lucifugus NOT albescens NOT keenii NOT thysanodes NOT californicus NOT nigricans NOT volans) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Platyrrhinus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "Amazona ochrocephala specificepithet:ochrocephala genus:Amazona stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "preparations:fluid (io) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 5
+	Query: "preparations:fluid (Oryctolagus cuniculus) AND (NOT skull) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Carollia brevicauda) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (Petromyscus collinus) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Mazama gualea " ; Times: 7
+	Query: "country:Ecuador scientificname:Lonchorhina aurita " ; Times: 2
+	Query: "preparations:fluid (Procaviidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Sciuridae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Chinchillidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 2
+	Query: "country:Ecuador scientificname:Galictis vittata " ; Times: 6
+	Query: "preparations:fluid (Tenrecidae) AND (NOT skull) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Herpestidae) institutioncode:MSU" ; Times: 1
+	Query: "(Rhinolophidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Glossophaga leachii) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Carollia) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "(Hipposideros) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys lanatus " ; Times: 1
+	Query: "preparations:fluid (Erethizon dorsatum) AND (NOT skull) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Erethizon ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Myotis keenii) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Eptesicus ) AND (NOT skull NOT skeleton NOT innoxius NOT fuscus NOT furinalis NOT brasiliensis) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Hylonycteris) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Vespertilionidae) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 2
+	Query: "(armiger) institutioncode:MSU" ; Times: 4
+	Query: "preparations:fluid (Vampyrodes) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Scotophilus ) AND (NOT skull NOT skeleton NOT nigrita) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Procavia capensis) AND (NOT skull) institutioncode:MSU" ; Times: 1
+	Query: "dama institutioncode:MSU" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "preparations:fluid (io) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Antrozous) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "Amazona oratrix stateprovince:&#34;Tamaulipas&#34;" ; Times: 2
+	Query: "whale" ; Times: 1
+	Query: "preparations:fluid (Desmodus rotundus) AND (NOT skull) institutioncode:MSU" ; Times: 1
+	Query: "Hystrix africaeaustralis" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;sinaloa&#34;" ; Times: 5
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "preparations:fluid (Pteronotus davyi) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 4
+	Query: "preparations:fluid (Lasiurus ) AND (NOT skull NOT skeleton NOT borealis NOT villosissimus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Artibeus jamaicensis ) AND (NOT skull NOT skeleton NOT fraterculus NOT planirostris NOT yucatanicus NOT triomylis NOT triomylus) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Aepyprymnus rufescens) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (molossops planirostris) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Oryctolagus ) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Bradypus variegatus " ; Times: 4
+	Query: "preparations:fluid (Acrobatidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (Felidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Tenrecidae) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (nicefori) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Rhinophylla) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "Amazona oratrix tamaulipas" ; Times: 1
+	Query: "preparations:fluid (Desmodus rotundus) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (Artibeus planirostris) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 15
+	Query: "preparations:fluid (Oryzomys bolivaris) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Didelphidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 2
+	Query: "(Neomys fodiens ) institutioncode:MSU" ; Times: 1
+	Query: "atelocynus" ; Times: 1
+	Query: "preparations:fluid (Uroderma) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllotis haggardi " ; Times: 1
+	Query: "preparations:fluid (Cervidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Bassaricyon gabbii) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Pseudocheiridae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Lonchophylla) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Diclidurus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Tadarida brasiliensis) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Molossidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Sturnira) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Mormoopidae) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Micropteropus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "preparations:fluid (Glossophaga commissarisi) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Echimyidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Hippopotamidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Nelsonia neotomodon) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Burramyidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (Felidae) AND (NOT skull) institutioncode:MSU" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "institutioncode:msu" ; Times: 1
+	Query: "preparations:fluid (Peromyscus levipes) institutioncode:MSU" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "preparations:fluid (Nycticeius) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Bandicota indica) institutioncode:MSU" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "diclidurus albus" ; Times: 66
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 2
+	Query: "24183" ; Times: 1
+	Query: "preparations:fluid (Pteronotus mexicanus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Peropteryx) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Desmodus rotundus) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "10041" ; Times: 1
+	Query: "preparations:fluid (Plecotus) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 2
+	Query: "country:Ecuador scientificname:Dasyprocta punctata " ; Times: 8
+	Query: "preparations:fluid (Epomophorus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Spermophilus variegatus) AND (NOT skull) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Choeroniscus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Megasorex gigas) institutioncode:MSU" ; Times: 1
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "preparations:fluid (Marmosa canescens) AND (NOT skull) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Artibeus jamaicensis ) AND (NOT skull NOT skeleton NOT fraterculus NOT planirostris) institutioncode:MSU" ; Times: 2
+	Query: "specificepithet:alpinus" ; Times: 1
+	Query: "preparations:fluid (Pipistrellus) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 2
+	Query: "country:Ecuador scientificname:Microryzomys altissimus " ; Times: 1
+	Query: "Amazona oratrix stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "preparations:fluid (Cervidae) AND (NOT skull) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma magnirostrum " ; Times: 2
+	Query: "preparations:fluid (Castoridae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Muridae) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira tildae " ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;nayarit&#34;" ; Times: 8
+	Query: "Manis crassicaudata" ; Times: 3
+	Query: "preparations:fluid (Oryzomys) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Pseudocheiridae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (Talpidae) AND (NOT skull NOT skin) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Chiroptera) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus dorsalis " ; Times: 2
+	Query: "family:Ursidae lifestage:adult" ; Times: 1
+	Query: "preparations:fluid (Antrozous pallidus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Talpidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Procyon cancrivorus " ; Times: 3
+	Query: "preparations:fluid (Molossus molossus) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Anoura) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Choeronycteris) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Phyllostomus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Carollia perspicillata) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Promops) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "2074 peromyscus" ; Times: 1
+	Query: "mephitis macroura" ; Times: 1
+	Query: "preparations:fluid (Bandicota indica) AND (NOT skull) institutioncode:MSU" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+	Query: "preparations:fluid (flavus) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 2
+	Query: "Sigmodon hispidus texianus country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus helleri " ; Times: 1
+	Query: "preparations:fluid (Micronycteris nicefori) institutioncode:MSU" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; isfossil:1" ; Times: 6
+	Query: "Diclidurus albus" ; Times: 2
+	Query: "preparations:fluid (DASYUROMORPHIA) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Lemuridae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (Leptonycteris) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Dipodidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 3
+	Query: "Chiroptera preparations:fluid AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Myotis ) AND (NOT skull NOT skeleton NOT velifer NOT septentrionalis NOT lucifugus NOT albescens NOT keenii NOT thysanodes NOT californicus NOT nigricans) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Ctenomyidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (Eptesicus furinalis) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 12
+	Query: "preparations:fluid (Trachops) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus fraterculus " ; Times: 3
+	Query: "preparations:fluid (Bathyergidae) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (Sturnira erythromos) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Myotis ) AND (NOT skull NOT skeleton NOT velifer NOT septentrionalis NOT lucifugus NOT albescens) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Glossophaga) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "Texas Dendrocygna" ; Times: 2
+	Query: "preparations:fluid (Carollia perspicillata) AND (NOT skull NOT skeleton NOT azteca) institutioncode:MSU" ; Times: 3
+	Query: "preparations:fluid (Cardioderma) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Platyrrhinus ) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Oryzomys bolivaris) AND (NOT skull) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Lasiurus borealis) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Orycteropodidae) AND (NOT skull NOT skin) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Diphylla ecaudata) institutioncode:MSU" ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus glaucus " ; Times: 3
+	Query: "preparations:fluid (plicata) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Molossus rufus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna lifestage:adult sex:female" ; Times: 1
+	Query: "preparations:fluid (Uroderma magnirostrum) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Lasiurus villosissimus) AND (NOT skull NOT skeleton NOT borealis ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Myotis ) AND (NOT skull NOT skeleton NOT velifer NOT septentrionalis NOT lucifugus NOT albescens NOT keenii NOT thysanodes) institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Dactylomys dactylinus " ; Times: 1
+	Query: "preparations:fluid (Myotis) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "Chiroptera plicata preparations:fluid AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Burramyidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Phyllostomus hastatus) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "(spasma) institutioncode:MSU" ; Times: 2
+	Query: "preparations:fluid (Macropodidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Odocoileus virginianus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Carollia castanea) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (melanurus) institutioncode:MSU" ; Times: 1
+	Query: "Lontra" ; Times: 2
+	Query: "preparations:fluid (Chinchillidae) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Eptesicus capensis) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Spermophilus ) institutioncode:MSU" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "kirtlandi stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "preparations:fluid (Artibeus jamaicensis ) AND (NOT skull NOT skeleton NOT fraterculus) institutioncode:MSU" ; Times: 1
+	Query: "Thalpomys" ; Times: 1
+	Query: "preparations:fluid (Centurio) AND (NOT skull NOT skeleton ) institutioncode:MSU" ; Times: 1
+	Query: "(Cuon alpinus) institutioncode:MSU" ; Times: 1
+	Query: "preparations:fluid (Miniopterus) AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+	Query: "Chiroptera centralis preparations:fluid AND (NOT skull NOT skeleton) institutioncode:MSU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 106 (out of 1106 download events in this period)
+Total number of records downloaded: 57067
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Ireland ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: Peru ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 7
+	Country: United States ; Times: 62
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 4
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 3
+	Date: 2020-05-23 ; Times: 8
+	Date: 2020-05-22 ; Times: 12
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-10 ; Times: 3
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-13 ; Times: 8
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-15 ; Times: 3
+	Date: 2020-05-16 ; Times: 3
+	Date: 2020-05-17 ; Times: 3
+	Date: 2020-05-30 ; Times: 8
+	Date: 2020-05-31 ; Times: 4
+	Date: 2020-05-09 ; Times: 3
+	Date: 2020-05-08 ; Times: 14
+	Date: 2020-05-07 ; Times: 5
+	Date: 2020-05-06 ; Times: 5
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 4
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "genus:Eira" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "specificepithet:rufescens genus:Elephantulus" ; Times: 1
+	Query: "conepatus leuconotus" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "specificepithet:parma" ; Times: 1
+	Query: "mephitis macroura" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;campeche&#34;" ; Times: 1
+	Query: "institutioncode:msu" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "order:Rodentia stateprovince:Utah" ; Times: 2
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 2
+	Query: "Mesomys" ; Times: 2
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "vultur gryphus" ; Times: 4
+	Query: "continent:Europe" ; Times: 1
+	Query: "Diclidurus albus" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; isfossil:1" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+	Query: "genus:Myocastor stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "melursus ursinus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "class:MAMMALIA stateprovince:&#34;campeche&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Amazona oratrix stateprovince:&#34;tamaulipas&#34;" ; Times: 2
+	Query: "Peromyscus polionotus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Mammalia country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Gulo" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "peromyscus melanotis" ; Times: 1
+	Query: "order:Rodentia stateprovince:Nevada" ; Times: 2
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 2
+	Query: "stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "manacus manacus" ; Times: 1
+	Query: "bone valley" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "Perognathus merriami" ; Times: 1
+	Query: "egg texas" ; Times: 1
+	Query: "order:Chiroptera county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &lt;= 1947" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "Caprimulgus carolinensis Texas" ; Times: 1
+	Query: "belize and chiroptera" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "Amazona ochrocephala specificepithet:ochrocephala genus:Amazona stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "mollusca" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "diclidurus albus" ; Times: 2
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Triturus family:salamandridae" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "CROTALUS HORRIDUS" ; Times: 2
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "Mecocerculus leucophrys" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "ergaticus ruber" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
