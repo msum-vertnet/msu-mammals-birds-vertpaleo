@@ -1,0 +1,986 @@
+Report for Institution Code MSU, Resource msu_mammals_birds_vertpaleo
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1162
+Number of records retrieved in searches: 14689
+Number of different countries where searches have been originated: 25
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 2
+	Country: Bangladesh ; Times: 7
+	Country: Unknown ; Times: 37
+	Country: France ; Times: 20
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 11
+	Country: Ecuador ; Times: 5
+	Country: Australia ; Times: 56
+	Country: Guatemala ; Times: 3
+	Country: China ; Times: 1
+	Country: Chile ; Times: 6
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 778
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Mexico ; Times: 95
+	Country: Uruguay ; Times: 2
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 83
+	Country: Malaysia ; Times: 1
+	Country: Austria ; Times: 7
+	Country: Colombia ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 65
+	Date: 2020-10-18 ; Times: 22
+	Date: 2020-10-19 ; Times: 40
+	Date: 2020-10-08 ; Times: 32
+	Date: 2020-10-12 ; Times: 35
+	Date: 2020-10-13 ; Times: 106
+	Date: 2020-10-10 ; Times: 21
+	Date: 2020-10-11 ; Times: 43
+	Date: 2020-10-16 ; Times: 79
+	Date: 2020-10-31 ; Times: 25
+	Date: 2020-10-14 ; Times: 36
+	Date: 2020-10-15 ; Times: 93
+	Date: 2020-10-03 ; Times: 14
+	Date: 2020-10-23 ; Times: 29
+	Date: 2020-10-22 ; Times: 15
+	Date: 2020-10-21 ; Times: 67
+	Date: 2020-10-20 ; Times: 28
+	Date: 2020-10-27 ; Times: 28
+	Date: 2020-10-26 ; Times: 29
+	Date: 2020-10-25 ; Times: 18
+	Date: 2020-10-24 ; Times: 8
+	Date: 2020-10-01 ; Times: 7
+	Date: 2020-10-30 ; Times: 102
+	Date: 2020-10-29 ; Times: 38
+	Date: 2020-10-28 ; Times: 29
+	Date: 2020-10-05 ; Times: 27
+	Date: 2020-10-04 ; Times: 12
+	Date: 2020-10-07 ; Times: 26
+	Date: 2020-10-17 ; Times: 29
+	Date: 2020-10-06 ; Times: 33
+	Date: 2020-10-02 ; Times: 26
+
+List of queries that retrieved data from the resource: 
+	Query: "ammospermophilus interpres county:&#34;el paso&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Myrmecophaga tridactyla centralis" ; Times: 1
+	Query: "Sorex palustris" ; Times: 2
+	Query: "MR.20126 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "mappable:1 scientificname:Bos javanicus" ; Times: 1
+	Query: "MR.22459 institutioncode:MSU" ; Times: 2
+	Query: "genus:Lepus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Apterygidae class:Aves preparations:Egg" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhynchonycteris naso " ; Times: 1
+	Query: "vntype:specimen specificepithet:afer genus:Orycteropus" ; Times: 1
+	Query: "family:Glareolidae class:Aves preparations:Egg" ; Times: 1
+	Query: "MR.34509 institutioncode:MSU" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvescens genus:Oligoryzomys country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "conepatus" ; Times: 3
+	Query: "specificepithet:vulpes genus:vulpes family:canidae" ; Times: 1
+	Query: "family:Atrichornithidae class:Aves preparations:Egg" ; Times: 1
+	Query: "MR.33688 institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrodes caraccioli " ; Times: 3
+	Query: "specificepithet:leo genus:Panthera continent:Africa" ; Times: 3
+	Query: "Lepus townsendii" ; Times: 1
+	Query: "MR.424 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "Chiroptera Chile" ; Times: 2
+	Query: "Dasyprocta" ; Times: 2
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "Cervus nippon" ; Times: 2
+	Query: "panthera onca" ; Times: 1
+	Query: "Turdus ruficollis" ; Times: 1
+	Query: "family:Furnariidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "family:Struthionidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Equus burchellii" ; Times: 3
+	Query: "Panthera leo" ; Times: 2
+	Query: "Felis silvestris" ; Times: 1
+	Query: "country:Ecuador scientificname:Eptesicus brasiliensis " ; Times: 1
+	Query: "family:Sturnidae class:aves preparations:egg" ; Times: 1
+	Query: "MR.23477" ; Times: 1
+	Query: "MR.32625 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "MR.23194 institutioncode:MSU" ; Times: 1
+	Query: "16252" ; Times: 1
+	Query: "order:passeriformes lifestage:adult institutioncode:MSU hasmass:1" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 21
+	Query: "MR.883 institutioncode:MSU" ; Times: 1
+	Query: "spilogale putorius" ; Times: 1
+	Query: "family:Cinclidae class:aves preparations:egg" ; Times: 1
+	Query: "MR.35973 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "Chiroptera Peru" ; Times: 1
+	Query: "MR.13274 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "Chaetodipus nelsoni canescens" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "specificepithet:simensis genus:Canis hassex:1" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Florida&#34; year &gt;= 200 year &lt;= 2020" ; Times: 1
+	Query: "herpestes auropunctatus" ; Times: 2
+	Query: "MR.34823 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "class:mammalia county:&#34;san diego&#34; stateprovince:&#34;california&#34; institutioncode:MSU" ; Times: 1
+	Query: "alstoni mexico" ; Times: 1
+	Query: "MR.26288 institutioncode:MSU" ; Times: 2
+	Query: "MR.16709 institutioncode:MSU" ; Times: 1
+	Query: "MR.34399" ; Times: 1
+	Query: "family:Oriolidae class:Aves preparations:Egg" ; Times: 1
+	Query: "MR.424 institutioncode:MSU" ; Times: 1
+	Query: "hassex:1 hasmass:1 Odocoileus virginianus" ; Times: 3
+	Query: "MR.16596" ; Times: 1
+	Query: "interpres county:&#34;el paso&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:kobus" ; Times: 1
+	Query: "castor canadensis" ; Times: 4
+	Query: "panthera tigris" ; Times: 2
+	Query: "MR.22460 institutioncode:MSU" ; Times: 1
+	Query: "specificepithet: oreotragus genus: Oreotragus" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus hassex:1" ; Times: 2
+	Query: "Phacochoerus aethiopicus" ; Times: 3
+	Query: "MR.34384 class:mammalia institutioncode:MSU" ; Times: 6
+	Query: "vntype:specimen specificepithet:mexicanus genus:Reithrodontomys country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 16
+	Query: "MR.12845 institutioncode:MSU" ; Times: 1
+	Query: "genus:Leopardus " ; Times: 1
+	Query: "MR.12345 class:Mammalia institutioncode:MSU" ; Times: 2
+	Query: "MR.34384" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 12
+	Query: "Cervus elaphus" ; Times: 4
+	Query: "MR.2573 institutioncode:MSU" ; Times: 2
+	Query: "specificepithet:strepsiceros genus:Tragelaphus" ; Times: 1
+	Query: "MR.34983 institutioncode:MSU" ; Times: 3
+	Query: "MR.33687 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "family:Pomatostomidae class:Aves preparations:Egg" ; Times: 2
+	Query: "country:Ecuador scientificname:Myotis albescens " ; Times: 3
+	Query: "Dipodomys merriami ambiguus county:&#34;el paso&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Tragelaphus eurycerus central africa" ; Times: 2
+	Query: "MR.16577 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "MR.23998 institutioncode:MSU" ; Times: 2
+	Query: "25126" ; Times: 1
+	Query: "specificepithet: campestris genus: Raphicerus" ; Times: 2
+	Query: "country:Ecuador scientificname:Marmosops noctivagus " ; Times: 4
+	Query: "specificepithet:strepsiceros genus:tragelaphus" ; Times: 1
+	Query: "ateles" ; Times: 1
+	Query: "scientificname:Aix sponsa" ; Times: 16
+	Query: "specificepithet:longimembris genus:Perognathus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "MR.7589 institutioncode:MSU" ; Times: 2
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 1
+	Query: "pecari" ; Times: 1
+	Query: "MR.10149 institutioncode:MSU" ; Times: 2
+	Query: "MR.29957 institutioncode:MSU" ; Times: 1
+	Query: "vntype:specimen family:Heteromyidae basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Phalacrocorax gaimardi" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus discolor " ; Times: 2
+	Query: "MISSOURI RODENTIA synaptomys cooperi" ; Times: 1
+	Query: "family:Campephagidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Otididae class:Aves preparations:Egg" ; Times: 1
+	Query: "Ammospermophilus Texas" ; Times: 1
+	Query: "MR.8495 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "3527M" ; Times: 1
+	Query: "genus:alligator stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "cryptotis parva" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "MR.16464 institutioncode:MSU" ; Times: 1
+	Query: "MR.16596 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "specificepithet:latrans genus:canis year &lt;= 1950" ; Times: 4
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;california&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Eptesicus innoxius " ; Times: 2
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:MSU" ; Times: 1
+	Query: "family:Aegithalidae class:Aves preparations:Egg" ; Times: 1
+	Query: "MR.16786 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "oklahoma state university" ; Times: 2
+	Query: "vntype:specimen specificepithet:altissimus genus:Microryzomys country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis hassex:1" ; Times: 1
+	Query: "MR.8482 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "Ammotragus lervia" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 13
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "family:Phoenicopteridae class:Aves preparations:Egg" ; Times: 1
+	Query: "MR.23194 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Florida&#34; country:&#34;United States&#34; year &gt;= 1965 year &lt;= 2020" ; Times: 2
+	Query: "Odocoileus virginianus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "MR.12845 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "family:Artamidae class:Aves preparations:Egg" ; Times: 1
+	Query: "catalognumber:20347" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon family:Erethizontidae order:Rodentia class:Mammalia" ; Times: 1
+	Query: "family:Fregatidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Neotoma palatina" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma convexum " ; Times: 2
+	Query: "panthera tigris altaica" ; Times: 1
+	Query: "scientificname:Macropus rufogriseus" ; Times: 2
+	Query: "tapirus terrestris" ; Times: 2
+	Query: "vntype:specimen genus:Foulehaio" ; Times: 1
+	Query: "ursus arctos alaska" ; Times: 1
+	Query: "family:Heteromyidae isfossil:1" ; Times: 3
+	Query: "vntype:specimen specificepithet:mollis genus:Akodon country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "specificepithet:leche genus:kobus" ; Times: 1
+	Query: "order:carnivora country:&#34;tanzania&#34;" ; Times: 5
+	Query: "catta" ; Times: 1
+	Query: "Spilogale pygmaea" ; Times: 7
+	Query: "country:Ecuador scientificname:Pecari tajacu " ; Times: 10
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "country:Ecuador scientificname:Cebus aequatorialis " ; Times: 11
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 9
+	Query: "panthera" ; Times: 3
+	Query: "specificepithet:crassicaudatus genus:Otolemur" ; Times: 1
+	Query: "ROMEROLAGUS DIAZI" ; Times: 1
+	Query: "family:Phaethontidae class:Aves preparations:Egg" ; Times: 1
+	Query: "MR.5660" ; Times: 1
+	Query: "MR.2058" ; Times: 1
+	Query: "specificepithet:peregrinus genus:Falco preparations:egg" ; Times: 1
+	Query: "MR.9651 institutioncode:MSU" ; Times: 2
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 5
+	Query: "Procyon lotor stateprovince:&#34;Florida&#34; year &gt;= 1965 year &lt;= 2020" ; Times: 3
+	Query: "family:Numididae class:Aves preparations:Egg" ; Times: 1
+	Query: "country:Ecuador scientificname:Histiotus montanus " ; Times: 4
+	Query: "country:Ecuador scientificname:Nectomys apicalis " ; Times: 1
+	Query: "MR.6117 class:mammalia institutioncode:MSU" ; Times: 2
+	Query: "sus scrofa" ; Times: 2
+	Query: "mappable:1 scientificname:Marmosa murina" ; Times: 3
+	Query: "class:aves preparations:skeleton institutioncode:MSU" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 2
+	Query: "Sorex arcticus" ; Times: 1
+	Query: "Anas formosa" ; Times: 1
+	Query: "mappable:1 scientificname:Megaptera novaeangliae" ; Times: 2
+	Query: "Histiotus macrotus" ; Times: 1
+	Query: "scientificname:Accipiter nisus" ; Times: 2
+	Query: "Haematopus palliatus" ; Times: 1
+	Query: "country:Ecuador scientificname:Puma concolor " ; Times: 23
+	Query: "family:Certhiidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Canis lupus Minnesota" ; Times: 2
+	Query: "Aethia cristatella" ; Times: 1
+	Query: "country:Ecuador scientificname:Lontra longicaudis " ; Times: 9
+	Query: "country:Ecuador scientificname:Ateles fusciceps " ; Times: 6
+	Query: "MR.33695" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "class:aves preparations:taxidermy mount institutioncode:MSU" ; Times: 2
+	Query: "Connochaetes taurinus" ; Times: 1
+	Query: "family:Polioptilidae class:Aves preparations:Egg" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla alethina " ; Times: 1
+	Query: "MR.35844" ; Times: 2
+	Query: "Sigmodon hispidus berlandieri county:&#34;el paso&#34; stateprovince:&#34;texas&#34;" ; Times: 3
+	Query: "MR.23999 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus" ; Times: 3
+	Query: "MR.29957 class:mammalia institutioncode:MSU" ; Times: 2
+	Query: "MR.6321 institutioncode:MSU" ; Times: 3
+	Query: "family:Regulidae class:aves preparations:egg" ; Times: 1
+	Query: "Anas rubripes (Ontario )" ; Times: 1
+	Query: "scientificname:Mitu mitu" ; Times: 1
+	Query: "country:Ecuador scientificname:Noctilio leporinus " ; Times: 1
+	Query: "MR.4754 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "Sus scrofa" ; Times: 4
+	Query: "Panthera tigris" ; Times: 7
+	Query: "Sigmodon ochrognathus county:&#34;brewster&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "MR.882 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "Syncerus caffer" ; Times: 3
+	Query: "MR.2058 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "family:Ciconiidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Felis catus" ; Times: 2
+	Query: "Ammospermophilus interpres county:&#34;el paso&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:punctata genus:Dasyprocta country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 1
+	Query: "country:Ecuador scientificname:Promops centralis " ; Times: 2
+	Query: "MR.2298 institutioncode:MSU" ; Times: 2
+	Query: "Sigmodon hispidus texianus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "family:Regulidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:putorius genus:Spilogale" ; Times: 1
+	Query: "MR.879 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "MR.33233" ; Times: 1
+	Query: "country:Ecuador scientificname:Tayassu pecari " ; Times: 8
+	Query: "MR.16464" ; Times: 1
+	Query: "country:Ecuador scientificname:Choloepus hoffmanni " ; Times: 7
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus distance(location,geopoint(72.61220813185213,-157.998046875))&lt;418530" ; Times: 1
+	Query: "4523 rubecula" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "Turdus pelios" ; Times: 1
+	Query: "specificepithet:caffer genus:syncerus" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 3
+	Query: "specificepithet: equinus genus: Hippotragus" ; Times: 1
+	Query: "MR.16866" ; Times: 1
+	Query: "galictis vittata" ; Times: 3
+	Query: "MR.16865" ; Times: 2
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:campestris genus:raphicerus" ; Times: 1
+	Query: "country:Ecuador scientificname:Saccopteryx bilineata " ; Times: 1
+	Query: "amazona oratrix" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "MR.1752 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "vntype:specimen (tursiops) institutioncode:MSU" ; Times: 2
+	Query: "country:Ecuador scientificname:Chironectes minimus " ; Times: 3
+	Query: "order:rodentia country:&#34;tanzania&#34;" ; Times: 1
+	Query: "scientificname:Penelope purpurascens" ; Times: 1
+	Query: "MR.14999 institutioncode:MSU" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "MR.20126 institutioncode:MSU" ; Times: 1
+	Query: "family:Gruidae class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Carnivora class:Mammalia country:&#34;Chile&#34;" ; Times: 1
+	Query: "specificepithet:arundinum genus:redunca" ; Times: 1
+	Query: "scientificname:Felis pardalis" ; Times: 1
+	Query: "MR.5660 class:mammalia institutioncode:MSU" ; Times: 2
+	Query: "country:Ecuador scientificname:Vampyressa thyone " ; Times: 2
+	Query: "MR.22201 institutioncode:MSU" ; Times: 1
+	Query: "Rupicapra rupicapra" ; Times: 1
+	Query: "specificepithet:granti genus:gazella" ; Times: 1
+	Query: "country:Ecuador scientificname:Atelocynus microtis " ; Times: 1
+	Query: "sterna argentina" ; Times: 1
+	Query: "family:Cinclidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Elaphurus davidianus" ; Times: 2
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "LYCALOPEX CULPAEUS" ; Times: 2
+	Query: "scientificname:Anser cygnoides" ; Times: 1
+	Query: "MR.9651 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "MR.11586 institutioncode:MSU" ; Times: 1
+	Query: "Bos taurus" ; Times: 4
+	Query: "Myotis keaysi" ; Times: 2
+	Query: "MR.23477 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "family:Corcoracidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Sorex dispar" ; Times: 2
+	Query: "sorex merriami" ; Times: 2
+	Query: "Odocoileus virginianus country:&#34;United States&#34; hasmass:1" ; Times: 4
+	Query: "Martes pennanti" ; Times: 1
+	Query: "MR.5808 institutioncode:MSU" ; Times: 4
+	Query: "Cebus albifrons" ; Times: 1
+	Query: "Morus bassanus" ; Times: 1
+	Query: "Southwick Faroe" ; Times: 2
+	Query: "Lutra lutra" ; Times: 1
+	Query: "washington state university vntype:specimen county:&#34;Whitman&#34;" ; Times: 1
+	Query: "pelecanoides garnotii" ; Times: 1
+	Query: "MR.35974 institutioncode:MSU" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricuspis genus:manis" ; Times: 1
+	Query: "Anser cygnoides" ; Times: 1
+	Query: "spilogale pygmaea" ; Times: 3
+	Query: "taxidea taxus" ; Times: 1
+	Query: "sorex hoyi" ; Times: 2
+	Query: "family:Anhingidae class:Aves preparations:Egg" ; Times: 1
+	Query: "catalognumber:19887" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "mappable:1 scientificname:Didelphis marsupialis" ; Times: 1
+	Query: "Dipodomys merriami ambiguus county:&#34;el paso&#34; stateprovince:&#34;texas&#34; year &gt;= 1964 year &lt;= 2020" ; Times: 2
+	Query: "Taxidea taxus berlandieri" ; Times: 1
+	Query: "Ourebia ourebi" ; Times: 4
+	Query: "MR.14999 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "Eschrichtius robustus" ; Times: 24
+	Query: "Phaps chalcoptera" ; Times: 1
+	Query: "family:Menuridae class:Aves preparations:Egg" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "MR.16452 institutioncode:MSU" ; Times: 2
+	Query: "MR.1752 institutioncode:MSU" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "order:artiodactyla country:&#34;tanzania&#34;" ; Times: 5
+	Query: "Hydrochoerus hydrochaeris AND Brazil" ; Times: 1
+	Query: "MR.8671 institutioncode:MSU" ; Times: 2
+	Query: "country:Ecuador scientificname:Mesophylla macconnelli " ; Times: 2
+	Query: "MR.22460 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "MR.34390 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "specificepithet:terrestris genus:Tapirus" ; Times: 2
+	Query: "panthera tigris tigris" ; Times: 1
+	Query: "family:Pachycephalidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Branta sandvicensis" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "MR.34824 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "MR.6117" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 3
+	Query: "country:Ecuador scientificname:Artibeus lituratus " ; Times: 6
+	Query: "family:Meropidae class:Aves preparations:Egg" ; Times: 1
+	Query: "MR.22201 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "Sorex vagrans halicoetes" ; Times: 1
+	Query: "class:mammalia locality:mkomazi" ; Times: 1
+	Query: "Ammospermophilus interpres Texas" ; Times: 3
+	Query: "country:Ecuador scientificname:Tadarida brasiliensis " ; Times: 2
+	Query: "family:Sturnidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:jubatus genus:Acinonyx class:Mammalia" ; Times: 1
+	Query: "Vulpes vulpes country:&#34;United States&#34; hasmass:1" ; Times: 5
+	Query: "MR.16611" ; Times: 1
+	Query: "country:Ecuador scientificname:Tremarctos ornatus " ; Times: 18
+	Query: "Ovis ammon" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 3
+	Query: "Finca Villamizar" ; Times: 3
+	Query: "MR.35973 institutioncode:MSU" ; Times: 1
+	Query: "MR.10230 institutioncode:MSU" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 25
+	Query: "scientificname:Rangifer tarandus" ; Times: 1
+	Query: "family:Remizidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Megapodiidae class:Aves preparations:Egg" ; Times: 1
+	Query: "MR.34392 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 16
+	Query: "Buteo polyosoma" ; Times: 1
+	Query: "specificepithet:caffer genus:Syncerus" ; Times: 5
+	Query: "Antilocapra americana" ; Times: 4
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 6
+	Query: "MR.26279 institutioncode:MSU" ; Times: 2
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;california&#34; country:&#34;United States&#34; year &gt;= 1950" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "MR.2874 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "vntype:specimen specificepithet:aberti ferreus genus:sciurus" ; Times: 1
+	Query: "phylloscopus collybita india" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla pumilio " ; Times: 2
+	Query: "MR.22241 institutioncode:MSU" ; Times: 2
+	Query: "tursiops" ; Times: 2
+	Query: "coelacanthus" ; Times: 1
+	Query: "taxidea taxus berlandieri stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Florida&#34; country:&#34;United States&#34; year &gt;= 1951 year &lt;= 2020" ; Times: 1
+	Query: "MR.8056 institutioncode:MSU" ; Times: 2
+	Query: "MR.16449 institutioncode:MSU" ; Times: 2
+	Query: "MR.883 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "specificepithet:melampus genus:aepyceros" ; Times: 1
+	Query: "scientificname:Ortalis poliocephala" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira ludovici " ; Times: 1
+	Query: "Felis chaus" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "MR.15916 institutioncode:MSU" ; Times: 2
+	Query: "MR.2874" ; Times: 1
+	Query: "Arctocephalus forsteri" ; Times: 2
+	Query: "MR.8495 institutioncode:MSU" ; Times: 1
+	Query: "genus:Tragelaphus" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 2
+	Query: "MR.34983 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "MR.7754 institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta palliata " ; Times: 12
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "MR.2093 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "order:Artiodactyla institutioncode:MSU" ; Times: 1
+	Query: "MR.33697 institutioncode:MSU" ; Times: 2
+	Query: "neotomodon alstoni" ; Times: 1
+	Query: "MR.33696 institutioncode:MSU" ; Times: 1
+	Query: "mappable:1 scientificname:Tursiops truncatus" ; Times: 1
+	Query: "family:Ptilonorhynchidae class:Aves preparations:Egg" ; Times: 1
+	Query: "MR.10658 institutioncode:MSU" ; Times: 1
+	Query: "class:Mammalia county:&#34;Weber&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Rynchops" ; Times: 3
+	Query: "family:Coraciidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:albicauda genus:Ichneumia class:Mammalia" ; Times: 1
+	Query: "scientificname:Hippopotamus amphibius" ; Times: 1
+	Query: "scientificname:Ortalis cinereiceps" ; Times: 1
+	Query: "MR.16786 institutioncode:MSU" ; Times: 1
+	Query: "MR.2357 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "family:Rheidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "specificepithet: mungo genus: Mungos class:Mammalia" ; Times: 1
+	Query: "Canis rufus" ; Times: 11
+	Query: "MR.16575" ; Times: 1
+	Query: "MR.16577" ; Times: 1
+	Query: "family:Meliphagidae class:Aves preparations:Egg" ; Times: 1
+	Query: "MR.35068 institutioncode:MSU" ; Times: 2
+	Query: "specificepithet:vernalis genus:Opheodrys stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "MR.13274 institutioncode:MSU" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "MR.26280 institutioncode:MSU" ; Times: 2
+	Query: "MR.882 institutioncode:MSU" ; Times: 1
+	Query: "specificepithet:ellipsiprymnus genus:kobus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 6
+	Query: "vntype:specimen specificepithet:akool family:Rallidae" ; Times: 1
+	Query: "specificepithet:oreotragus genus:oreotragus" ; Times: 1
+	Query: "Castor canadensis united states" ; Times: 1
+	Query: "country:Ecuador scientificname:Mazama gualea " ; Times: 6
+	Query: "country:Ecuador scientificname:Lonchorhina aurita " ; Times: 3
+	Query: "MR.35845 institutioncode:MSU" ; Times: 2
+	Query: "catalognumber:16891" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "country:Ecuador scientificname:Galictis vittata " ; Times: 3
+	Query: "MR.8672 institutioncode:MSU" ; Times: 3
+	Query: "MR.22181 institutioncode:MSU" ; Times: 1
+	Query: "Tayassu" ; Times: 1
+	Query: "family:Stercorariidae class:Aves preparations:Egg" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 8
+	Query: "Lynx canadensis" ; Times: 2
+	Query: "MR.2603 institutioncode:MSU" ; Times: 2
+	Query: "Canis lupus Minnesota MSU" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "MR.8482 institutioncode:MSU" ; Times: 1
+	Query: "scientificname:Streptopelia decaocto" ; Times: 1
+	Query: "scientificname:Ortalis vetula" ; Times: 2
+	Query: "order:pholidota" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "cyanifrons colombia" ; Times: 1
+	Query: "MR.35990 institutioncode:MSU" ; Times: 2
+	Query: "specificepithet:oryx genus:Taurotragus" ; Times: 1
+	Query: "family:Haematopodidae class:Aves preparations:Egg" ; Times: 1
+	Query: "MR.879 institutioncode:MSU" ; Times: 1
+	Query: "family:Aegithalidae class:aves preparations:egg" ; Times: 1
+	Query: "scientificname:Panthera tigris" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 5
+	Query: "El Porvenir" ; Times: 1
+	Query: "MR.4754 institutioncode:MSU" ; Times: 1
+	Query: "country:&#34;United States&#34; Bassariscus astutus" ; Times: 1
+	Query: "country:Ecuador scientificname:Bradypus variegatus " ; Times: 4
+	Query: "scientificname:Nyctereutes procyonoides" ; Times: 1
+	Query: "country:Ecuador scientificname:Chiroderma villosum " ; Times: 2
+	Query: "MR.881 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "Dipodomys merriami ambiguus county:&#34;el paso&#34; stateprovince:&#34;texas&#34; year &gt;= 1965 year &lt;= 2020" ; Times: 1
+	Query: "Condylura cristata" ; Times: 3
+	Query: "country:Ecuador scientificname:Sturnira magna " ; Times: 2
+	Query: "vntype:specimen specificepithet:Volans genus:Glaucomys" ; Times: 1
+	Query: "Ovis aries" ; Times: 3
+	Query: "Microtus chrotorrhinus" ; Times: 2
+	Query: "specificepithet:melanurus genus:Peromyscus hassex:1" ; Times: 1
+	Query: "didelphis albiventris" ; Times: 2
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 5
+	Query: "family:Cracidae class:Aves preparations:Egg" ; Times: 1
+	Query: "MR.16709 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "family:Dicruridae class:Aves preparations:Egg" ; Times: 1
+	Query: "cyanifrons colombia santander" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllotis haggardi " ; Times: 2
+	Query: "Asio otus india" ; Times: 1
+	Query: "(saville)" ; Times: 1
+	Query: "MR.10658 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "Capra falconeri" ; Times: 1
+	Query: "family:Aramidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Eudyptula minor" ; Times: 1
+	Query: "Connochaetes taurinus sex:male" ; Times: 1
+	Query: "MR.2357" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Manis tricuspis" ; Times: 3
+	Query: "order:chiroptera country:&#34;tanzania&#34;" ; Times: 1
+	Query: "Sturgis" ; Times: 1
+	Query: "family:Tinamidae class:Aves preparations:Egg" ; Times: 1
+	Query: "MR.32625 institutioncode:MSU" ; Times: 1
+	Query: "sylvilagus floridanus orizabae" ; Times: 1
+	Query: "specificepithet:buselaphus genus:alcelaphus" ; Times: 1
+	Query: "MR.12977" ; Times: 1
+	Query: "MR.2603" ; Times: 1
+	Query: "MR.2600" ; Times: 5
+	Query: "MR.7754 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "MR.33687 institutioncode:MSU" ; Times: 2
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "genus:taxidea" ; Times: 1
+	Query: "Thomomys county:&#34;brewster&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:marsupialis genus:antidorcas" ; Times: 1
+	Query: "family:Climacteridae class:Aves preparations:Egg" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 3
+	Query: "Sula sula" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta punctata " ; Times: 1
+	Query: "MR.34400 institutioncode:MSU" ; Times: 2
+	Query: "specificepithet:grimmia genus:Sylvicapra" ; Times: 1
+	Query: "family:Polioptilidae class:aves preparations:egg" ; Times: 1
+	Query: "order:Artiodactyla class:Mammalia country:&#34;Tanzania&#34; continent:Africa" ; Times: 5
+	Query: "MR.23999 institutioncode:MSU" ; Times: 1
+	Query: "scientificname:Saguinus oedipus" ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys altissimus " ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "merriami parvus" ; Times: 1
+	Query: "MR.33688 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "Equus" ; Times: 1
+	Query: "MR.34390" ; Times: 1
+	Query: "MR.34392" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma magnirostrum " ; Times: 2
+	Query: "MR.6325 institutioncode:MSU" ; Times: 1
+	Query: "Saguinus geoffroyi" ; Times: 1
+	Query: "family:Monarchidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Pan troglodytes" ; Times: 1
+	Query: "MR.6324 institutioncode:MSU" ; Times: 2
+	Query: "Phalacrocorax bougainvillii" ; Times: 1
+	Query: "family:Tytonidae class:Aves preparations:Egg" ; Times: 1
+	Query: "MR.34824 institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus dorsalis " ; Times: 2
+	Query: "MR.2733 institutioncode:MSU" ; Times: 2
+	Query: "sorex arcticus" ; Times: 1
+	Query: "family:Certhiidae class:aves preparations:egg" ; Times: 1
+	Query: "specificepithet:putorius genus:Spilogale stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Procyon cancrivorus " ; Times: 2
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "MR.34823 institutioncode:MSU" ; Times: 1
+	Query: "family:Maluridae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:batesi genus:neotragus" ; Times: 1
+	Query: "scientificname:Gulo gulo" ; Times: 5
+	Query: "class:Aves stateprovince:&#34;New South Wales&#34; preparations:Egg" ; Times: 1
+	Query: "genus:Panthera continent:Africa" ; Times: 1
+	Query: "family:Psittacidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Florida&#34; country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "MR.33696 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "specificepithet:mungo genus:mungos country:&#34;tanzania&#34;" ; Times: 1
+	Query: "MR.2093" ; Times: 1
+	Query: "&#34;Procyon lotor&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34; year &gt;= 1965 year &lt;= 2020" ; Times: 1
+	Query: "&#34;Southwick&#34; Faroe" ; Times: 1
+	Query: "MR.10659 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "33842" ; Times: 1
+	Query: "33841" ; Times: 2
+	Query: "Desmodus Peru" ; Times: 1
+	Query: "specificepithet:spekii genus:tragelaphus" ; Times: 1
+	Query: "MR.4691 institutioncode:MSU" ; Times: 2
+	Query: "rhabdops" ; Times: 1
+	Query: "genus:neotoma county:&#34;los angeles&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Carriker 1964-04" ; Times: 3
+	Query: "specificepithet:niger genus: Hippotragus" ; Times: 1
+	Query: "taxidea taxus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Histiotus macrotus Chile" ; Times: 1
+	Query: "MR.6322 institutioncode:MSU" ; Times: 2
+	Query: "Carriker 1964-04-08" ; Times: 1
+	Query: "MR.33233 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "vntype:specimen specificepithet:haggardi genus:Phyllotis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "MR.29958 institutioncode:MSU" ; Times: 2
+	Query: "MR.11611 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "Odocoileus virginianus hasmass:1" ; Times: 3
+	Query: "scientificname:Bassariscus astutus" ; Times: 3
+	Query: "dinopium benghalense" ; Times: 2
+	Query: "MR.8484 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "Tragelaphus eurycerus" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "pteropus vampyrus" ; Times: 1
+	Query: "moles" ; Times: 1
+	Query: "family:Petroicidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Carriker 1964" ; Times: 6
+	Query: "country:Ecuador scientificname:Artibeus glaucus " ; Times: 2
+	Query: "MR.22459 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "Sorex longirostris" ; Times: 1
+	Query: "specificepithet:simulus genus:Peromyscus hassex:1" ; Times: 1
+	Query: "MR.15928 institutioncode:MSU" ; Times: 2
+	Query: "canis paleo" ; Times: 5
+	Query: "MR.3832 institutioncode:MSU" ; Times: 2
+	Query: "Tarapaca" ; Times: 1
+	Query: "MR.34509 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "MR.35974 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "scientificname:Ortalis wagleri" ; Times: 1
+	Query: "MR.8484 institutioncode:MSU" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 4
+	Query: "family:Pardalotidae class:Aves preparations:Egg" ; Times: 1
+	Query: "tayassu" ; Times: 1
+	Query: "family:Cotingidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Myotis septentrionalis stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "institutioncode:MSU" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 2
+	Query: "MR.4691 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "12803" ; Times: 2
+	Query: "MR.881 institutioncode:MSU" ; Times: 1
+	Query: "MR.10659 institutioncode:MSU" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus helleri " ; Times: 2
+	Query: "MR.4259" ; Times: 2
+	Query: "MR.4258" ; Times: 1
+	Query: "saltatricula multicolor" ; Times: 2
+	Query: "specificepithet:californicus genus:microtus year &gt;= 1970 year &lt;= 1986" ; Times: 1
+	Query: "family:Rhipiduridae class:Aves preparations:Egg" ; Times: 1
+	Query: "country:&#34;united states&#34; isfossil:1" ; Times: 1
+	Query: "MR.22181 class:mammalia institutioncode:MSU" ; Times: 1
+	Query: "scientificname:Lynx lynx" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 291 (out of 1521 download events in this period)
+Total number of records downloaded: 53238
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 107
+	Country: Netherlands ; Times: 3
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Ethiopia ; Times: 1
+	Country: Australia ; Times: 139
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 4
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 35
+	Date: 2020-10-18 ; Times: 4
+	Date: 2020-10-12 ; Times: 40
+	Date: 2020-10-13 ; Times: 5
+	Date: 2020-10-10 ; Times: 25
+	Date: 2020-10-11 ; Times: 25
+	Date: 2020-10-16 ; Times: 6
+	Date: 2020-10-31 ; Times: 16
+	Date: 2020-10-14 ; Times: 22
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-03 ; Times: 10
+	Date: 2020-10-23 ; Times: 15
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-21 ; Times: 9
+	Date: 2020-10-20 ; Times: 5
+	Date: 2020-10-27 ; Times: 3
+	Date: 2020-10-26 ; Times: 1
+	Date: 2020-10-25 ; Times: 2
+	Date: 2020-10-30 ; Times: 9
+	Date: 2020-10-29 ; Times: 3
+	Date: 2020-10-28 ; Times: 8
+	Date: 2020-10-05 ; Times: 12
+	Date: 2020-10-07 ; Times: 3
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-06 ; Times: 2
+	Date: 2020-10-02 ; Times: 27
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Motacillidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Mammalia Nayarit México" ; Times: 3
+	Query: "vntype:specimen specificepithet:tricuspis genus:manis" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "family:Estrildidae class:aves preparations:egg" ; Times: 2
+	Query: "ROMEROLAGUS DIAZI" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "family:Thraupidae class:Aves preparations:egg" ; Times: 1
+	Query: "family:Cracidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Phaethontidae class:Aves preparations:Egg" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "family:Cisticolidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Dicruridae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Podicipedidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Hydrobatidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Troglodytidae class:aves preparations:egg" ; Times: 1
+	Query: "order:SQUAMATA stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "family:Tyrannidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "family:Cardinalidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Apodidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Numididae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Apterygidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Aramidae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:afer genus:Orycteropus" ; Times: 1
+	Query: "family:Turdidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Laniidae class:Aves preparations:Egg" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "&#34;Procyon lotor&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34; year &gt;= 1965 year &lt;= 2020" ; Times: 1
+	Query: "family:Scolopacidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Ploceidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Blarina carolinensis" ; Times: 2
+	Query: "family:Trochilidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:Corvidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "family:Atrichornithidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:leche genus:kobus" ; Times: 1
+	Query: "family:Tinamidae class:Aves preparations:Egg" ; Times: 1
+	Query: "genus:Melanerpes aurifrons country:&#34;México&#34;" ; Times: 1
+	Query: "Gulo gulo" ; Times: 1
+	Query: "family:Cardinalidae class:Aves preparations:egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:Volans genus:Glaucomys" ; Times: 1
+	Query: "panthera tigris tigris" ; Times: 1
+	Query: "family:Otididae class:Aves preparations:Egg" ; Times: 1
+	Query: "Dasyprocta" ; Times: 1
+	Query: "family:Emberizidae class:Aves preparations:Egg" ; Times: 2
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "family:Gaviidae class:Aves preparations:Egg" ; Times: 1
+	Query: "CANIS LUPUS BAILEYI" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "genus:Lepus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:batesi genus:neotragus" ; Times: 1
+	Query: "family:Pachycephalidae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:spinosa genus:Jacana" ; Times: 1
+	Query: "family:Certhiidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Sorex palustris" ; Times: 2
+	Query: "family:Ardeidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "family:Meropidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Turdidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Scaphiopus holbrookii" ; Times: 1
+	Query: "family:Threskiornithidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Sittidae class:aves preparations:egg" ; Times: 1
+	Query: "specificepithet:marsupialis genus:antidorcas" ; Times: 1
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "family:Climacteridae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Pandionidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Sylviidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Passeridae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Sturnidae class:Aves preparations:Egg" ; Times: 1
+	Query: "anthus furcatus" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:Lagopus genus:vulpes" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "order:passeriformes lifestage:adult institutioncode:MSU hasmass:1" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Anhingidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "family:Polioptilidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Haematopodidae class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Artiodactyla class:Mammalia country:&#34;Tanzania&#34; continent:Africa" ; Times: 1
+	Query: "family:Cathartidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Furnariidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Chiroptera Peru" ; Times: 1
+	Query: "family:Icteridae class:Aves preparations:Egg" ; Times: 2
+	Query: "family:Remizidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Accipitridae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Alaudidae class:Aves preparations:Egg" ; Times: 2
+	Query: "specificepithet:niger genus:hippotragus" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "family:Muscicapidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Spheniscidae class:Aves preparations:Egg" ; Times: 1
+	Query: "genus:myrmecocichla" ; Times: 1
+	Query: "family:Regulidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Thraupidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Pomatostomidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Menuridae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;california&#34; country:&#34;United States&#34; year &gt;= 1950" ; Times: 1
+	Query: "family:Columbidae class:Aves preparations:Egg" ; Times: 1
+	Query: "class:aves preparations:taxidermy mount institutioncode:MSU" ; Times: 1
+	Query: "vntype:specimen specificepithet:aberti ferreus genus:sciurus" ; Times: 1
+	Query: "family:Estrildidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Monarchidae class:Aves preparations:Egg" ; Times: 1
+	Query: "skin vntype:specimen genus:Nucifraga columbiana country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Oriolidae class:Aves preparations:Egg" ; Times: 1
+	Query: "genus:Melanerpes country:&#34;México&#34;" ; Times: 2
+	Query: "family:Cinclidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Sylviidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Mimidae class:aves preparations:egg" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "order:testudines stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Florida&#34; country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "family:Ciconiidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Falconidae class:Aves preparations:Egg" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "vntype:specimen specificepithet:coruscans genus:Colibri" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 2
+	Query: "specificepithet:melampus genus:aepyceros" ; Times: 1
+	Query: "family:Phasianidae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:punctata genus:Dasyprocta country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes" ; Times: 1
+	Query: "family:Charadriidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Certhiidae class:aves preparations:egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:haggardi genus:Phyllotis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "family:Regulidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Florida&#34; year &gt;= 1965 year &lt;= 2020" ; Times: 1
+	Query: "family:Maluridae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen order:Bucerotiformes" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "genus:Catharus hasmass:1" ; Times: 1
+	Query: "family:Megapodiidae class:Aves preparations:Egg" ; Times: 1
+	Query: "class:Aves country:&#34;Australia&#34; preparations:Egg" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "family:Hirundinidae class:Aves preparations:Egg" ; Times: 2
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "family:Laridae class:Aves preparations:Egg" ; Times: 1
+	Query: "Caracara plancus" ; Times: 1
+	Query: "family:elephantidae" ; Times: 1
+	Query: "Agkistrodon" ; Times: 1
+	Query: "specificepithet:grimmia genus:Sylvicapra" ; Times: 1
+	Query: "family:Emberizidae class:aves preparations:egg" ; Times: 2
+	Query: "order:Artiodactyla institutioncode:MSU" ; Times: 1
+	Query: "family:Rallidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Psittacidae class:Aves preparations:Egg" ; Times: 1
+	Query: "neotomodon alstoni" ; Times: 1
+	Query: "family:Passeridae class:aves preparations:egg" ; Times: 1
+	Query: "family:Motacillidae class:aves preparations:egg" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "family:Odontophoridae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Tytonidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Ptilonorhynchidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Icteridae class:Aves preparations:egg" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "class:Mammalia county:&#34;Weber&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "family:Anatidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:albifrons genus:Sterna" ; Times: 1
+	Query: "family:Parulidae class:Aves preparations:egg" ; Times: 1
+	Query: "family:Coraciidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Sittidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:campestris genus:raphicerus" ; Times: 1
+	Query: "family:Recurvirostridae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Procellariidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Fringillidae class:Aves preparations:egg" ; Times: 1
+	Query: "specificepithet:spekii genus:tragelaphus" ; Times: 1
+	Query: "family:Rheidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Desmodus Peru" ; Times: 1
+	Query: "family:Caprimulgidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Meliphagidae class:Aves preparations:Egg" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "family:Troglodytidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Sturnidae class:aves preparations:egg" ; Times: 1
+	Query: "vntype:specimen family:Bucerotidae" ; Times: 1
+	Query: "family:Glareolidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Campephagidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Mimidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Chiroptera Chile" ; Times: 2
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "family:Fringillidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Struthionidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:ellipsiprymnus genus:kobus" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "family:Alcedinidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Muscicapidae class:Aves preparations:Egg" ; Times: 1
+	Query: "aves brazil" ; Times: 1
+	Query: "specificepithet:oreotragus genus:oreotragus" ; Times: 1
+	Query: "specificepithet:arundinum genus:redunca" ; Times: 1
+	Query: "family:Aegithalidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus" ; Times: 2
+	Query: "Sorex fumeus" ; Times: 4
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "family:Vireonidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Alcidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Parulidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvescens genus:Oligoryzomys country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:mollis genus:Akodon country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Sorex longirostris" ; Times: 2
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "herpestes auropunctatus" ; Times: 1
+	Query: "specificepithet:granti genus:gazella" ; Times: 1
+	Query: "family:Diomedeidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:Cinclidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Ploceidae class:aves preparations:egg" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:MSU" ; Times: 1
+	Query: "family:Polioptilidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Stercorariidae class:Aves preparations:Egg" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "family:Pelecanidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Sulidae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:altissimus genus:Microryzomys country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "class:Mammalia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Neotoma palatina" ; Times: 1
+	Query: "family:Pardalotidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "family:Emberizidae class:Aves preparations:egg" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "order:pholidota" ; Times: 1
+	Query: "vntype:specimen specificepithet:lewis genus:melanerpes country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:strepsiceros genus:tragelaphus" ; Times: 1
+	Query: "family:Cotingidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "specificepithet:oryx genus:Taurotragus" ; Times: 1
+	Query: "family:Corcoracidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Phalacrocoracidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Bombycillidae class:Aves preparations:Egg" ; Times: 2
+	Query: "Myotis" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "family:Fregatidae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen family:Ramphastidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicanus genus:Reithrodontomys country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "family:Strigidae class:Aves preparations:Egg" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 2
+	Query: "family:Petroicidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Cisticolidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Picidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Aegithalidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Phoenicopteridae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Gruidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Fringillidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Heteromyidae isfossil:1" ; Times: 1
+	Query: "family:Paridae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Rhipiduridae class:Aves preparations:Egg" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "family:Cuculidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Spilogale pygmaea" ; Times: 3
+	Query: "Sorex dispar" ; Times: 2
+	Query: "family:Artamidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 3
+
+
+End of report.
